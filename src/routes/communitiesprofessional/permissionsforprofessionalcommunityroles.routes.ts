@@ -1,0 +1,13 @@
+import { Router } from 'express';
+import { permissionsForProfessionalCommunityrolesController } from '../../controllers/communitiesprofessional/permissionsforprofessionalcommunityroles.controller';
+
+const permissionsforprofessionalcommunityrolesRoutes: Router = Router();
+
+permissionsforprofessionalcommunityrolesRoutes.post('/create', permissionsForProfessionalCommunityrolesController.createPermission);
+permissionsforprofessionalcommunityrolesRoutes.post('/update', permissionsForProfessionalCommunityrolesController.updatePermission);
+permissionsforprofessionalcommunityrolesRoutes.post('/delete', permissionsForProfessionalCommunityrolesController.deletePermission);
+permissionsforprofessionalcommunityrolesRoutes.post('/get/id', permissionsForProfessionalCommunityrolesController.getPermissionbyId);
+permissionsforprofessionalcommunityrolesRoutes.get('/get/activePermissions', permissionsForProfessionalCommunityrolesController.getAllPermissionActive);
+permissionsforprofessionalcommunityrolesRoutes.get('/get/inactivePermissions', permissionsForProfessionalCommunityrolesController.getAllPermissionInavtive);
+
+export default permissionsforprofessionalcommunityrolesRoutes;

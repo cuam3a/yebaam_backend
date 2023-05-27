@@ -1,0 +1,9999 @@
+﻿{
+	"estados": [
+		{
+			"estado_id": 1,
+			"pais_id": 3,
+			"estadonombre": "Azerbaijan"
+		},
+		{
+			"estado_id": 2,
+			"pais_id": 3,
+			"estadonombre": "Nargorni Karabakh"
+		},
+		{
+			"estado_id": 3,
+			"pais_id": 3,
+			"estadonombre": "Nakhichevanskaya Region"
+		},
+		{
+			"estado_id": 4,
+			"pais_id": 4,
+			"estadonombre": "Anguilla"
+		},
+		{
+			"estado_id": 5,
+			"pais_id": 7,
+			"estadonombre": "Brestskaya obl."
+		},
+		{
+			"estado_id": 6,
+			"pais_id": 7,
+			"estadonombre": "Vitebskaya obl."
+		},
+		{
+			"estado_id": 7,
+			"pais_id": 7,
+			"estadonombre": "Gomelskaya obl."
+		},
+		{
+			"estado_id": 8,
+			"pais_id": 7,
+			"estadonombre": "Grodnenskaya obl."
+		},
+		{
+			"estado_id": 9,
+			"pais_id": 7,
+			"estadonombre": "Minskaya obl."
+		},
+		{
+			"estado_id": 10,
+			"pais_id": 7,
+			"estadonombre": "Mogilevskaya obl."
+		},
+		{
+			"estado_id": 11,
+			"pais_id": 8,
+			"estadonombre": "Belize"
+		},
+		{
+			"estado_id": 12,
+			"pais_id": 10,
+			"estadonombre": "Hamilton"
+		},
+		{
+			"estado_id": 13,
+			"pais_id": 15,
+			"estadonombre": "Dong Bang Song Cuu Long"
+		},
+		{
+			"estado_id": 14,
+			"pais_id": 15,
+			"estadonombre": "Dong Bang Song Hong"
+		},
+		{
+			"estado_id": 15,
+			"pais_id": 15,
+			"estadonombre": "Dong Nam Bo"
+		},
+		{
+			"estado_id": 16,
+			"pais_id": 15,
+			"estadonombre": "Duyen Hai Mien Trung"
+		},
+		{
+			"estado_id": 17,
+			"pais_id": 15,
+			"estadonombre": "Khu Bon Cu"
+		},
+		{
+			"estado_id": 18,
+			"pais_id": 15,
+			"estadonombre": "Mien Nui Va Trung Du"
+		},
+		{
+			"estado_id": 19,
+			"pais_id": 15,
+			"estadonombre": "Thai Nguyen"
+		},
+		{
+			"estado_id": 20,
+			"pais_id": 16,
+			"estadonombre": "Artibonite"
+		},
+		{
+			"estado_id": 21,
+			"pais_id": 16,
+			"estadonombre": "GrandAnse"
+		},
+		{
+			"estado_id": 22,
+			"pais_id": 16,
+			"estadonombre": "North West"
+		},
+		{
+			"estado_id": 23,
+			"pais_id": 16,
+			"estadonombre": "West"
+		},
+		{
+			"estado_id": 24,
+			"pais_id": 16,
+			"estadonombre": "South"
+		},
+		{
+			"estado_id": 25,
+			"pais_id": 16,
+			"estadonombre": "South East"
+		},
+		{
+			"estado_id": 26,
+			"pais_id": 17,
+			"estadonombre": "Grande-Terre"
+		},
+		{
+			"estado_id": 27,
+			"pais_id": 17,
+			"estadonombre": "Basse-Terre"
+		},
+		{
+			"estado_id": 28,
+			"pais_id": 21,
+			"estadonombre": "Abkhazia"
+		},
+		{
+			"estado_id": 29,
+			"pais_id": 21,
+			"estadonombre": "Ajaria"
+		},
+		{
+			"estado_id": 30,
+			"pais_id": 21,
+			"estadonombre": "Georgia"
+		},
+		{
+			"estado_id": 31,
+			"pais_id": 21,
+			"estadonombre": "South Ossetia"
+		},
+		{
+			"estado_id": 32,
+			"pais_id": 23,
+			"estadonombre": "Al QÃ„Â�hira"
+		},
+		{
+			"estado_id": 33,
+			"pais_id": 23,
+			"estadonombre": "Aswan"
+		},
+		{
+			"estado_id": 34,
+			"pais_id": 23,
+			"estadonombre": "Asyut"
+		},
+		{
+			"estado_id": 35,
+			"pais_id": 23,
+			"estadonombre": "Beni Suef"
+		},
+		{
+			"estado_id": 36,
+			"pais_id": 23,
+			"estadonombre": "Gharbia"
+		},
+		{
+			"estado_id": 37,
+			"pais_id": 23,
+			"estadonombre": "Damietta"
+		},
+		{
+			"estado_id": 38,
+			"pais_id": 24,
+			"estadonombre": "Southern District"
+		},
+		{
+			"estado_id": 39,
+			"pais_id": 24,
+			"estadonombre": "Central District"
+		},
+		{
+			"estado_id": 40,
+			"pais_id": 24,
+			"estadonombre": "Northern District"
+		},
+		{
+			"estado_id": 41,
+			"pais_id": 24,
+			"estadonombre": "Haifa"
+		},
+		{
+			"estado_id": 42,
+			"pais_id": 24,
+			"estadonombre": "Tel Aviv"
+		},
+		{
+			"estado_id": 43,
+			"pais_id": 24,
+			"estadonombre": "Jerusalem"
+		},
+		{
+			"estado_id": 44,
+			"pais_id": 25,
+			"estadonombre": "Bangala"
+		},
+		{
+			"estado_id": 45,
+			"pais_id": 25,
+			"estadonombre": "Chhattisgarh"
+		},
+		{
+			"estado_id": 46,
+			"pais_id": 25,
+			"estadonombre": "Karnataka"
+		},
+		{
+			"estado_id": 47,
+			"pais_id": 25,
+			"estadonombre": "Uttaranchal"
+		},
+		{
+			"estado_id": 48,
+			"pais_id": 25,
+			"estadonombre": "Andhara Pradesh"
+		},
+		{
+			"estado_id": 49,
+			"pais_id": 25,
+			"estadonombre": "Assam"
+		},
+		{
+			"estado_id": 50,
+			"pais_id": 25,
+			"estadonombre": "Bihar"
+		},
+		{
+			"estado_id": 51,
+			"pais_id": 25,
+			"estadonombre": "Gujarat"
+		},
+		{
+			"estado_id": 52,
+			"pais_id": 25,
+			"estadonombre": "Jammu and Kashmir"
+		},
+		{
+			"estado_id": 53,
+			"pais_id": 25,
+			"estadonombre": "Kerala"
+		},
+		{
+			"estado_id": 54,
+			"pais_id": 25,
+			"estadonombre": "Madhya Pradesh"
+		},
+		{
+			"estado_id": 55,
+			"pais_id": 25,
+			"estadonombre": "Manipur"
+		},
+		{
+			"estado_id": 56,
+			"pais_id": 25,
+			"estadonombre": "Maharashtra"
+		},
+		{
+			"estado_id": 57,
+			"pais_id": 25,
+			"estadonombre": "Megahalaya"
+		},
+		{
+			"estado_id": 58,
+			"pais_id": 25,
+			"estadonombre": "Orissa"
+		},
+		{
+			"estado_id": 59,
+			"pais_id": 25,
+			"estadonombre": "Punjab"
+		},
+		{
+			"estado_id": 60,
+			"pais_id": 25,
+			"estadonombre": "Pondisheri"
+		},
+		{
+			"estado_id": 61,
+			"pais_id": 25,
+			"estadonombre": "Rajasthan"
+		},
+		{
+			"estado_id": 62,
+			"pais_id": 25,
+			"estadonombre": "Tamil Nadu"
+		},
+		{
+			"estado_id": 63,
+			"pais_id": 25,
+			"estadonombre": "Tripura"
+		},
+		{
+			"estado_id": 64,
+			"pais_id": 25,
+			"estadonombre": "Uttar Pradesh"
+		},
+		{
+			"estado_id": 65,
+			"pais_id": 25,
+			"estadonombre": "Haryana"
+		},
+		{
+			"estado_id": 66,
+			"pais_id": 25,
+			"estadonombre": "Chandigarh"
+		},
+		{
+			"estado_id": 67,
+			"pais_id": 26,
+			"estadonombre": "Azarbayjan-e Khavari"
+		},
+		{
+			"estado_id": 68,
+			"pais_id": 26,
+			"estadonombre": "Esfahan"
+		},
+		{
+			"estado_id": 69,
+			"pais_id": 26,
+			"estadonombre": "Hamadan"
+		},
+		{
+			"estado_id": 70,
+			"pais_id": 26,
+			"estadonombre": "Kordestan"
+		},
+		{
+			"estado_id": 71,
+			"pais_id": 26,
+			"estadonombre": "Markazi"
+		},
+		{
+			"estado_id": 72,
+			"pais_id": 26,
+			"estadonombre": "Sistan-e Baluches"
+		},
+		{
+			"estado_id": 73,
+			"pais_id": 26,
+			"estadonombre": "Yazd"
+		},
+		{
+			"estado_id": 74,
+			"pais_id": 26,
+			"estadonombre": "Kerman"
+		},
+		{
+			"estado_id": 75,
+			"pais_id": 26,
+			"estadonombre": "Kermanshakhan"
+		},
+		{
+			"estado_id": 76,
+			"pais_id": 26,
+			"estadonombre": "Mazenderan"
+		},
+		{
+			"estado_id": 77,
+			"pais_id": 26,
+			"estadonombre": "Tehran"
+		},
+		{
+			"estado_id": 78,
+			"pais_id": 26,
+			"estadonombre": "Fars"
+		},
+		{
+			"estado_id": 79,
+			"pais_id": 26,
+			"estadonombre": "Horasan"
+		},
+		{
+			"estado_id": 80,
+			"pais_id": 26,
+			"estadonombre": "Husistan"
+		},
+		{
+			"estado_id": 81,
+			"pais_id": 30,
+			"estadonombre": "Aktyubinskaya obl."
+		},
+		{
+			"estado_id": 82,
+			"pais_id": 30,
+			"estadonombre": "Alma-Atinskaya obl."
+		},
+		{
+			"estado_id": 83,
+			"pais_id": 30,
+			"estadonombre": "Vostochno-Kazahstanskaya obl."
+		},
+		{
+			"estado_id": 84,
+			"pais_id": 30,
+			"estadonombre": "Gurevskaya obl."
+		},
+		{
+			"estado_id": 85,
+			"pais_id": 30,
+			"estadonombre": "Zhambylskaya obl. (Dzhambulskaya obl.)"
+		},
+		{
+			"estado_id": 86,
+			"pais_id": 30,
+			"estadonombre": "Dzhezkazganskaya obl."
+		},
+		{
+			"estado_id": 87,
+			"pais_id": 30,
+			"estadonombre": "Karagandinskaya obl."
+		},
+		{
+			"estado_id": 88,
+			"pais_id": 30,
+			"estadonombre": "Kzyl-Ordinskaya obl."
+		},
+		{
+			"estado_id": 89,
+			"pais_id": 30,
+			"estadonombre": "Kokchetavskaya obl."
+		},
+		{
+			"estado_id": 90,
+			"pais_id": 30,
+			"estadonombre": "Kustanaiskaya obl."
+		},
+		{
+			"estado_id": 91,
+			"pais_id": 30,
+			"estadonombre": "Mangystauskaya (Mangyshlakskaya obl.)"
+		},
+		{
+			"estado_id": 92,
+			"pais_id": 30,
+			"estadonombre": "Pavlodarskaya obl."
+		},
+		{
+			"estado_id": 93,
+			"pais_id": 30,
+			"estadonombre": "Severo-Kazahstanskaya obl."
+		},
+		{
+			"estado_id": 94,
+			"pais_id": 30,
+			"estadonombre": "Taldy-Kurganskaya obl."
+		},
+		{
+			"estado_id": 95,
+			"pais_id": 30,
+			"estadonombre": "Turgaiskaya obl."
+		},
+		{
+			"estado_id": 96,
+			"pais_id": 30,
+			"estadonombre": "Akmolinskaya obl. (Tselinogradskaya obl.)"
+		},
+		{
+			"estado_id": 97,
+			"pais_id": 30,
+			"estadonombre": "Chimkentskaya obl."
+		},
+		{
+			"estado_id": 98,
+			"pais_id": 31,
+			"estadonombre": "Littoral"
+		},
+		{
+			"estado_id": 99,
+			"pais_id": 31,
+			"estadonombre": "Southwest Region"
+		},
+		{
+			"estado_id": 100,
+			"pais_id": 31,
+			"estadonombre": "North"
+		},
+		{
+			"estado_id": 101,
+			"pais_id": 31,
+			"estadonombre": "Central"
+		},
+		{
+			"estado_id": 102,
+			"pais_id": 33,
+			"estadonombre": "Government controlled area"
+		},
+		{
+			"estado_id": 103,
+			"pais_id": 33,
+			"estadonombre": "Turkish controlled area"
+		},
+		{
+			"estado_id": 104,
+			"pais_id": 34,
+			"estadonombre": "Issik Kulskaya Region"
+		},
+		{
+			"estado_id": 105,
+			"pais_id": 34,
+			"estadonombre": "Kyrgyzstan"
+		},
+		{
+			"estado_id": 106,
+			"pais_id": 34,
+			"estadonombre": "Narinskaya Region"
+		},
+		{
+			"estado_id": 107,
+			"pais_id": 34,
+			"estadonombre": "Oshskaya Region"
+		},
+		{
+			"estado_id": 108,
+			"pais_id": 34,
+			"estadonombre": "Tallaskaya Region"
+		},
+		{
+			"estado_id": 109,
+			"pais_id": 37,
+			"estadonombre": "al-Jahra"
+		},
+		{
+			"estado_id": 110,
+			"pais_id": 37,
+			"estadonombre": "al-Kuwait"
+		},
+		{
+			"estado_id": 111,
+			"pais_id": 38,
+			"estadonombre": "Latviya"
+		},
+		{
+			"estado_id": 112,
+			"pais_id": 39,
+			"estadonombre": "Tarabulus"
+		},
+		{
+			"estado_id": 113,
+			"pais_id": 39,
+			"estadonombre": "Bengasi"
+		},
+		{
+			"estado_id": 114,
+			"pais_id": 40,
+			"estadonombre": "Litva"
+		},
+		{
+			"estado_id": 115,
+			"pais_id": 43,
+			"estadonombre": "Moldova"
+		},
+		{
+			"estado_id": 116,
+			"pais_id": 45,
+			"estadonombre": "Auckland"
+		},
+		{
+			"estado_id": 117,
+			"pais_id": 45,
+			"estadonombre": "Bay of Plenty"
+		},
+		{
+			"estado_id": 118,
+			"pais_id": 45,
+			"estadonombre": "Canterbury"
+		},
+		{
+			"estado_id": 119,
+			"pais_id": 45,
+			"estadonombre": "Gisborne"
+		},
+		{
+			"estado_id": 120,
+			"pais_id": 45,
+			"estadonombre": "Hawkes Bay"
+		},
+		{
+			"estado_id": 121,
+			"pais_id": 45,
+			"estadonombre": "Manawatu-Wanganui"
+		},
+		{
+			"estado_id": 122,
+			"pais_id": 45,
+			"estadonombre": "Marlborough"
+		},
+		{
+			"estado_id": 123,
+			"pais_id": 45,
+			"estadonombre": "Nelson"
+		},
+		{
+			"estado_id": 124,
+			"pais_id": 45,
+			"estadonombre": "Northland"
+		},
+		{
+			"estado_id": 125,
+			"pais_id": 45,
+			"estadonombre": "Otago"
+		},
+		{
+			"estado_id": 126,
+			"pais_id": 45,
+			"estadonombre": "Southland"
+		},
+		{
+			"estado_id": 127,
+			"pais_id": 45,
+			"estadonombre": "Taranaki"
+		},
+		{
+			"estado_id": 128,
+			"pais_id": 45,
+			"estadonombre": "Tasman"
+		},
+		{
+			"estado_id": 129,
+			"pais_id": 45,
+			"estadonombre": "Waikato"
+		},
+		{
+			"estado_id": 130,
+			"pais_id": 45,
+			"estadonombre": "Wellington"
+		},
+		{
+			"estado_id": 131,
+			"pais_id": 45,
+			"estadonombre": "West Coast"
+		},
+		{
+			"estado_id": 132,
+			"pais_id": 49,
+			"estadonombre": "Saint-Denis"
+		},
+		{
+			"estado_id": 133,
+			"pais_id": 50,
+			"estadonombre": "Altaiskii krai"
+		},
+		{
+			"estado_id": 134,
+			"pais_id": 50,
+			"estadonombre": "Amurskaya obl."
+		},
+		{
+			"estado_id": 135,
+			"pais_id": 50,
+			"estadonombre": "Arhangelskaya obl."
+		},
+		{
+			"estado_id": 136,
+			"pais_id": 50,
+			"estadonombre": "Astrahanskaya obl."
+		},
+		{
+			"estado_id": 137,
+			"pais_id": 50,
+			"estadonombre": "Bashkiriya obl."
+		},
+		{
+			"estado_id": 138,
+			"pais_id": 50,
+			"estadonombre": "Belgorodskaya obl."
+		},
+		{
+			"estado_id": 139,
+			"pais_id": 50,
+			"estadonombre": "Bryanskaya obl."
+		},
+		{
+			"estado_id": 140,
+			"pais_id": 50,
+			"estadonombre": "Buryatiya"
+		},
+		{
+			"estado_id": 141,
+			"pais_id": 50,
+			"estadonombre": "Vladimirskaya obl."
+		},
+		{
+			"estado_id": 142,
+			"pais_id": 50,
+			"estadonombre": "Volgogradskaya obl."
+		},
+		{
+			"estado_id": 143,
+			"pais_id": 50,
+			"estadonombre": "Vologodskaya obl."
+		},
+		{
+			"estado_id": 144,
+			"pais_id": 50,
+			"estadonombre": "Voronezhskaya obl."
+		},
+		{
+			"estado_id": 145,
+			"pais_id": 50,
+			"estadonombre": "Nizhegorodskaya obl."
+		},
+		{
+			"estado_id": 146,
+			"pais_id": 50,
+			"estadonombre": "Dagestan"
+		},
+		{
+			"estado_id": 147,
+			"pais_id": 50,
+			"estadonombre": "Evreiskaya obl."
+		},
+		{
+			"estado_id": 148,
+			"pais_id": 50,
+			"estadonombre": "Ivanovskaya obl."
+		},
+		{
+			"estado_id": 149,
+			"pais_id": 50,
+			"estadonombre": "Irkutskaya obl."
+		},
+		{
+			"estado_id": 150,
+			"pais_id": 50,
+			"estadonombre": "Kabardino-Balkariya"
+		},
+		{
+			"estado_id": 151,
+			"pais_id": 50,
+			"estadonombre": "Kaliningradskaya obl."
+		},
+		{
+			"estado_id": 152,
+			"pais_id": 50,
+			"estadonombre": "Tverskaya obl."
+		},
+		{
+			"estado_id": 153,
+			"pais_id": 50,
+			"estadonombre": "Kalmykiya"
+		},
+		{
+			"estado_id": 154,
+			"pais_id": 50,
+			"estadonombre": "Kaluzhskaya obl."
+		},
+		{
+			"estado_id": 155,
+			"pais_id": 50,
+			"estadonombre": "Kamchatskaya obl."
+		},
+		{
+			"estado_id": 156,
+			"pais_id": 50,
+			"estadonombre": "Kareliya"
+		},
+		{
+			"estado_id": 157,
+			"pais_id": 50,
+			"estadonombre": "Kemerovskaya obl."
+		},
+		{
+			"estado_id": 158,
+			"pais_id": 50,
+			"estadonombre": "Kirovskaya obl."
+		},
+		{
+			"estado_id": 159,
+			"pais_id": 50,
+			"estadonombre": "Komi"
+		},
+		{
+			"estado_id": 160,
+			"pais_id": 50,
+			"estadonombre": "Kostromskaya obl."
+		},
+		{
+			"estado_id": 161,
+			"pais_id": 50,
+			"estadonombre": "Krasnodarskii krai"
+		},
+		{
+			"estado_id": 162,
+			"pais_id": 50,
+			"estadonombre": "Krasnoyarskii krai"
+		},
+		{
+			"estado_id": 163,
+			"pais_id": 50,
+			"estadonombre": "Kurganskaya obl."
+		},
+		{
+			"estado_id": 164,
+			"pais_id": 50,
+			"estadonombre": "Kurskaya obl."
+		},
+		{
+			"estado_id": 165,
+			"pais_id": 50,
+			"estadonombre": "Lipetskaya obl."
+		},
+		{
+			"estado_id": 166,
+			"pais_id": 50,
+			"estadonombre": "Magadanskaya obl."
+		},
+		{
+			"estado_id": 167,
+			"pais_id": 50,
+			"estadonombre": "Marii El"
+		},
+		{
+			"estado_id": 168,
+			"pais_id": 50,
+			"estadonombre": "Mordoviya"
+		},
+		{
+			"estado_id": 169,
+			"pais_id": 50,
+			"estadonombre": "Moscow Y Moscow Region"
+		},
+		{
+			"estado_id": 170,
+			"pais_id": 50,
+			"estadonombre": "Murmanskaya obl."
+		},
+		{
+			"estado_id": 171,
+			"pais_id": 50,
+			"estadonombre": "Novgorodskaya obl."
+		},
+		{
+			"estado_id": 172,
+			"pais_id": 50,
+			"estadonombre": "Novosibirskaya obl."
+		},
+		{
+			"estado_id": 173,
+			"pais_id": 50,
+			"estadonombre": "Omskaya obl."
+		},
+		{
+			"estado_id": 174,
+			"pais_id": 50,
+			"estadonombre": "Orenburgskaya obl."
+		},
+		{
+			"estado_id": 175,
+			"pais_id": 50,
+			"estadonombre": "Orlovskaya obl."
+		},
+		{
+			"estado_id": 176,
+			"pais_id": 50,
+			"estadonombre": "Penzenskaya obl."
+		},
+		{
+			"estado_id": 177,
+			"pais_id": 50,
+			"estadonombre": "Permskiy krai"
+		},
+		{
+			"estado_id": 178,
+			"pais_id": 50,
+			"estadonombre": "Primorskii krai"
+		},
+		{
+			"estado_id": 179,
+			"pais_id": 50,
+			"estadonombre": "Pskovskaya obl."
+		},
+		{
+			"estado_id": 180,
+			"pais_id": 50,
+			"estadonombre": "Rostovskaya obl."
+		},
+		{
+			"estado_id": 181,
+			"pais_id": 50,
+			"estadonombre": "Ryazanskaya obl."
+		},
+		{
+			"estado_id": 182,
+			"pais_id": 50,
+			"estadonombre": "Samarskaya obl."
+		},
+		{
+			"estado_id": 183,
+			"pais_id": 50,
+			"estadonombre": "Saint-Petersburg and Region"
+		},
+		{
+			"estado_id": 184,
+			"pais_id": 50,
+			"estadonombre": "Saratovskaya obl."
+		},
+		{
+			"estado_id": 185,
+			"pais_id": 50,
+			"estadonombre": "Saha (Yakutiya)"
+		},
+		{
+			"estado_id": 186,
+			"pais_id": 50,
+			"estadonombre": "Sahalin"
+		},
+		{
+			"estado_id": 187,
+			"pais_id": 50,
+			"estadonombre": "Sverdlovskaya obl."
+		},
+		{
+			"estado_id": 188,
+			"pais_id": 50,
+			"estadonombre": "Severnaya Osetiya"
+		},
+		{
+			"estado_id": 189,
+			"pais_id": 50,
+			"estadonombre": "Smolenskaya obl."
+		},
+		{
+			"estado_id": 190,
+			"pais_id": 50,
+			"estadonombre": "Stavropolskii krai"
+		},
+		{
+			"estado_id": 191,
+			"pais_id": 50,
+			"estadonombre": "Tambovskaya obl."
+		},
+		{
+			"estado_id": 192,
+			"pais_id": 50,
+			"estadonombre": "Tatarstan"
+		},
+		{
+			"estado_id": 193,
+			"pais_id": 50,
+			"estadonombre": "Tomskaya obl."
+		},
+		{
+			"estado_id": 195,
+			"pais_id": 50,
+			"estadonombre": "Tulskaya obl."
+		},
+		{
+			"estado_id": 196,
+			"pais_id": 50,
+			"estadonombre": "Tyumenskaya obl. i Hanty-Mansiiskii AO"
+		},
+		{
+			"estado_id": 197,
+			"pais_id": 50,
+			"estadonombre": "Udmurtiya"
+		},
+		{
+			"estado_id": 198,
+			"pais_id": 50,
+			"estadonombre": "Ulyanovskaya obl."
+		},
+		{
+			"estado_id": 199,
+			"pais_id": 50,
+			"estadonombre": "Uralskaya obl."
+		},
+		{
+			"estado_id": 200,
+			"pais_id": 50,
+			"estadonombre": "Habarovskii krai"
+		},
+		{
+			"estado_id": 201,
+			"pais_id": 50,
+			"estadonombre": "Chelyabinskaya obl."
+		},
+		{
+			"estado_id": 202,
+			"pais_id": 50,
+			"estadonombre": "Checheno-Ingushetiya"
+		},
+		{
+			"estado_id": 203,
+			"pais_id": 50,
+			"estadonombre": "Chitinskaya obl."
+		},
+		{
+			"estado_id": 204,
+			"pais_id": 50,
+			"estadonombre": "Chuvashiya"
+		},
+		{
+			"estado_id": 205,
+			"pais_id": 50,
+			"estadonombre": "Yaroslavskaya obl."
+		},
+		{
+			"estado_id": 206,
+			"pais_id": 51,
+			"estadonombre": "Ahuachapán"
+		},
+		{
+			"estado_id": 207,
+			"pais_id": 51,
+			"estadonombre": "Cuscatlán"
+		},
+		{
+			"estado_id": 208,
+			"pais_id": 51,
+			"estadonombre": "La Libertad"
+		},
+		{
+			"estado_id": 209,
+			"pais_id": 51,
+			"estadonombre": "La Paz"
+		},
+		{
+			"estado_id": 210,
+			"pais_id": 51,
+			"estadonombre": "La Unión"
+		},
+		{
+			"estado_id": 211,
+			"pais_id": 51,
+			"estadonombre": "San Miguel"
+		},
+		{
+			"estado_id": 212,
+			"pais_id": 51,
+			"estadonombre": "San Salvador"
+		},
+		{
+			"estado_id": 213,
+			"pais_id": 51,
+			"estadonombre": "Santa Ana"
+		},
+		{
+			"estado_id": 214,
+			"pais_id": 51,
+			"estadonombre": "Sonsonate"
+		},
+		{
+			"estado_id": 215,
+			"pais_id": 54,
+			"estadonombre": "Paramaribo"
+		},
+		{
+			"estado_id": 216,
+			"pais_id": 56,
+			"estadonombre": "Gorno-Badakhshan Region"
+		},
+		{
+			"estado_id": 217,
+			"pais_id": 56,
+			"estadonombre": "Kuljabsk Region"
+		},
+		{
+			"estado_id": 218,
+			"pais_id": 56,
+			"estadonombre": "Kurgan-Tjube Region"
+		},
+		{
+			"estado_id": 219,
+			"pais_id": 56,
+			"estadonombre": "Sughd Region"
+		},
+		{
+			"estado_id": 220,
+			"pais_id": 56,
+			"estadonombre": "Tajikistan"
+		},
+		{
+			"estado_id": 221,
+			"pais_id": 57,
+			"estadonombre": "Ashgabat Region"
+		},
+		{
+			"estado_id": 222,
+			"pais_id": 57,
+			"estadonombre": "Krasnovodsk Region"
+		},
+		{
+			"estado_id": 223,
+			"pais_id": 57,
+			"estadonombre": "Mary Region"
+		},
+		{
+			"estado_id": 224,
+			"pais_id": 57,
+			"estadonombre": "Tashauz Region"
+		},
+		{
+			"estado_id": 225,
+			"pais_id": 57,
+			"estadonombre": "Chardzhou Region"
+		},
+		{
+			"estado_id": 226,
+			"pais_id": 58,
+			"estadonombre": "Grand Turk"
+		},
+		{
+			"estado_id": 227,
+			"pais_id": 59,
+			"estadonombre": "Bartin"
+		},
+		{
+			"estado_id": 228,
+			"pais_id": 59,
+			"estadonombre": "Bayburt"
+		},
+		{
+			"estado_id": 229,
+			"pais_id": 59,
+			"estadonombre": "Karabuk"
+		},
+		{
+			"estado_id": 230,
+			"pais_id": 59,
+			"estadonombre": "Adana"
+		},
+		{
+			"estado_id": 231,
+			"pais_id": 59,
+			"estadonombre": "Aydin"
+		},
+		{
+			"estado_id": 232,
+			"pais_id": 59,
+			"estadonombre": "Amasya"
+		},
+		{
+			"estado_id": 233,
+			"pais_id": 59,
+			"estadonombre": "Ankara"
+		},
+		{
+			"estado_id": 234,
+			"pais_id": 59,
+			"estadonombre": "Antalya"
+		},
+		{
+			"estado_id": 235,
+			"pais_id": 59,
+			"estadonombre": "Artvin"
+		},
+		{
+			"estado_id": 236,
+			"pais_id": 59,
+			"estadonombre": "Afion"
+		},
+		{
+			"estado_id": 237,
+			"pais_id": 59,
+			"estadonombre": "Balikesir"
+		},
+		{
+			"estado_id": 238,
+			"pais_id": 59,
+			"estadonombre": "Bilecik"
+		},
+		{
+			"estado_id": 239,
+			"pais_id": 59,
+			"estadonombre": "Bursa"
+		},
+		{
+			"estado_id": 240,
+			"pais_id": 59,
+			"estadonombre": "Gaziantep"
+		},
+		{
+			"estado_id": 241,
+			"pais_id": 59,
+			"estadonombre": "Denizli"
+		},
+		{
+			"estado_id": 242,
+			"pais_id": 59,
+			"estadonombre": "Izmir"
+		},
+		{
+			"estado_id": 243,
+			"pais_id": 59,
+			"estadonombre": "Isparta"
+		},
+		{
+			"estado_id": 244,
+			"pais_id": 59,
+			"estadonombre": "Icel"
+		},
+		{
+			"estado_id": 245,
+			"pais_id": 59,
+			"estadonombre": "Kayseri"
+		},
+		{
+			"estado_id": 246,
+			"pais_id": 59,
+			"estadonombre": "Kars"
+		},
+		{
+			"estado_id": 247,
+			"pais_id": 59,
+			"estadonombre": "Kodjaeli"
+		},
+		{
+			"estado_id": 248,
+			"pais_id": 59,
+			"estadonombre": "Konya"
+		},
+		{
+			"estado_id": 249,
+			"pais_id": 59,
+			"estadonombre": "Kirklareli"
+		},
+		{
+			"estado_id": 250,
+			"pais_id": 59,
+			"estadonombre": "Kutahya"
+		},
+		{
+			"estado_id": 251,
+			"pais_id": 59,
+			"estadonombre": "Malatya"
+		},
+		{
+			"estado_id": 252,
+			"pais_id": 59,
+			"estadonombre": "Manisa"
+		},
+		{
+			"estado_id": 253,
+			"pais_id": 59,
+			"estadonombre": "Sakarya"
+		},
+		{
+			"estado_id": 254,
+			"pais_id": 59,
+			"estadonombre": "Samsun"
+		},
+		{
+			"estado_id": 255,
+			"pais_id": 59,
+			"estadonombre": "Sivas"
+		},
+		{
+			"estado_id": 256,
+			"pais_id": 59,
+			"estadonombre": "Istanbul"
+		},
+		{
+			"estado_id": 257,
+			"pais_id": 59,
+			"estadonombre": "Trabzon"
+		},
+		{
+			"estado_id": 258,
+			"pais_id": 59,
+			"estadonombre": "Corum"
+		},
+		{
+			"estado_id": 259,
+			"pais_id": 59,
+			"estadonombre": "Edirne"
+		},
+		{
+			"estado_id": 260,
+			"pais_id": 59,
+			"estadonombre": "Elazig"
+		},
+		{
+			"estado_id": 261,
+			"pais_id": 59,
+			"estadonombre": "Erzincan"
+		},
+		{
+			"estado_id": 262,
+			"pais_id": 59,
+			"estadonombre": "Erzurum"
+		},
+		{
+			"estado_id": 263,
+			"pais_id": 59,
+			"estadonombre": "Eskisehir"
+		},
+		{
+			"estado_id": 264,
+			"pais_id": 60,
+			"estadonombre": "Jinja"
+		},
+		{
+			"estado_id": 265,
+			"pais_id": 60,
+			"estadonombre": "Kampala"
+		},
+		{
+			"estado_id": 266,
+			"pais_id": 61,
+			"estadonombre": "Andijon Region"
+		},
+		{
+			"estado_id": 267,
+			"pais_id": 61,
+			"estadonombre": "Buxoro Region"
+		},
+		{
+			"estado_id": 268,
+			"pais_id": 61,
+			"estadonombre": "Jizzac Region"
+		},
+		{
+			"estado_id": 269,
+			"pais_id": 61,
+			"estadonombre": "Qaraqalpaqstan"
+		},
+		{
+			"estado_id": 270,
+			"pais_id": 61,
+			"estadonombre": "Qashqadaryo Region"
+		},
+		{
+			"estado_id": 271,
+			"pais_id": 61,
+			"estadonombre": "Navoiy Region"
+		},
+		{
+			"estado_id": 272,
+			"pais_id": 61,
+			"estadonombre": "Namangan Region"
+		},
+		{
+			"estado_id": 273,
+			"pais_id": 61,
+			"estadonombre": "Samarqand Region"
+		},
+		{
+			"estado_id": 274,
+			"pais_id": 61,
+			"estadonombre": "Surxondaryo Region"
+		},
+		{
+			"estado_id": 275,
+			"pais_id": 61,
+			"estadonombre": "Sirdaryo Region"
+		},
+		{
+			"estado_id": 276,
+			"pais_id": 61,
+			"estadonombre": "Tashkent Region"
+		},
+		{
+			"estado_id": 277,
+			"pais_id": 61,
+			"estadonombre": "Fergana Region"
+		},
+		{
+			"estado_id": 278,
+			"pais_id": 61,
+			"estadonombre": "Xorazm Region"
+		},
+		{
+			"estado_id": 279,
+			"pais_id": 62,
+			"estadonombre": "Vinnitskaya obl."
+		},
+		{
+			"estado_id": 280,
+			"pais_id": 62,
+			"estadonombre": "Volynskaya obl."
+		},
+		{
+			"estado_id": 281,
+			"pais_id": 62,
+			"estadonombre": "Dnepropetrovskaya obl."
+		},
+		{
+			"estado_id": 282,
+			"pais_id": 62,
+			"estadonombre": "Donetskaya obl."
+		},
+		{
+			"estado_id": 283,
+			"pais_id": 62,
+			"estadonombre": "Zhitomirskaya obl."
+		},
+		{
+			"estado_id": 284,
+			"pais_id": 62,
+			"estadonombre": "Zakarpatskaya obl."
+		},
+		{
+			"estado_id": 285,
+			"pais_id": 62,
+			"estadonombre": "Zaporozhskaya obl."
+		},
+		{
+			"estado_id": 286,
+			"pais_id": 62,
+			"estadonombre": "Ivano-Frankovskaya obl."
+		},
+		{
+			"estado_id": 287,
+			"pais_id": 62,
+			"estadonombre": "Kievskaya obl."
+		},
+		{
+			"estado_id": 288,
+			"pais_id": 62,
+			"estadonombre": "Kirovogradskaya obl."
+		},
+		{
+			"estado_id": 289,
+			"pais_id": 62,
+			"estadonombre": "Krymskaya obl."
+		},
+		{
+			"estado_id": 290,
+			"pais_id": 62,
+			"estadonombre": "Luganskaya obl."
+		},
+		{
+			"estado_id": 291,
+			"pais_id": 62,
+			"estadonombre": "Lvovskaya obl."
+		},
+		{
+			"estado_id": 292,
+			"pais_id": 62,
+			"estadonombre": "Nikolaevskaya obl."
+		},
+		{
+			"estado_id": 293,
+			"pais_id": 62,
+			"estadonombre": "Odesskaya obl."
+		},
+		{
+			"estado_id": 294,
+			"pais_id": 62,
+			"estadonombre": "Poltavskaya obl."
+		},
+		{
+			"estado_id": 295,
+			"pais_id": 62,
+			"estadonombre": "Rovenskaya obl."
+		},
+		{
+			"estado_id": 296,
+			"pais_id": 62,
+			"estadonombre": "Sumskaya obl."
+		},
+		{
+			"estado_id": 297,
+			"pais_id": 62,
+			"estadonombre": "Ternopolskaya obl."
+		},
+		{
+			"estado_id": 298,
+			"pais_id": 62,
+			"estadonombre": "Harkovskaya obl."
+		},
+		{
+			"estado_id": 299,
+			"pais_id": 62,
+			"estadonombre": "Hersonskaya obl."
+		},
+		{
+			"estado_id": 300,
+			"pais_id": 62,
+			"estadonombre": "Hmelnitskaya obl."
+		},
+		{
+			"estado_id": 301,
+			"pais_id": 62,
+			"estadonombre": "Cherkasskaya obl."
+		},
+		{
+			"estado_id": 302,
+			"pais_id": 62,
+			"estadonombre": "Chernigovskaya obl."
+		},
+		{
+			"estado_id": 303,
+			"pais_id": 62,
+			"estadonombre": "Chernovitskaya obl."
+		},
+		{
+			"estado_id": 304,
+			"pais_id": 68,
+			"estadonombre": "Estoniya"
+		},
+		{
+			"estado_id": 305,
+			"pais_id": 69,
+			"estadonombre": "Cheju"
+		},
+		{
+			"estado_id": 306,
+			"pais_id": 69,
+			"estadonombre": "Chollabuk"
+		},
+		{
+			"estado_id": 307,
+			"pais_id": 69,
+			"estadonombre": "Chollanam"
+		},
+		{
+			"estado_id": 308,
+			"pais_id": 69,
+			"estadonombre": "Chungcheongbuk"
+		},
+		{
+			"estado_id": 309,
+			"pais_id": 69,
+			"estadonombre": "Chungcheongnam"
+		},
+		{
+			"estado_id": 310,
+			"pais_id": 69,
+			"estadonombre": "Incheon"
+		},
+		{
+			"estado_id": 311,
+			"pais_id": 69,
+			"estadonombre": "Kangweon"
+		},
+		{
+			"estado_id": 312,
+			"pais_id": 69,
+			"estadonombre": "Kwangju"
+		},
+		{
+			"estado_id": 313,
+			"pais_id": 69,
+			"estadonombre": "Kyeonggi"
+		},
+		{
+			"estado_id": 314,
+			"pais_id": 69,
+			"estadonombre": "Kyeongsangbuk"
+		},
+		{
+			"estado_id": 315,
+			"pais_id": 69,
+			"estadonombre": "Kyeongsangnam"
+		},
+		{
+			"estado_id": 316,
+			"pais_id": 69,
+			"estadonombre": "Pusan"
+		},
+		{
+			"estado_id": 317,
+			"pais_id": 69,
+			"estadonombre": "Seoul"
+		},
+		{
+			"estado_id": 318,
+			"pais_id": 69,
+			"estadonombre": "Taegu"
+		},
+		{
+			"estado_id": 319,
+			"pais_id": 69,
+			"estadonombre": "Taejeon"
+		},
+		{
+			"estado_id": 320,
+			"pais_id": 69,
+			"estadonombre": "Ulsan"
+		},
+		{
+			"estado_id": 321,
+			"pais_id": 70,
+			"estadonombre": "Aichi"
+		},
+		{
+			"estado_id": 322,
+			"pais_id": 70,
+			"estadonombre": "Akita"
+		},
+		{
+			"estado_id": 323,
+			"pais_id": 70,
+			"estadonombre": "Aomori"
+		},
+		{
+			"estado_id": 324,
+			"pais_id": 70,
+			"estadonombre": "Wakayama"
+		},
+		{
+			"estado_id": 325,
+			"pais_id": 70,
+			"estadonombre": "Gifu"
+		},
+		{
+			"estado_id": 326,
+			"pais_id": 70,
+			"estadonombre": "Gunma"
+		},
+		{
+			"estado_id": 327,
+			"pais_id": 70,
+			"estadonombre": "Ibaraki"
+		},
+		{
+			"estado_id": 328,
+			"pais_id": 70,
+			"estadonombre": "Iwate"
+		},
+		{
+			"estado_id": 329,
+			"pais_id": 70,
+			"estadonombre": "Ishikawa"
+		},
+		{
+			"estado_id": 330,
+			"pais_id": 70,
+			"estadonombre": "Kagawa"
+		},
+		{
+			"estado_id": 331,
+			"pais_id": 70,
+			"estadonombre": "Kagoshima"
+		},
+		{
+			"estado_id": 332,
+			"pais_id": 70,
+			"estadonombre": "Kanagawa"
+		},
+		{
+			"estado_id": 333,
+			"pais_id": 70,
+			"estadonombre": "Kyoto"
+		},
+		{
+			"estado_id": 334,
+			"pais_id": 70,
+			"estadonombre": "Kochi"
+		},
+		{
+			"estado_id": 335,
+			"pais_id": 70,
+			"estadonombre": "Kumamoto"
+		},
+		{
+			"estado_id": 336,
+			"pais_id": 70,
+			"estadonombre": "Mie"
+		},
+		{
+			"estado_id": 337,
+			"pais_id": 70,
+			"estadonombre": "Miyagi"
+		},
+		{
+			"estado_id": 338,
+			"pais_id": 70,
+			"estadonombre": "Miyazaki"
+		},
+		{
+			"estado_id": 339,
+			"pais_id": 70,
+			"estadonombre": "Nagano"
+		},
+		{
+			"estado_id": 340,
+			"pais_id": 70,
+			"estadonombre": "Nagasaki"
+		},
+		{
+			"estado_id": 341,
+			"pais_id": 70,
+			"estadonombre": "Nara"
+		},
+		{
+			"estado_id": 342,
+			"pais_id": 70,
+			"estadonombre": "Niigata"
+		},
+		{
+			"estado_id": 343,
+			"pais_id": 70,
+			"estadonombre": "Okayama"
+		},
+		{
+			"estado_id": 344,
+			"pais_id": 70,
+			"estadonombre": "Okinawa"
+		},
+		{
+			"estado_id": 345,
+			"pais_id": 70,
+			"estadonombre": "Osaka"
+		},
+		{
+			"estado_id": 346,
+			"pais_id": 70,
+			"estadonombre": "Saga"
+		},
+		{
+			"estado_id": 347,
+			"pais_id": 70,
+			"estadonombre": "Saitama"
+		},
+		{
+			"estado_id": 348,
+			"pais_id": 70,
+			"estadonombre": "Shiga"
+		},
+		{
+			"estado_id": 349,
+			"pais_id": 70,
+			"estadonombre": "Shizuoka"
+		},
+		{
+			"estado_id": 350,
+			"pais_id": 70,
+			"estadonombre": "Shimane"
+		},
+		{
+			"estado_id": 351,
+			"pais_id": 70,
+			"estadonombre": "Tiba"
+		},
+		{
+			"estado_id": 352,
+			"pais_id": 70,
+			"estadonombre": "Tokyo"
+		},
+		{
+			"estado_id": 353,
+			"pais_id": 70,
+			"estadonombre": "Tokushima"
+		},
+		{
+			"estado_id": 354,
+			"pais_id": 70,
+			"estadonombre": "Tochigi"
+		},
+		{
+			"estado_id": 355,
+			"pais_id": 70,
+			"estadonombre": "Tottori"
+		},
+		{
+			"estado_id": 356,
+			"pais_id": 70,
+			"estadonombre": "Toyama"
+		},
+		{
+			"estado_id": 357,
+			"pais_id": 70,
+			"estadonombre": "Fukui"
+		},
+		{
+			"estado_id": 358,
+			"pais_id": 70,
+			"estadonombre": "Fukuoka"
+		},
+		{
+			"estado_id": 359,
+			"pais_id": 70,
+			"estadonombre": "Fukushima"
+		},
+		{
+			"estado_id": 360,
+			"pais_id": 70,
+			"estadonombre": "Hiroshima"
+		},
+		{
+			"estado_id": 361,
+			"pais_id": 70,
+			"estadonombre": "Hokkaido"
+		},
+		{
+			"estado_id": 362,
+			"pais_id": 70,
+			"estadonombre": "Hyogo"
+		},
+		{
+			"estado_id": 363,
+			"pais_id": 70,
+			"estadonombre": "Yoshimi"
+		},
+		{
+			"estado_id": 364,
+			"pais_id": 70,
+			"estadonombre": "Yamagata"
+		},
+		{
+			"estado_id": 365,
+			"pais_id": 70,
+			"estadonombre": "Yamaguchi"
+		},
+		{
+			"estado_id": 366,
+			"pais_id": 70,
+			"estadonombre": "Yamanashi"
+		},
+		{
+			"estado_id": 368,
+			"pais_id": 73,
+			"estadonombre": "Hong Kong"
+		},
+		{
+			"estado_id": 369,
+			"pais_id": 74,
+			"estadonombre": "Indonesia"
+		},
+		{
+			"estado_id": 370,
+			"pais_id": 75,
+			"estadonombre": "Jordan"
+		},
+		{
+			"estado_id": 371,
+			"pais_id": 76,
+			"estadonombre": "Malaysia"
+		},
+		{
+			"estado_id": 372,
+			"pais_id": 77,
+			"estadonombre": "Singapore"
+		},
+		{
+			"estado_id": 373,
+			"pais_id": 78,
+			"estadonombre": "Taiwan"
+		},
+		{
+			"estado_id": 374,
+			"pais_id": 30,
+			"estadonombre": "Kazahstan"
+		},
+		{
+			"estado_id": 375,
+			"pais_id": 62,
+			"estadonombre": "Ukraina"
+		},
+		{
+			"estado_id": 376,
+			"pais_id": 25,
+			"estadonombre": "India"
+		},
+		{
+			"estado_id": 377,
+			"pais_id": 23,
+			"estadonombre": "Egypt"
+		},
+		{
+			"estado_id": 378,
+			"pais_id": 106,
+			"estadonombre": "Damascus"
+		},
+		{
+			"estado_id": 379,
+			"pais_id": 131,
+			"estadonombre": "Isle of Man"
+		},
+		{
+			"estado_id": 380,
+			"pais_id": 30,
+			"estadonombre": "Zapadno-Kazahstanskaya obl."
+		},
+		{
+			"estado_id": 381,
+			"pais_id": 50,
+			"estadonombre": "Adygeya"
+		},
+		{
+			"estado_id": 382,
+			"pais_id": 50,
+			"estadonombre": "Hakasiya"
+		},
+		{
+			"estado_id": 383,
+			"pais_id": 93,
+			"estadonombre": "Dubai"
+		},
+		{
+			"estado_id": 384,
+			"pais_id": 50,
+			"estadonombre": "Chukotskii AO"
+		},
+		{
+			"estado_id": 385,
+			"pais_id": 99,
+			"estadonombre": "Beirut"
+		},
+		{
+			"estado_id": 386,
+			"pais_id": 137,
+			"estadonombre": "Tegucigalpa"
+		},
+		{
+			"estado_id": 387,
+			"pais_id": 138,
+			"estadonombre": "Santo Domingo"
+		},
+		{
+			"estado_id": 388,
+			"pais_id": 139,
+			"estadonombre": "Ulan Bator"
+		},
+		{
+			"estado_id": 389,
+			"pais_id": 23,
+			"estadonombre": "Sinai"
+		},
+		{
+			"estado_id": 390,
+			"pais_id": 140,
+			"estadonombre": "Baghdad"
+		},
+		{
+			"estado_id": 391,
+			"pais_id": 140,
+			"estadonombre": "Basra"
+		},
+		{
+			"estado_id": 392,
+			"pais_id": 140,
+			"estadonombre": "Mosul"
+		},
+		{
+			"estado_id": 393,
+			"pais_id": 141,
+			"estadonombre": "Johannesburg"
+		},
+		{
+			"estado_id": 394,
+			"pais_id": 104,
+			"estadonombre": "Morocco"
+		},
+		{
+			"estado_id": 395,
+			"pais_id": 104,
+			"estadonombre": "Tangier"
+		},
+		{
+			"estado_id": 396,
+			"pais_id": 50,
+			"estadonombre": "Yamalo-Nenetskii AO"
+		},
+		{
+			"estado_id": 397,
+			"pais_id": 122,
+			"estadonombre": "Tunisia"
+		},
+		{
+			"estado_id": 398,
+			"pais_id": 92,
+			"estadonombre": "Thailand"
+		},
+		{
+			"estado_id": 399,
+			"pais_id": 117,
+			"estadonombre": "Mozambique"
+		},
+		{
+			"estado_id": 400,
+			"pais_id": 84,
+			"estadonombre": "Korea"
+		},
+		{
+			"estado_id": 401,
+			"pais_id": 87,
+			"estadonombre": "Pakistan"
+		},
+		{
+			"estado_id": 402,
+			"pais_id": 142,
+			"estadonombre": "Aruba"
+		},
+		{
+			"estado_id": 403,
+			"pais_id": 80,
+			"estadonombre": "Bahamas"
+		},
+		{
+			"estado_id": 404,
+			"pais_id": 69,
+			"estadonombre": "South Korea"
+		},
+		{
+			"estado_id": 405,
+			"pais_id": 132,
+			"estadonombre": "Jamaica"
+		},
+		{
+			"estado_id": 406,
+			"pais_id": 93,
+			"estadonombre": "Sharjah"
+		},
+		{
+			"estado_id": 407,
+			"pais_id": 93,
+			"estadonombre": "Abu Dhabi"
+		},
+		{
+			"estado_id": 409,
+			"pais_id": 24,
+			"estadonombre": "Ramat Hagolan"
+		},
+		{
+			"estado_id": 410,
+			"pais_id": 115,
+			"estadonombre": "Nigeria"
+		},
+		{
+			"estado_id": 411,
+			"pais_id": 64,
+			"estadonombre": "Ain"
+		},
+		{
+			"estado_id": 412,
+			"pais_id": 64,
+			"estadonombre": "Haute-Savoie"
+		},
+		{
+			"estado_id": 413,
+			"pais_id": 64,
+			"estadonombre": "Aisne"
+		},
+		{
+			"estado_id": 414,
+			"pais_id": 64,
+			"estadonombre": "Allier"
+		},
+		{
+			"estado_id": 415,
+			"pais_id": 64,
+			"estadonombre": "Alpes-de-Haute-Provence"
+		},
+		{
+			"estado_id": 416,
+			"pais_id": 64,
+			"estadonombre": "Hautes-Alpes"
+		},
+		{
+			"estado_id": 417,
+			"pais_id": 64,
+			"estadonombre": "Alpes-Maritimes"
+		},
+		{
+			"estado_id": 418,
+			"pais_id": 64,
+			"estadonombre": "Ardèche"
+		},
+		{
+			"estado_id": 419,
+			"pais_id": 64,
+			"estadonombre": "Ardennes"
+		},
+		{
+			"estado_id": 420,
+			"pais_id": 64,
+			"estadonombre": "Ariège"
+		},
+		{
+			"estado_id": 421,
+			"pais_id": 64,
+			"estadonombre": "Aube"
+		},
+		{
+			"estado_id": 422,
+			"pais_id": 64,
+			"estadonombre": "Aude"
+		},
+		{
+			"estado_id": 423,
+			"pais_id": 64,
+			"estadonombre": "Aveyron"
+		},
+		{
+			"estado_id": 424,
+			"pais_id": 64,
+			"estadonombre": "Bouches-du-Rhône"
+		},
+		{
+			"estado_id": 425,
+			"pais_id": 64,
+			"estadonombre": "Calvados"
+		},
+		{
+			"estado_id": 426,
+			"pais_id": 64,
+			"estadonombre": "Cantal"
+		},
+		{
+			"estado_id": 427,
+			"pais_id": 64,
+			"estadonombre": "Charente"
+		},
+		{
+			"estado_id": 428,
+			"pais_id": 64,
+			"estadonombre": "Charente Maritime"
+		},
+		{
+			"estado_id": 429,
+			"pais_id": 64,
+			"estadonombre": "Cher"
+		},
+		{
+			"estado_id": 430,
+			"pais_id": 64,
+			"estadonombre": "Corrèze"
+		},
+		{
+			"estado_id": 431,
+			"pais_id": 64,
+			"estadonombre": "Dordogne"
+		},
+		{
+			"estado_id": 432,
+			"pais_id": 64,
+			"estadonombre": "Corse"
+		},
+		{
+			"estado_id": 433,
+			"pais_id": 64,
+			"estadonombre": "Côte dOr"
+		},
+		{
+			"estado_id": 434,
+			"pais_id": 64,
+			"estadonombre": "Saône et Loire"
+		},
+		{
+			"estado_id": 435,
+			"pais_id": 64,
+			"estadonombre": "Côtes dArmor"
+		},
+		{
+			"estado_id": 436,
+			"pais_id": 64,
+			"estadonombre": "Creuse"
+		},
+		{
+			"estado_id": 437,
+			"pais_id": 64,
+			"estadonombre": "Doubs"
+		},
+		{
+			"estado_id": 438,
+			"pais_id": 64,
+			"estadonombre": "Drôme"
+		},
+		{
+			"estado_id": 439,
+			"pais_id": 64,
+			"estadonombre": "Eure"
+		},
+		{
+			"estado_id": 440,
+			"pais_id": 64,
+			"estadonombre": "Eure-et-Loire"
+		},
+		{
+			"estado_id": 441,
+			"pais_id": 64,
+			"estadonombre": "Finistère"
+		},
+		{
+			"estado_id": 442,
+			"pais_id": 64,
+			"estadonombre": "Gard"
+		},
+		{
+			"estado_id": 443,
+			"pais_id": 64,
+			"estadonombre": "Haute-Garonne"
+		},
+		{
+			"estado_id": 444,
+			"pais_id": 64,
+			"estadonombre": "Gers"
+		},
+		{
+			"estado_id": 445,
+			"pais_id": 64,
+			"estadonombre": "Gironde"
+		},
+		{
+			"estado_id": 446,
+			"pais_id": 64,
+			"estadonombre": "Hérault"
+		},
+		{
+			"estado_id": 447,
+			"pais_id": 64,
+			"estadonombre": "Ille et Vilaine"
+		},
+		{
+			"estado_id": 448,
+			"pais_id": 64,
+			"estadonombre": "Indre"
+		},
+		{
+			"estado_id": 449,
+			"pais_id": 64,
+			"estadonombre": "Indre-et-Loire"
+		},
+		{
+			"estado_id": 450,
+			"pais_id": 64,
+			"estadonombre": "Isère"
+		},
+		{
+			"estado_id": 451,
+			"pais_id": 64,
+			"estadonombre": "Jura"
+		},
+		{
+			"estado_id": 452,
+			"pais_id": 64,
+			"estadonombre": "Landes"
+		},
+		{
+			"estado_id": 453,
+			"pais_id": 64,
+			"estadonombre": "Loir-et-Cher"
+		},
+		{
+			"estado_id": 454,
+			"pais_id": 64,
+			"estadonombre": "Loire"
+		},
+		{
+			"estado_id": 455,
+			"pais_id": 64,
+			"estadonombre": "Rhône"
+		},
+		{
+			"estado_id": 456,
+			"pais_id": 64,
+			"estadonombre": "Haute-Loire"
+		},
+		{
+			"estado_id": 457,
+			"pais_id": 64,
+			"estadonombre": "Loire Atlantique"
+		},
+		{
+			"estado_id": 458,
+			"pais_id": 64,
+			"estadonombre": "Loiret"
+		},
+		{
+			"estado_id": 459,
+			"pais_id": 64,
+			"estadonombre": "Lot"
+		},
+		{
+			"estado_id": 460,
+			"pais_id": 64,
+			"estadonombre": "Lot-et-Garonne"
+		},
+		{
+			"estado_id": 461,
+			"pais_id": 64,
+			"estadonombre": "Lozère"
+		},
+		{
+			"estado_id": 462,
+			"pais_id": 64,
+			"estadonombre": "Maine et Loire"
+		},
+		{
+			"estado_id": 463,
+			"pais_id": 64,
+			"estadonombre": "Manche"
+		},
+		{
+			"estado_id": 464,
+			"pais_id": 64,
+			"estadonombre": "Marne"
+		},
+		{
+			"estado_id": 465,
+			"pais_id": 64,
+			"estadonombre": "Haute-Marne"
+		},
+		{
+			"estado_id": 466,
+			"pais_id": 64,
+			"estadonombre": "Mayenne"
+		},
+		{
+			"estado_id": 467,
+			"pais_id": 64,
+			"estadonombre": "Meurthe-et-Moselle"
+		},
+		{
+			"estado_id": 468,
+			"pais_id": 64,
+			"estadonombre": "Meuse"
+		},
+		{
+			"estado_id": 469,
+			"pais_id": 64,
+			"estadonombre": "Morbihan"
+		},
+		{
+			"estado_id": 470,
+			"pais_id": 64,
+			"estadonombre": "Moselle"
+		},
+		{
+			"estado_id": 471,
+			"pais_id": 64,
+			"estadonombre": "Nièvre"
+		},
+		{
+			"estado_id": 472,
+			"pais_id": 64,
+			"estadonombre": "Nord"
+		},
+		{
+			"estado_id": 473,
+			"pais_id": 64,
+			"estadonombre": "Oise"
+		},
+		{
+			"estado_id": 474,
+			"pais_id": 64,
+			"estadonombre": "Orne"
+		},
+		{
+			"estado_id": 475,
+			"pais_id": 64,
+			"estadonombre": "Pas-de-Calais"
+		},
+		{
+			"estado_id": 476,
+			"pais_id": 64,
+			"estadonombre": "Puy-de-Dôme"
+		},
+		{
+			"estado_id": 477,
+			"pais_id": 64,
+			"estadonombre": "Pyrénées-Atlantiques"
+		},
+		{
+			"estado_id": 478,
+			"pais_id": 64,
+			"estadonombre": "Hautes-Pyrénées"
+		},
+		{
+			"estado_id": 479,
+			"pais_id": 64,
+			"estadonombre": "Pyrénées-Orientales"
+		},
+		{
+			"estado_id": 480,
+			"pais_id": 64,
+			"estadonombre": "Bas Rhin"
+		},
+		{
+			"estado_id": 481,
+			"pais_id": 64,
+			"estadonombre": "Haut Rhin"
+		},
+		{
+			"estado_id": 482,
+			"pais_id": 64,
+			"estadonombre": "Haute-Saône"
+		},
+		{
+			"estado_id": 483,
+			"pais_id": 64,
+			"estadonombre": "Sarthe"
+		},
+		{
+			"estado_id": 484,
+			"pais_id": 64,
+			"estadonombre": "Savoie"
+		},
+		{
+			"estado_id": 485,
+			"pais_id": 64,
+			"estadonombre": "Paris"
+		},
+		{
+			"estado_id": 486,
+			"pais_id": 64,
+			"estadonombre": "Seine-Maritime"
+		},
+		{
+			"estado_id": 487,
+			"pais_id": 64,
+			"estadonombre": "Seine-et-Marne"
+		},
+		{
+			"estado_id": 488,
+			"pais_id": 64,
+			"estadonombre": "Yvelines"
+		},
+		{
+			"estado_id": 489,
+			"pais_id": 64,
+			"estadonombre": "Deux-Sèvres"
+		},
+		{
+			"estado_id": 490,
+			"pais_id": 64,
+			"estadonombre": "Somme"
+		},
+		{
+			"estado_id": 491,
+			"pais_id": 64,
+			"estadonombre": "Tarn"
+		},
+		{
+			"estado_id": 492,
+			"pais_id": 64,
+			"estadonombre": "Tarn-et-Garonne"
+		},
+		{
+			"estado_id": 493,
+			"pais_id": 64,
+			"estadonombre": "Var"
+		},
+		{
+			"estado_id": 494,
+			"pais_id": 64,
+			"estadonombre": "Vaucluse"
+		},
+		{
+			"estado_id": 495,
+			"pais_id": 64,
+			"estadonombre": "Vendée"
+		},
+		{
+			"estado_id": 496,
+			"pais_id": 64,
+			"estadonombre": "Vienne"
+		},
+		{
+			"estado_id": 497,
+			"pais_id": 64,
+			"estadonombre": "Haute-Vienne"
+		},
+		{
+			"estado_id": 498,
+			"pais_id": 64,
+			"estadonombre": "Vosges"
+		},
+		{
+			"estado_id": 499,
+			"pais_id": 64,
+			"estadonombre": "Yonne"
+		},
+		{
+			"estado_id": 500,
+			"pais_id": 64,
+			"estadonombre": "Territoire de Belfort"
+		},
+		{
+			"estado_id": 501,
+			"pais_id": 64,
+			"estadonombre": "Essonne"
+		},
+		{
+			"estado_id": 502,
+			"pais_id": 64,
+			"estadonombre": "Hauts-de-Seine"
+		},
+		{
+			"estado_id": 503,
+			"pais_id": 64,
+			"estadonombre": "Seine-Saint-Denis"
+		},
+		{
+			"estado_id": 504,
+			"pais_id": 64,
+			"estadonombre": "Val-de-Marne"
+		},
+		{
+			"estado_id": 505,
+			"pais_id": 64,
+			"estadonombre": "Val-dOise"
+		},
+		{
+			"estado_id": 506,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Torino"
+		},
+		{
+			"estado_id": 507,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Alessandria"
+		},
+		{
+			"estado_id": 508,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Asti"
+		},
+		{
+			"estado_id": 509,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Biella"
+		},
+		{
+			"estado_id": 510,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Cuneo"
+		},
+		{
+			"estado_id": 511,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Novara"
+		},
+		{
+			"estado_id": 512,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Verbania"
+		},
+		{
+			"estado_id": 513,
+			"pais_id": 29,
+			"estadonombre": "Piemonte - Vercelli"
+		},
+		{
+			"estado_id": 514,
+			"pais_id": 29,
+			"estadonombre": "Valle dAosta - Aosta"
+		},
+		{
+			"estado_id": 515,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Milano"
+		},
+		{
+			"estado_id": 516,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Bergamo"
+		},
+		{
+			"estado_id": 517,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Brescia"
+		},
+		{
+			"estado_id": 518,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Como"
+		},
+		{
+			"estado_id": 519,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Cremona"
+		},
+		{
+			"estado_id": 520,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Lecco"
+		},
+		{
+			"estado_id": 521,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Lodi"
+		},
+		{
+			"estado_id": 522,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Mantova"
+		},
+		{
+			"estado_id": 523,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Pavia"
+		},
+		{
+			"estado_id": 524,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Sondrio"
+		},
+		{
+			"estado_id": 525,
+			"pais_id": 29,
+			"estadonombre": "Lombardia - Varese"
+		},
+		{
+			"estado_id": 526,
+			"pais_id": 29,
+			"estadonombre": "Trentino Alto Adige - Trento"
+		},
+		{
+			"estado_id": 527,
+			"pais_id": 29,
+			"estadonombre": "Trentino Alto Adige - Bolzano"
+		},
+		{
+			"estado_id": 528,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Venezia"
+		},
+		{
+			"estado_id": 529,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Belluno"
+		},
+		{
+			"estado_id": 530,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Padova"
+		},
+		{
+			"estado_id": 531,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Rovigo"
+		},
+		{
+			"estado_id": 532,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Treviso"
+		},
+		{
+			"estado_id": 533,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Verona"
+		},
+		{
+			"estado_id": 534,
+			"pais_id": 29,
+			"estadonombre": "Veneto - Vicenza"
+		},
+		{
+			"estado_id": 535,
+			"pais_id": 29,
+			"estadonombre": "Friuli Venezia Giulia - Trieste"
+		},
+		{
+			"estado_id": 536,
+			"pais_id": 29,
+			"estadonombre": "Friuli Venezia Giulia - Gorizia"
+		},
+		{
+			"estado_id": 537,
+			"pais_id": 29,
+			"estadonombre": "Friuli Venezia Giulia - Pordenone"
+		},
+		{
+			"estado_id": 538,
+			"pais_id": 29,
+			"estadonombre": "Friuli Venezia Giulia - Udine"
+		},
+		{
+			"estado_id": 539,
+			"pais_id": 29,
+			"estadonombre": "Liguria - Genova"
+		},
+		{
+			"estado_id": 540,
+			"pais_id": 29,
+			"estadonombre": "Liguria - Imperia"
+		},
+		{
+			"estado_id": 541,
+			"pais_id": 29,
+			"estadonombre": "Liguria - La Spezia"
+		},
+		{
+			"estado_id": 542,
+			"pais_id": 29,
+			"estadonombre": "Liguria - Savona"
+		},
+		{
+			"estado_id": 543,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Bologna"
+		},
+		{
+			"estado_id": 544,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Ferrara"
+		},
+		{
+			"estado_id": 545,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Forlì-Cesena"
+		},
+		{
+			"estado_id": 546,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Modena"
+		},
+		{
+			"estado_id": 547,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Parma"
+		},
+		{
+			"estado_id": 548,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Piacenza"
+		},
+		{
+			"estado_id": 549,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Ravenna"
+		},
+		{
+			"estado_id": 550,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Reggio Emilia"
+		},
+		{
+			"estado_id": 551,
+			"pais_id": 29,
+			"estadonombre": "Emilia Romagna - Rimini"
+		},
+		{
+			"estado_id": 552,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Firenze"
+		},
+		{
+			"estado_id": 553,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Arezzo"
+		},
+		{
+			"estado_id": 554,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Grosseto"
+		},
+		{
+			"estado_id": 555,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Livorno"
+		},
+		{
+			"estado_id": 556,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Lucca"
+		},
+		{
+			"estado_id": 557,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Massa Carrara"
+		},
+		{
+			"estado_id": 558,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Pisa"
+		},
+		{
+			"estado_id": 559,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Pistoia"
+		},
+		{
+			"estado_id": 560,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Prato"
+		},
+		{
+			"estado_id": 561,
+			"pais_id": 29,
+			"estadonombre": "Toscana - Siena"
+		},
+		{
+			"estado_id": 562,
+			"pais_id": 29,
+			"estadonombre": "Umbria - Perugia"
+		},
+		{
+			"estado_id": 563,
+			"pais_id": 29,
+			"estadonombre": "Umbria - Terni"
+		},
+		{
+			"estado_id": 564,
+			"pais_id": 29,
+			"estadonombre": "Marche - Ancona"
+		},
+		{
+			"estado_id": 565,
+			"pais_id": 29,
+			"estadonombre": "Marche - Ascoli Piceno"
+		},
+		{
+			"estado_id": 566,
+			"pais_id": 29,
+			"estadonombre": "Marche - Macerata"
+		},
+		{
+			"estado_id": 567,
+			"pais_id": 29,
+			"estadonombre": "Marche - Pesaro - Urbino"
+		},
+		{
+			"estado_id": 568,
+			"pais_id": 29,
+			"estadonombre": "Lazio - Roma"
+		},
+		{
+			"estado_id": 569,
+			"pais_id": 29,
+			"estadonombre": "Lazio - Frosinone"
+		},
+		{
+			"estado_id": 570,
+			"pais_id": 29,
+			"estadonombre": "Lazio - Latina"
+		},
+		{
+			"estado_id": 571,
+			"pais_id": 29,
+			"estadonombre": "Lazio - Rieti"
+		},
+		{
+			"estado_id": 572,
+			"pais_id": 29,
+			"estadonombre": "Lazio - Viterbo"
+		},
+		{
+			"estado_id": 573,
+			"pais_id": 29,
+			"estadonombre": "Abruzzo - LAquila"
+		},
+		{
+			"estado_id": 574,
+			"pais_id": 29,
+			"estadonombre": "Abruzzo - Chieti"
+		},
+		{
+			"estado_id": 575,
+			"pais_id": 29,
+			"estadonombre": "Abruzzo - Pescara"
+		},
+		{
+			"estado_id": 576,
+			"pais_id": 29,
+			"estadonombre": "Abruzzo - Teramo"
+		},
+		{
+			"estado_id": 577,
+			"pais_id": 29,
+			"estadonombre": "Molise - Campobasso"
+		},
+		{
+			"estado_id": 578,
+			"pais_id": 29,
+			"estadonombre": "Molise - Isernia"
+		},
+		{
+			"estado_id": 579,
+			"pais_id": 29,
+			"estadonombre": "Campania - Napoli"
+		},
+		{
+			"estado_id": 580,
+			"pais_id": 29,
+			"estadonombre": "Campania - Avellino"
+		},
+		{
+			"estado_id": 581,
+			"pais_id": 29,
+			"estadonombre": "Campania - Benevento"
+		},
+		{
+			"estado_id": 582,
+			"pais_id": 29,
+			"estadonombre": "Campania - Caserta"
+		},
+		{
+			"estado_id": 583,
+			"pais_id": 29,
+			"estadonombre": "Campania - Salerno"
+		},
+		{
+			"estado_id": 584,
+			"pais_id": 29,
+			"estadonombre": "Puglia - Bari"
+		},
+		{
+			"estado_id": 585,
+			"pais_id": 29,
+			"estadonombre": "Puglia - Brindisi"
+		},
+		{
+			"estado_id": 586,
+			"pais_id": 29,
+			"estadonombre": "Puglia - Foggia"
+		},
+		{
+			"estado_id": 587,
+			"pais_id": 29,
+			"estadonombre": "Puglia - Lecce"
+		},
+		{
+			"estado_id": 588,
+			"pais_id": 29,
+			"estadonombre": "Puglia - Taranto"
+		},
+		{
+			"estado_id": 589,
+			"pais_id": 29,
+			"estadonombre": "Basilicata - Potenza"
+		},
+		{
+			"estado_id": 590,
+			"pais_id": 29,
+			"estadonombre": "Basilicata - Matera"
+		},
+		{
+			"estado_id": 591,
+			"pais_id": 29,
+			"estadonombre": "Calabria - Catanzaro"
+		},
+		{
+			"estado_id": 592,
+			"pais_id": 29,
+			"estadonombre": "Calabria - Cosenza"
+		},
+		{
+			"estado_id": 593,
+			"pais_id": 29,
+			"estadonombre": "Calabria - Crotone"
+		},
+		{
+			"estado_id": 594,
+			"pais_id": 29,
+			"estadonombre": "Calabria - Reggio Calabria"
+		},
+		{
+			"estado_id": 595,
+			"pais_id": 29,
+			"estadonombre": "Calabria - Vibo Valentia"
+		},
+		{
+			"estado_id": 596,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Palermo"
+		},
+		{
+			"estado_id": 597,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Agrigento"
+		},
+		{
+			"estado_id": 598,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Caltanissetta"
+		},
+		{
+			"estado_id": 599,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Catania"
+		},
+		{
+			"estado_id": 600,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Enna"
+		},
+		{
+			"estado_id": 601,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Messina"
+		},
+		{
+			"estado_id": 602,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Ragusa"
+		},
+		{
+			"estado_id": 603,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Siracusa"
+		},
+		{
+			"estado_id": 604,
+			"pais_id": 29,
+			"estadonombre": "Sicilia - Trapani"
+		},
+		{
+			"estado_id": 605,
+			"pais_id": 29,
+			"estadonombre": "Sardegna - Cagliari"
+		},
+		{
+			"estado_id": 606,
+			"pais_id": 29,
+			"estadonombre": "Sardegna - Nuoro"
+		},
+		{
+			"estado_id": 607,
+			"pais_id": 29,
+			"estadonombre": "Sardegna - Oristano"
+		},
+		{
+			"estado_id": 608,
+			"pais_id": 29,
+			"estadonombre": "Sardegna - Sassari"
+		},
+		{
+			"estado_id": 609,
+			"pais_id": 28,
+			"estadonombre": "Las Palmas"
+		},
+		{
+			"estado_id": 610,
+			"pais_id": 28,
+			"estadonombre": "Soria"
+		},
+		{
+			"estado_id": 611,
+			"pais_id": 28,
+			"estadonombre": "Palencia"
+		},
+		{
+			"estado_id": 612,
+			"pais_id": 28,
+			"estadonombre": "Zamora"
+		},
+		{
+			"estado_id": 613,
+			"pais_id": 28,
+			"estadonombre": "Cádiz"
+		},
+		{
+			"estado_id": 614,
+			"pais_id": 28,
+			"estadonombre": "Navarra"
+		},
+		{
+			"estado_id": 615,
+			"pais_id": 28,
+			"estadonombre": "Ourense"
+		},
+		{
+			"estado_id": 616,
+			"pais_id": 28,
+			"estadonombre": "Segovia"
+		},
+		{
+			"estado_id": 617,
+			"pais_id": 28,
+			"estadonombre": "Guipúzcoa"
+		},
+		{
+			"estado_id": 618,
+			"pais_id": 28,
+			"estadonombre": "Ciudad Real"
+		},
+		{
+			"estado_id": 619,
+			"pais_id": 28,
+			"estadonombre": "Vizcaya"
+		},
+		{
+			"estado_id": 620,
+			"pais_id": 28,
+			"estadonombre": "Álava"
+		},
+		{
+			"estado_id": 621,
+			"pais_id": 28,
+			"estadonombre": "A Coruña"
+		},
+		{
+			"estado_id": 622,
+			"pais_id": 28,
+			"estadonombre": "Cantabria"
+		},
+		{
+			"estado_id": 623,
+			"pais_id": 28,
+			"estadonombre": "Almería"
+		},
+		{
+			"estado_id": 624,
+			"pais_id": 28,
+			"estadonombre": "Zaragoza"
+		},
+		{
+			"estado_id": 625,
+			"pais_id": 28,
+			"estadonombre": "Santa Cruz de Tenerife"
+		},
+		{
+			"estado_id": 626,
+			"pais_id": 28,
+			"estadonombre": "Cáceres"
+		},
+		{
+			"estado_id": 627,
+			"pais_id": 28,
+			"estadonombre": "Guadalajara"
+		},
+		{
+			"estado_id": 628,
+			"pais_id": 28,
+			"estadonombre": "Ávila"
+		},
+		{
+			"estado_id": 629,
+			"pais_id": 28,
+			"estadonombre": "Toledo"
+		},
+		{
+			"estado_id": 630,
+			"pais_id": 28,
+			"estadonombre": "Castellón"
+		},
+		{
+			"estado_id": 631,
+			"pais_id": 28,
+			"estadonombre": "Tarragona"
+		},
+		{
+			"estado_id": 632,
+			"pais_id": 28,
+			"estadonombre": "Lugo"
+		},
+		{
+			"estado_id": 633,
+			"pais_id": 28,
+			"estadonombre": "La Rioja"
+		},
+		{
+			"estado_id": 634,
+			"pais_id": 28,
+			"estadonombre": "Ceuta"
+		},
+		{
+			"estado_id": 635,
+			"pais_id": 28,
+			"estadonombre": "Murcia"
+		},
+		{
+			"estado_id": 636,
+			"pais_id": 28,
+			"estadonombre": "Salamanca"
+		},
+		{
+			"estado_id": 637,
+			"pais_id": 28,
+			"estadonombre": "Valladolid"
+		},
+		{
+			"estado_id": 638,
+			"pais_id": 28,
+			"estadonombre": "Jaén"
+		},
+		{
+			"estado_id": 639,
+			"pais_id": 28,
+			"estadonombre": "Girona"
+		},
+		{
+			"estado_id": 640,
+			"pais_id": 28,
+			"estadonombre": "Granada"
+		},
+		{
+			"estado_id": 641,
+			"pais_id": 28,
+			"estadonombre": "Alacant"
+		},
+		{
+			"estado_id": 642,
+			"pais_id": 28,
+			"estadonombre": "Córdoba"
+		},
+		{
+			"estado_id": 643,
+			"pais_id": 28,
+			"estadonombre": "Albacete"
+		},
+		{
+			"estado_id": 644,
+			"pais_id": 28,
+			"estadonombre": "Cuenca"
+		},
+		{
+			"estado_id": 645,
+			"pais_id": 28,
+			"estadonombre": "Pontevedra"
+		},
+		{
+			"estado_id": 646,
+			"pais_id": 28,
+			"estadonombre": "Teruel"
+		},
+		{
+			"estado_id": 647,
+			"pais_id": 28,
+			"estadonombre": "Melilla"
+		},
+		{
+			"estado_id": 648,
+			"pais_id": 28,
+			"estadonombre": "Barcelona"
+		},
+		{
+			"estado_id": 649,
+			"pais_id": 28,
+			"estadonombre": "Badajoz"
+		},
+		{
+			"estado_id": 650,
+			"pais_id": 28,
+			"estadonombre": "Madrid"
+		},
+		{
+			"estado_id": 651,
+			"pais_id": 28,
+			"estadonombre": "Sevilla"
+		},
+		{
+			"estado_id": 652,
+			"pais_id": 28,
+			"estadonombre": "València"
+		},
+		{
+			"estado_id": 653,
+			"pais_id": 28,
+			"estadonombre": "Huelva"
+		},
+		{
+			"estado_id": 654,
+			"pais_id": 28,
+			"estadonombre": "Lleida"
+		},
+		{
+			"estado_id": 655,
+			"pais_id": 28,
+			"estadonombre": "León"
+		},
+		{
+			"estado_id": 656,
+			"pais_id": 28,
+			"estadonombre": "Illes Balears"
+		},
+		{
+			"estado_id": 657,
+			"pais_id": 28,
+			"estadonombre": "Burgos"
+		},
+		{
+			"estado_id": 658,
+			"pais_id": 28,
+			"estadonombre": "Huesca"
+		},
+		{
+			"estado_id": 659,
+			"pais_id": 28,
+			"estadonombre": "Asturias"
+		},
+		{
+			"estado_id": 660,
+			"pais_id": 28,
+			"estadonombre": "Málaga"
+		},
+		{
+			"estado_id": 661,
+			"pais_id": 144,
+			"estadonombre": "Afghanistan"
+		},
+		{
+			"estado_id": 662,
+			"pais_id": 210,
+			"estadonombre": "Niger"
+		},
+		{
+			"estado_id": 663,
+			"pais_id": 133,
+			"estadonombre": "Mali"
+		},
+		{
+			"estado_id": 664,
+			"pais_id": 156,
+			"estadonombre": "Burkina Faso"
+		},
+		{
+			"estado_id": 665,
+			"pais_id": 136,
+			"estadonombre": "Togo"
+		},
+		{
+			"estado_id": 666,
+			"pais_id": 151,
+			"estadonombre": "Benin"
+		},
+		{
+			"estado_id": 667,
+			"pais_id": 119,
+			"estadonombre": "Angola"
+		},
+		{
+			"estado_id": 668,
+			"pais_id": 102,
+			"estadonombre": "Namibia"
+		},
+		{
+			"estado_id": 669,
+			"pais_id": 100,
+			"estadonombre": "Botswana"
+		},
+		{
+			"estado_id": 670,
+			"pais_id": 134,
+			"estadonombre": "Madagascar"
+		},
+		{
+			"estado_id": 671,
+			"pais_id": 202,
+			"estadonombre": "Mauritius"
+		},
+		{
+			"estado_id": 672,
+			"pais_id": 196,
+			"estadonombre": "Laos"
+		},
+		{
+			"estado_id": 673,
+			"pais_id": 158,
+			"estadonombre": "Cambodia"
+		},
+		{
+			"estado_id": 674,
+			"pais_id": 90,
+			"estadonombre": "Philippines"
+		},
+		{
+			"estado_id": 675,
+			"pais_id": 88,
+			"estadonombre": "Papua New Guinea"
+		},
+		{
+			"estado_id": 676,
+			"pais_id": 228,
+			"estadonombre": "Solomon Islands"
+		},
+		{
+			"estado_id": 677,
+			"pais_id": 240,
+			"estadonombre": "Vanuatu"
+		},
+		{
+			"estado_id": 678,
+			"pais_id": 176,
+			"estadonombre": "Fiji"
+		},
+		{
+			"estado_id": 679,
+			"pais_id": 223,
+			"estadonombre": "Samoa"
+		},
+		{
+			"estado_id": 680,
+			"pais_id": 206,
+			"estadonombre": "Nauru"
+		},
+		{
+			"estado_id": 681,
+			"pais_id": 168,
+			"estadonombre": "Cote DIvoire"
+		},
+		{
+			"estado_id": 682,
+			"pais_id": 198,
+			"estadonombre": "Liberia"
+		},
+		{
+			"estado_id": 683,
+			"pais_id": 187,
+			"estadonombre": "Guinea"
+		},
+		{
+			"estado_id": 684,
+			"pais_id": 189,
+			"estadonombre": "Guyana"
+		},
+		{
+			"estado_id": 685,
+			"pais_id": 98,
+			"estadonombre": "Algeria"
+		},
+		{
+			"estado_id": 686,
+			"pais_id": 147,
+			"estadonombre": "Antigua and Barbuda"
+		},
+		{
+			"estado_id": 687,
+			"pais_id": 127,
+			"estadonombre": "Bahrain"
+		},
+		{
+			"estado_id": 688,
+			"pais_id": 149,
+			"estadonombre": "Bangladesh"
+		},
+		{
+			"estado_id": 689,
+			"pais_id": 128,
+			"estadonombre": "Barbados"
+		},
+		{
+			"estado_id": 690,
+			"pais_id": 152,
+			"estadonombre": "Bhutan"
+		},
+		{
+			"estado_id": 691,
+			"pais_id": 155,
+			"estadonombre": "Brunei"
+		},
+		{
+			"estado_id": 692,
+			"pais_id": 157,
+			"estadonombre": "Burundi"
+		},
+		{
+			"estado_id": 693,
+			"pais_id": 159,
+			"estadonombre": "Cape Verde"
+		},
+		{
+			"estado_id": 694,
+			"pais_id": 130,
+			"estadonombre": "Chad"
+		},
+		{
+			"estado_id": 695,
+			"pais_id": 164,
+			"estadonombre": "Comoros"
+		},
+		{
+			"estado_id": 696,
+			"pais_id": 112,
+			"estadonombre": "Congo (Brazzaville)"
+		},
+		{
+			"estado_id": 697,
+			"pais_id": 169,
+			"estadonombre": "Djibouti"
+		},
+		{
+			"estado_id": 698,
+			"pais_id": 171,
+			"estadonombre": "East Timor"
+		},
+		{
+			"estado_id": 699,
+			"pais_id": 173,
+			"estadonombre": "Eritrea"
+		},
+		{
+			"estado_id": 700,
+			"pais_id": 121,
+			"estadonombre": "Ethiopia"
+		},
+		{
+			"estado_id": 701,
+			"pais_id": 180,
+			"estadonombre": "Gabon"
+		},
+		{
+			"estado_id": 702,
+			"pais_id": 181,
+			"estadonombre": "Gambia"
+		},
+		{
+			"estado_id": 703,
+			"pais_id": 105,
+			"estadonombre": "Ghana"
+		},
+		{
+			"estado_id": 704,
+			"pais_id": 197,
+			"estadonombre": "Lesotho"
+		},
+		{
+			"estado_id": 705,
+			"pais_id": 125,
+			"estadonombre": "Malawi"
+		},
+		{
+			"estado_id": 706,
+			"pais_id": 200,
+			"estadonombre": "Maldives"
+		},
+		{
+			"estado_id": 707,
+			"pais_id": 205,
+			"estadonombre": "Myanmar (Burma)"
+		},
+		{
+			"estado_id": 708,
+			"pais_id": 107,
+			"estadonombre": "Nepal"
+		},
+		{
+			"estado_id": 709,
+			"pais_id": 213,
+			"estadonombre": "Oman"
+		},
+		{
+			"estado_id": 710,
+			"pais_id": 217,
+			"estadonombre": "Rwanda"
+		},
+		{
+			"estado_id": 711,
+			"pais_id": 91,
+			"estadonombre": "Saudi Arabia"
+		},
+		{
+			"estado_id": 712,
+			"pais_id": 120,
+			"estadonombre": "Sri Lanka"
+		},
+		{
+			"estado_id": 713,
+			"pais_id": 232,
+			"estadonombre": "Sudan"
+		},
+		{
+			"estado_id": 714,
+			"pais_id": 234,
+			"estadonombre": "Swaziland"
+		},
+		{
+			"estado_id": 715,
+			"pais_id": 101,
+			"estadonombre": "Tanzania"
+		},
+		{
+			"estado_id": 716,
+			"pais_id": 236,
+			"estadonombre": "Tonga"
+		},
+		{
+			"estado_id": 717,
+			"pais_id": 239,
+			"estadonombre": "Tuvalu"
+		},
+		{
+			"estado_id": 718,
+			"pais_id": 242,
+			"estadonombre": "Western Sahara"
+		},
+		{
+			"estado_id": 719,
+			"pais_id": 243,
+			"estadonombre": "Yemen"
+		},
+		{
+			"estado_id": 720,
+			"pais_id": 116,
+			"estadonombre": "Zambia"
+		},
+		{
+			"estado_id": 721,
+			"pais_id": 96,
+			"estadonombre": "Zimbabwe"
+		},
+		{
+			"estado_id": 722,
+			"pais_id": 66,
+			"estadonombre": "Aargau"
+		},
+		{
+			"estado_id": 723,
+			"pais_id": 66,
+			"estadonombre": "Appenzell Innerrhoden"
+		},
+		{
+			"estado_id": 724,
+			"pais_id": 66,
+			"estadonombre": "Appenzell Ausserrhoden"
+		},
+		{
+			"estado_id": 725,
+			"pais_id": 66,
+			"estadonombre": "Bern"
+		},
+		{
+			"estado_id": 726,
+			"pais_id": 66,
+			"estadonombre": "Basel-Landschaft"
+		},
+		{
+			"estado_id": 727,
+			"pais_id": 66,
+			"estadonombre": "Basel-Stadt"
+		},
+		{
+			"estado_id": 728,
+			"pais_id": 66,
+			"estadonombre": "Fribourg"
+		},
+		{
+			"estado_id": 729,
+			"pais_id": 66,
+			"estadonombre": "Genève"
+		},
+		{
+			"estado_id": 730,
+			"pais_id": 66,
+			"estadonombre": "Glarus"
+		},
+		{
+			"estado_id": 731,
+			"pais_id": 66,
+			"estadonombre": "Graubünden"
+		},
+		{
+			"estado_id": 732,
+			"pais_id": 66,
+			"estadonombre": "Jura"
+		},
+		{
+			"estado_id": 733,
+			"pais_id": 66,
+			"estadonombre": "Luzern"
+		},
+		{
+			"estado_id": 734,
+			"pais_id": 66,
+			"estadonombre": "Neuchâtel"
+		},
+		{
+			"estado_id": 735,
+			"pais_id": 66,
+			"estadonombre": "Nidwalden"
+		},
+		{
+			"estado_id": 736,
+			"pais_id": 66,
+			"estadonombre": "Obwalden"
+		},
+		{
+			"estado_id": 737,
+			"pais_id": 66,
+			"estadonombre": "Sankt Gallen"
+		},
+		{
+			"estado_id": 738,
+			"pais_id": 66,
+			"estadonombre": "Schaffhausen"
+		},
+		{
+			"estado_id": 739,
+			"pais_id": 66,
+			"estadonombre": "Solothurn"
+		},
+		{
+			"estado_id": 740,
+			"pais_id": 66,
+			"estadonombre": "Schwyz"
+		},
+		{
+			"estado_id": 741,
+			"pais_id": 66,
+			"estadonombre": "Thurgau"
+		},
+		{
+			"estado_id": 742,
+			"pais_id": 66,
+			"estadonombre": "Ticino"
+		},
+		{
+			"estado_id": 743,
+			"pais_id": 66,
+			"estadonombre": "Uri"
+		},
+		{
+			"estado_id": 744,
+			"pais_id": 66,
+			"estadonombre": "Vaud"
+		},
+		{
+			"estado_id": 745,
+			"pais_id": 66,
+			"estadonombre": "Valais"
+		},
+		{
+			"estado_id": 746,
+			"pais_id": 66,
+			"estadonombre": "Zug"
+		},
+		{
+			"estado_id": 747,
+			"pais_id": 66,
+			"estadonombre": "Zürich"
+		},
+		{
+			"estado_id": 749,
+			"pais_id": 48,
+			"estadonombre": "Aveiro"
+		},
+		{
+			"estado_id": 750,
+			"pais_id": 48,
+			"estadonombre": "Beja"
+		},
+		{
+			"estado_id": 751,
+			"pais_id": 48,
+			"estadonombre": "Braga"
+		},
+		{
+			"estado_id": 752,
+			"pais_id": 48,
+			"estadonombre": "Braganca"
+		},
+		{
+			"estado_id": 753,
+			"pais_id": 48,
+			"estadonombre": "Castelo Branco"
+		},
+		{
+			"estado_id": 754,
+			"pais_id": 48,
+			"estadonombre": "Coimbra"
+		},
+		{
+			"estado_id": 755,
+			"pais_id": 48,
+			"estadonombre": "Evora"
+		},
+		{
+			"estado_id": 756,
+			"pais_id": 48,
+			"estadonombre": "Faro"
+		},
+		{
+			"estado_id": 757,
+			"pais_id": 48,
+			"estadonombre": "Madeira"
+		},
+		{
+			"estado_id": 758,
+			"pais_id": 48,
+			"estadonombre": "Guarda"
+		},
+		{
+			"estado_id": 759,
+			"pais_id": 48,
+			"estadonombre": "Leiria"
+		},
+		{
+			"estado_id": 760,
+			"pais_id": 48,
+			"estadonombre": "Lisboa"
+		},
+		{
+			"estado_id": 761,
+			"pais_id": 48,
+			"estadonombre": "Portalegre"
+		},
+		{
+			"estado_id": 762,
+			"pais_id": 48,
+			"estadonombre": "Porto"
+		},
+		{
+			"estado_id": 763,
+			"pais_id": 48,
+			"estadonombre": "Santarem"
+		},
+		{
+			"estado_id": 764,
+			"pais_id": 48,
+			"estadonombre": "Setubal"
+		},
+		{
+			"estado_id": 765,
+			"pais_id": 48,
+			"estadonombre": "Viana do Castelo"
+		},
+		{
+			"estado_id": 766,
+			"pais_id": 48,
+			"estadonombre": "Vila Real"
+		},
+		{
+			"estado_id": 767,
+			"pais_id": 48,
+			"estadonombre": "Viseu"
+		},
+		{
+			"estado_id": 768,
+			"pais_id": 48,
+			"estadonombre": "Azores"
+		},
+		{
+			"estado_id": 769,
+			"pais_id": 55,
+			"estadonombre": "Armed Forces Americas"
+		},
+		{
+			"estado_id": 770,
+			"pais_id": 55,
+			"estadonombre": "Armed Forces Europe"
+		},
+		{
+			"estado_id": 771,
+			"pais_id": 55,
+			"estadonombre": "Alaska"
+		},
+		{
+			"estado_id": 772,
+			"pais_id": 55,
+			"estadonombre": "Alabama"
+		},
+		{
+			"estado_id": 773,
+			"pais_id": 55,
+			"estadonombre": "Armed Forces Pacific"
+		},
+		{
+			"estado_id": 774,
+			"pais_id": 55,
+			"estadonombre": "Arkansas"
+		},
+		{
+			"estado_id": 775,
+			"pais_id": 55,
+			"estadonombre": "American Samoa"
+		},
+		{
+			"estado_id": 776,
+			"pais_id": 55,
+			"estadonombre": "Arizona"
+		},
+		{
+			"estado_id": 777,
+			"pais_id": 55,
+			"estadonombre": "California"
+		},
+		{
+			"estado_id": 778,
+			"pais_id": 55,
+			"estadonombre": "Colorado"
+		},
+		{
+			"estado_id": 779,
+			"pais_id": 55,
+			"estadonombre": "Connecticut"
+		},
+		{
+			"estado_id": 780,
+			"pais_id": 55,
+			"estadonombre": "District of Columbia"
+		},
+		{
+			"estado_id": 781,
+			"pais_id": 55,
+			"estadonombre": "Delaware"
+		},
+		{
+			"estado_id": 782,
+			"pais_id": 55,
+			"estadonombre": "Florida"
+		},
+		{
+			"estado_id": 783,
+			"pais_id": 55,
+			"estadonombre": "Federated States of Micronesia"
+		},
+		{
+			"estado_id": 784,
+			"pais_id": 55,
+			"estadonombre": "Georgia"
+		},
+		{
+			"estado_id": 786,
+			"pais_id": 55,
+			"estadonombre": "Hawaii"
+		},
+		{
+			"estado_id": 787,
+			"pais_id": 55,
+			"estadonombre": "Iowa"
+		},
+		{
+			"estado_id": 788,
+			"pais_id": 55,
+			"estadonombre": "Idaho"
+		},
+		{
+			"estado_id": 789,
+			"pais_id": 55,
+			"estadonombre": "Illinois"
+		},
+		{
+			"estado_id": 790,
+			"pais_id": 55,
+			"estadonombre": "Indiana"
+		},
+		{
+			"estado_id": 791,
+			"pais_id": 55,
+			"estadonombre": "Kansas"
+		},
+		{
+			"estado_id": 792,
+			"pais_id": 55,
+			"estadonombre": "Kentucky"
+		},
+		{
+			"estado_id": 793,
+			"pais_id": 55,
+			"estadonombre": "Louisiana"
+		},
+		{
+			"estado_id": 794,
+			"pais_id": 55,
+			"estadonombre": "Massachusetts"
+		},
+		{
+			"estado_id": 795,
+			"pais_id": 55,
+			"estadonombre": "Maryland"
+		},
+		{
+			"estado_id": 796,
+			"pais_id": 55,
+			"estadonombre": "Maine"
+		},
+		{
+			"estado_id": 797,
+			"pais_id": 55,
+			"estadonombre": "Marshall Islands"
+		},
+		{
+			"estado_id": 798,
+			"pais_id": 55,
+			"estadonombre": "Michigan"
+		},
+		{
+			"estado_id": 799,
+			"pais_id": 55,
+			"estadonombre": "Minnesota"
+		},
+		{
+			"estado_id": 800,
+			"pais_id": 55,
+			"estadonombre": "Missouri"
+		},
+		{
+			"estado_id": 801,
+			"pais_id": 55,
+			"estadonombre": "Northern Mariana Islands"
+		},
+		{
+			"estado_id": 802,
+			"pais_id": 55,
+			"estadonombre": "Mississippi"
+		},
+		{
+			"estado_id": 803,
+			"pais_id": 55,
+			"estadonombre": "Montana"
+		},
+		{
+			"estado_id": 804,
+			"pais_id": 55,
+			"estadonombre": "North Carolina"
+		},
+		{
+			"estado_id": 805,
+			"pais_id": 55,
+			"estadonombre": "North Dakota"
+		},
+		{
+			"estado_id": 806,
+			"pais_id": 55,
+			"estadonombre": "Nebraska"
+		},
+		{
+			"estado_id": 807,
+			"pais_id": 55,
+			"estadonombre": "New Hampshire"
+		},
+		{
+			"estado_id": 808,
+			"pais_id": 55,
+			"estadonombre": "New Jersey"
+		},
+		{
+			"estado_id": 809,
+			"pais_id": 55,
+			"estadonombre": "New Mexico"
+		},
+		{
+			"estado_id": 810,
+			"pais_id": 55,
+			"estadonombre": "Nevada"
+		},
+		{
+			"estado_id": 811,
+			"pais_id": 55,
+			"estadonombre": "New York"
+		},
+		{
+			"estado_id": 812,
+			"pais_id": 55,
+			"estadonombre": "Ohio"
+		},
+		{
+			"estado_id": 813,
+			"pais_id": 55,
+			"estadonombre": "Oklahoma"
+		},
+		{
+			"estado_id": 814,
+			"pais_id": 55,
+			"estadonombre": "Oregon"
+		},
+		{
+			"estado_id": 815,
+			"pais_id": 55,
+			"estadonombre": "Pennsylvania"
+		},
+		{
+			"estado_id": 816,
+			"pais_id": 246,
+			"estadonombre": "Puerto Rico"
+		},
+		{
+			"estado_id": 817,
+			"pais_id": 55,
+			"estadonombre": "Palau"
+		},
+		{
+			"estado_id": 818,
+			"pais_id": 55,
+			"estadonombre": "Rhode Island"
+		},
+		{
+			"estado_id": 819,
+			"pais_id": 55,
+			"estadonombre": "South Carolina"
+		},
+		{
+			"estado_id": 820,
+			"pais_id": 55,
+			"estadonombre": "South Dakota"
+		},
+		{
+			"estado_id": 821,
+			"pais_id": 55,
+			"estadonombre": "Tennessee"
+		},
+		{
+			"estado_id": 822,
+			"pais_id": 55,
+			"estadonombre": "Texas"
+		},
+		{
+			"estado_id": 823,
+			"pais_id": 55,
+			"estadonombre": "Utah"
+		},
+		{
+			"estado_id": 824,
+			"pais_id": 55,
+			"estadonombre": "Virginia"
+		},
+		{
+			"estado_id": 825,
+			"pais_id": 55,
+			"estadonombre": "Virgin Islands"
+		},
+		{
+			"estado_id": 826,
+			"pais_id": 55,
+			"estadonombre": "Vermont"
+		},
+		{
+			"estado_id": 827,
+			"pais_id": 55,
+			"estadonombre": "Washington"
+		},
+		{
+			"estado_id": 828,
+			"pais_id": 55,
+			"estadonombre": "West Virginia"
+		},
+		{
+			"estado_id": 829,
+			"pais_id": 55,
+			"estadonombre": "Wisconsin"
+		},
+		{
+			"estado_id": 830,
+			"pais_id": 55,
+			"estadonombre": "Wyoming"
+		},
+		{
+			"estado_id": 831,
+			"pais_id": 94,
+			"estadonombre": "Greenland"
+		},
+		{
+			"estado_id": 832,
+			"pais_id": 18,
+			"estadonombre": "Brandenburg"
+		},
+		{
+			"estado_id": 833,
+			"pais_id": 18,
+			"estadonombre": "Baden-Württemberg"
+		},
+		{
+			"estado_id": 834,
+			"pais_id": 18,
+			"estadonombre": "Bayern"
+		},
+		{
+			"estado_id": 835,
+			"pais_id": 18,
+			"estadonombre": "Hessen"
+		},
+		{
+			"estado_id": 836,
+			"pais_id": 18,
+			"estadonombre": "Hamburg"
+		},
+		{
+			"estado_id": 837,
+			"pais_id": 18,
+			"estadonombre": "Mecklenburg-Vorpommern"
+		},
+		{
+			"estado_id": 838,
+			"pais_id": 18,
+			"estadonombre": "Niedersachsen"
+		},
+		{
+			"estado_id": 839,
+			"pais_id": 18,
+			"estadonombre": "Nordrhein-Westfalen"
+		},
+		{
+			"estado_id": 840,
+			"pais_id": 18,
+			"estadonombre": "Rheinland-Pfalz"
+		},
+		{
+			"estado_id": 841,
+			"pais_id": 18,
+			"estadonombre": "Schleswig-Holstein"
+		},
+		{
+			"estado_id": 842,
+			"pais_id": 18,
+			"estadonombre": "Sachsen"
+		},
+		{
+			"estado_id": 843,
+			"pais_id": 18,
+			"estadonombre": "Sachsen-Anhalt"
+		},
+		{
+			"estado_id": 844,
+			"pais_id": 18,
+			"estadonombre": "Thüringen"
+		},
+		{
+			"estado_id": 845,
+			"pais_id": 18,
+			"estadonombre": "Berlin"
+		},
+		{
+			"estado_id": 846,
+			"pais_id": 18,
+			"estadonombre": "Bremen"
+		},
+		{
+			"estado_id": 847,
+			"pais_id": 18,
+			"estadonombre": "Saarland"
+		},
+		{
+			"estado_id": 848,
+			"pais_id": 13,
+			"estadonombre": "Scotland North"
+		},
+		{
+			"estado_id": 849,
+			"pais_id": 13,
+			"estadonombre": "England - East"
+		},
+		{
+			"estado_id": 850,
+			"pais_id": 13,
+			"estadonombre": "England - West Midlands"
+		},
+		{
+			"estado_id": 851,
+			"pais_id": 13,
+			"estadonombre": "England - South West"
+		},
+		{
+			"estado_id": 852,
+			"pais_id": 13,
+			"estadonombre": "England - North West"
+		},
+		{
+			"estado_id": 853,
+			"pais_id": 13,
+			"estadonombre": "England - Yorks Y Humber"
+		},
+		{
+			"estado_id": 854,
+			"pais_id": 13,
+			"estadonombre": "England - South East"
+		},
+		{
+			"estado_id": 855,
+			"pais_id": 13,
+			"estadonombre": "England - London"
+		},
+		{
+			"estado_id": 856,
+			"pais_id": 13,
+			"estadonombre": "Northern Ireland"
+		},
+		{
+			"estado_id": 857,
+			"pais_id": 13,
+			"estadonombre": "England - North East"
+		},
+		{
+			"estado_id": 858,
+			"pais_id": 13,
+			"estadonombre": "Wales South"
+		},
+		{
+			"estado_id": 859,
+			"pais_id": 13,
+			"estadonombre": "Wales North"
+		},
+		{
+			"estado_id": 860,
+			"pais_id": 13,
+			"estadonombre": "England - East Midlands"
+		},
+		{
+			"estado_id": 861,
+			"pais_id": 13,
+			"estadonombre": "Scotland Central"
+		},
+		{
+			"estado_id": 862,
+			"pais_id": 13,
+			"estadonombre": "Scotland South"
+		},
+		{
+			"estado_id": 863,
+			"pais_id": 13,
+			"estadonombre": "Channel Islands"
+		},
+		{
+			"estado_id": 864,
+			"pais_id": 13,
+			"estadonombre": "Isle of Man"
+		},
+		{
+			"estado_id": 865,
+			"pais_id": 2,
+			"estadonombre": "Burgenland"
+		},
+		{
+			"estado_id": 866,
+			"pais_id": 2,
+			"estadonombre": "Kärnten"
+		},
+		{
+			"estado_id": 867,
+			"pais_id": 2,
+			"estadonombre": "Niederösterreich"
+		},
+		{
+			"estado_id": 868,
+			"pais_id": 2,
+			"estadonombre": "Oberösterreich"
+		},
+		{
+			"estado_id": 869,
+			"pais_id": 2,
+			"estadonombre": "Salzburg"
+		},
+		{
+			"estado_id": 870,
+			"pais_id": 2,
+			"estadonombre": "Steiermark"
+		},
+		{
+			"estado_id": 871,
+			"pais_id": 2,
+			"estadonombre": "Tirol"
+		},
+		{
+			"estado_id": 872,
+			"pais_id": 2,
+			"estadonombre": "Vorarlberg"
+		},
+		{
+			"estado_id": 873,
+			"pais_id": 2,
+			"estadonombre": "Wien"
+		},
+		{
+			"estado_id": 874,
+			"pais_id": 9,
+			"estadonombre": "Bruxelles"
+		},
+		{
+			"estado_id": 875,
+			"pais_id": 9,
+			"estadonombre": "West-Vlaanderen"
+		},
+		{
+			"estado_id": 876,
+			"pais_id": 9,
+			"estadonombre": "Oost-Vlaanderen"
+		},
+		{
+			"estado_id": 877,
+			"pais_id": 9,
+			"estadonombre": "Limburg"
+		},
+		{
+			"estado_id": 878,
+			"pais_id": 9,
+			"estadonombre": "Vlaams Brabant"
+		},
+		{
+			"estado_id": 879,
+			"pais_id": 9,
+			"estadonombre": "Antwerpen"
+		},
+		{
+			"estado_id": 880,
+			"pais_id": 9,
+			"estadonombre": "LiÃ„Â�ge"
+		},
+		{
+			"estado_id": 881,
+			"pais_id": 9,
+			"estadonombre": "Namur"
+		},
+		{
+			"estado_id": 882,
+			"pais_id": 9,
+			"estadonombre": "Hainaut"
+		},
+		{
+			"estado_id": 883,
+			"pais_id": 9,
+			"estadonombre": "Luxembourg"
+		},
+		{
+			"estado_id": 884,
+			"pais_id": 9,
+			"estadonombre": "Brabant Wallon"
+		},
+		{
+			"estado_id": 887,
+			"pais_id": 67,
+			"estadonombre": "Blekinge Lan"
+		},
+		{
+			"estado_id": 888,
+			"pais_id": 67,
+			"estadonombre": "Gavleborgs Lan"
+		},
+		{
+			"estado_id": 890,
+			"pais_id": 67,
+			"estadonombre": "Gotlands Lan"
+		},
+		{
+			"estado_id": 891,
+			"pais_id": 67,
+			"estadonombre": "Hallands Lan"
+		},
+		{
+			"estado_id": 892,
+			"pais_id": 67,
+			"estadonombre": "Jamtlands Lan"
+		},
+		{
+			"estado_id": 893,
+			"pais_id": 67,
+			"estadonombre": "Jonkopings Lan"
+		},
+		{
+			"estado_id": 894,
+			"pais_id": 67,
+			"estadonombre": "Kalmar Lan"
+		},
+		{
+			"estado_id": 895,
+			"pais_id": 67,
+			"estadonombre": "Dalarnas Lan"
+		},
+		{
+			"estado_id": 897,
+			"pais_id": 67,
+			"estadonombre": "Kronobergs Lan"
+		},
+		{
+			"estado_id": 899,
+			"pais_id": 67,
+			"estadonombre": "Norrbottens Lan"
+		},
+		{
+			"estado_id": 900,
+			"pais_id": 67,
+			"estadonombre": "Orebro Lan"
+		},
+		{
+			"estado_id": 901,
+			"pais_id": 67,
+			"estadonombre": "Ostergotlands Lan"
+		},
+		{
+			"estado_id": 903,
+			"pais_id": 67,
+			"estadonombre": "Sodermanlands Lan"
+		},
+		{
+			"estado_id": 904,
+			"pais_id": 67,
+			"estadonombre": "Uppsala Lan"
+		},
+		{
+			"estado_id": 905,
+			"pais_id": 67,
+			"estadonombre": "Varmlands Lan"
+		},
+		{
+			"estado_id": 906,
+			"pais_id": 67,
+			"estadonombre": "Vasterbottens Lan"
+		},
+		{
+			"estado_id": 907,
+			"pais_id": 67,
+			"estadonombre": "Vasternorrlands Lan"
+		},
+		{
+			"estado_id": 908,
+			"pais_id": 67,
+			"estadonombre": "Vastmanlands Lan"
+		},
+		{
+			"estado_id": 909,
+			"pais_id": 67,
+			"estadonombre": "Stockholms Lan"
+		},
+		{
+			"estado_id": 910,
+			"pais_id": 67,
+			"estadonombre": "Skane Lan"
+		},
+		{
+			"estado_id": 911,
+			"pais_id": 67,
+			"estadonombre": "Vastra Gotaland"
+		},
+		{
+			"estado_id": 913,
+			"pais_id": 46,
+			"estadonombre": "Akershus"
+		},
+		{
+			"estado_id": 914,
+			"pais_id": 46,
+			"estadonombre": "Aust-Agder"
+		},
+		{
+			"estado_id": 915,
+			"pais_id": 46,
+			"estadonombre": "Buskerud"
+		},
+		{
+			"estado_id": 916,
+			"pais_id": 46,
+			"estadonombre": "Finnmark"
+		},
+		{
+			"estado_id": 917,
+			"pais_id": 46,
+			"estadonombre": "Hedmark"
+		},
+		{
+			"estado_id": 918,
+			"pais_id": 46,
+			"estadonombre": "Hordaland"
+		},
+		{
+			"estado_id": 919,
+			"pais_id": 46,
+			"estadonombre": "More og Romsdal"
+		},
+		{
+			"estado_id": 920,
+			"pais_id": 46,
+			"estadonombre": "Nordland"
+		},
+		{
+			"estado_id": 921,
+			"pais_id": 46,
+			"estadonombre": "Nord-Trondelag"
+		},
+		{
+			"estado_id": 922,
+			"pais_id": 46,
+			"estadonombre": "Oppland"
+		},
+		{
+			"estado_id": 923,
+			"pais_id": 46,
+			"estadonombre": "Oslo"
+		},
+		{
+			"estado_id": 924,
+			"pais_id": 46,
+			"estadonombre": "Ostfold"
+		},
+		{
+			"estado_id": 925,
+			"pais_id": 46,
+			"estadonombre": "Rogaland"
+		},
+		{
+			"estado_id": 926,
+			"pais_id": 46,
+			"estadonombre": "Sogn og Fjordane"
+		},
+		{
+			"estado_id": 927,
+			"pais_id": 46,
+			"estadonombre": "Sor-Trondelag"
+		},
+		{
+			"estado_id": 928,
+			"pais_id": 46,
+			"estadonombre": "Telemark"
+		},
+		{
+			"estado_id": 929,
+			"pais_id": 46,
+			"estadonombre": "Troms"
+		},
+		{
+			"estado_id": 930,
+			"pais_id": 46,
+			"estadonombre": "Vest-Agder"
+		},
+		{
+			"estado_id": 931,
+			"pais_id": 46,
+			"estadonombre": "Vestfold"
+		},
+		{
+			"estado_id": 933,
+			"pais_id": 63,
+			"estadonombre": "Ð•land"
+		},
+		{
+			"estado_id": 934,
+			"pais_id": 63,
+			"estadonombre": "Lapland"
+		},
+		{
+			"estado_id": 935,
+			"pais_id": 63,
+			"estadonombre": "Oulu"
+		},
+		{
+			"estado_id": 936,
+			"pais_id": 63,
+			"estadonombre": "Southern Finland"
+		},
+		{
+			"estado_id": 937,
+			"pais_id": 63,
+			"estadonombre": "Eastern Finland"
+		},
+		{
+			"estado_id": 938,
+			"pais_id": 63,
+			"estadonombre": "Western Finland"
+		},
+		{
+			"estado_id": 940,
+			"pais_id": 22,
+			"estadonombre": "Arhus"
+		},
+		{
+			"estado_id": 941,
+			"pais_id": 22,
+			"estadonombre": "Bornholm"
+		},
+		{
+			"estado_id": 942,
+			"pais_id": 22,
+			"estadonombre": "Frederiksborg"
+		},
+		{
+			"estado_id": 943,
+			"pais_id": 22,
+			"estadonombre": "Fyn"
+		},
+		{
+			"estado_id": 944,
+			"pais_id": 22,
+			"estadonombre": "Kobenhavn"
+		},
+		{
+			"estado_id": 945,
+			"pais_id": 22,
+			"estadonombre": "Staden Kobenhavn"
+		},
+		{
+			"estado_id": 946,
+			"pais_id": 22,
+			"estadonombre": "Nordjylland"
+		},
+		{
+			"estado_id": 947,
+			"pais_id": 22,
+			"estadonombre": "Ribe"
+		},
+		{
+			"estado_id": 948,
+			"pais_id": 22,
+			"estadonombre": "Ringkobing"
+		},
+		{
+			"estado_id": 949,
+			"pais_id": 22,
+			"estadonombre": "Roskilde"
+		},
+		{
+			"estado_id": 950,
+			"pais_id": 22,
+			"estadonombre": "Sonderjylland"
+		},
+		{
+			"estado_id": 951,
+			"pais_id": 22,
+			"estadonombre": "Storstrom"
+		},
+		{
+			"estado_id": 952,
+			"pais_id": 22,
+			"estadonombre": "Vejle"
+		},
+		{
+			"estado_id": 953,
+			"pais_id": 22,
+			"estadonombre": "Vestsjalland"
+		},
+		{
+			"estado_id": 954,
+			"pais_id": 22,
+			"estadonombre": "Viborg"
+		},
+		{
+			"estado_id": 956,
+			"pais_id": 65,
+			"estadonombre": "Hlavni Mesto Praha"
+		},
+		{
+			"estado_id": 957,
+			"pais_id": 65,
+			"estadonombre": "Jihomoravsky Kraj"
+		},
+		{
+			"estado_id": 958,
+			"pais_id": 65,
+			"estadonombre": "Jihocesky Kraj"
+		},
+		{
+			"estado_id": 959,
+			"pais_id": 65,
+			"estadonombre": "Vysocina"
+		},
+		{
+			"estado_id": 960,
+			"pais_id": 65,
+			"estadonombre": "Karlovarsky Kraj"
+		},
+		{
+			"estado_id": 961,
+			"pais_id": 65,
+			"estadonombre": "Kralovehradecky Kraj"
+		},
+		{
+			"estado_id": 962,
+			"pais_id": 65,
+			"estadonombre": "Liberecky Kraj"
+		},
+		{
+			"estado_id": 963,
+			"pais_id": 65,
+			"estadonombre": "Olomoucky Kraj"
+		},
+		{
+			"estado_id": 964,
+			"pais_id": 65,
+			"estadonombre": "Moravskoslezsky Kraj"
+		},
+		{
+			"estado_id": 965,
+			"pais_id": 65,
+			"estadonombre": "Pardubicky Kraj"
+		},
+		{
+			"estado_id": 966,
+			"pais_id": 65,
+			"estadonombre": "Plzensky Kraj"
+		},
+		{
+			"estado_id": 967,
+			"pais_id": 65,
+			"estadonombre": "Stredocesky Kraj"
+		},
+		{
+			"estado_id": 968,
+			"pais_id": 65,
+			"estadonombre": "Ustecky Kraj"
+		},
+		{
+			"estado_id": 969,
+			"pais_id": 65,
+			"estadonombre": "Zlinsky Kraj"
+		},
+		{
+			"estado_id": 971,
+			"pais_id": 114,
+			"estadonombre": "Berat"
+		},
+		{
+			"estado_id": 972,
+			"pais_id": 114,
+			"estadonombre": "Diber"
+		},
+		{
+			"estado_id": 973,
+			"pais_id": 114,
+			"estadonombre": "Durres"
+		},
+		{
+			"estado_id": 974,
+			"pais_id": 114,
+			"estadonombre": "Elbasan"
+		},
+		{
+			"estado_id": 975,
+			"pais_id": 114,
+			"estadonombre": "Fier"
+		},
+		{
+			"estado_id": 976,
+			"pais_id": 114,
+			"estadonombre": "Gjirokaster"
+		},
+		{
+			"estado_id": 977,
+			"pais_id": 114,
+			"estadonombre": "Korce"
+		},
+		{
+			"estado_id": 978,
+			"pais_id": 114,
+			"estadonombre": "Kukes"
+		},
+		{
+			"estado_id": 979,
+			"pais_id": 114,
+			"estadonombre": "Lezhe"
+		},
+		{
+			"estado_id": 980,
+			"pais_id": 114,
+			"estadonombre": "Shkoder"
+		},
+		{
+			"estado_id": 981,
+			"pais_id": 114,
+			"estadonombre": "Tirane"
+		},
+		{
+			"estado_id": 982,
+			"pais_id": 114,
+			"estadonombre": "Vlore"
+		},
+		{
+			"estado_id": 984,
+			"pais_id": 145,
+			"estadonombre": "Canillo"
+		},
+		{
+			"estado_id": 985,
+			"pais_id": 145,
+			"estadonombre": "Encamp"
+		},
+		{
+			"estado_id": 986,
+			"pais_id": 145,
+			"estadonombre": "La Massana"
+		},
+		{
+			"estado_id": 987,
+			"pais_id": 145,
+			"estadonombre": "Ordino"
+		},
+		{
+			"estado_id": 988,
+			"pais_id": 145,
+			"estadonombre": "Sant Julia de Loria"
+		},
+		{
+			"estado_id": 989,
+			"pais_id": 145,
+			"estadonombre": "Andorra la Vella"
+		},
+		{
+			"estado_id": 990,
+			"pais_id": 145,
+			"estadonombre": "Escaldes-Engordany"
+		},
+		{
+			"estado_id": 992,
+			"pais_id": 6,
+			"estadonombre": "Aragatsotn"
+		},
+		{
+			"estado_id": 993,
+			"pais_id": 6,
+			"estadonombre": "Ararat"
+		},
+		{
+			"estado_id": 994,
+			"pais_id": 6,
+			"estadonombre": "Armavir"
+		},
+		{
+			"estado_id": 995,
+			"pais_id": 6,
+			"estadonombre": "Gegharkunik"
+		},
+		{
+			"estado_id": 996,
+			"pais_id": 6,
+			"estadonombre": "Kotayk"
+		},
+		{
+			"estado_id": 997,
+			"pais_id": 6,
+			"estadonombre": "Lorri"
+		},
+		{
+			"estado_id": 998,
+			"pais_id": 6,
+			"estadonombre": "Shirak"
+		},
+		{
+			"estado_id": 999,
+			"pais_id": 6,
+			"estadonombre": "Syunik"
+		},
+		{
+			"estado_id": 1000,
+			"pais_id": 6,
+			"estadonombre": "Tavush"
+		},
+		{
+			"estado_id": 1001,
+			"pais_id": 6,
+			"estadonombre": "Vayots Dzor"
+		},
+		{
+			"estado_id": 1002,
+			"pais_id": 6,
+			"estadonombre": "Yerevan"
+		},
+		{
+			"estado_id": 1004,
+			"pais_id": 79,
+			"estadonombre": "Federation of Bosnia and Herzegovina"
+		},
+		{
+			"estado_id": 1005,
+			"pais_id": 79,
+			"estadonombre": "Republika Srpska"
+		},
+		{
+			"estado_id": 1007,
+			"pais_id": 11,
+			"estadonombre": "Mikhaylovgrad"
+		},
+		{
+			"estado_id": 1008,
+			"pais_id": 11,
+			"estadonombre": "Blagoevgrad"
+		},
+		{
+			"estado_id": 1009,
+			"pais_id": 11,
+			"estadonombre": "Burgas"
+		},
+		{
+			"estado_id": 1010,
+			"pais_id": 11,
+			"estadonombre": "Dobrich"
+		},
+		{
+			"estado_id": 1011,
+			"pais_id": 11,
+			"estadonombre": "Gabrovo"
+		},
+		{
+			"estado_id": 1012,
+			"pais_id": 11,
+			"estadonombre": "Grad Sofiya"
+		},
+		{
+			"estado_id": 1013,
+			"pais_id": 11,
+			"estadonombre": "Khaskovo"
+		},
+		{
+			"estado_id": 1014,
+			"pais_id": 11,
+			"estadonombre": "Kurdzhali"
+		},
+		{
+			"estado_id": 1015,
+			"pais_id": 11,
+			"estadonombre": "Kyustendil"
+		},
+		{
+			"estado_id": 1016,
+			"pais_id": 11,
+			"estadonombre": "Lovech"
+		},
+		{
+			"estado_id": 1017,
+			"pais_id": 11,
+			"estadonombre": "Montana"
+		},
+		{
+			"estado_id": 1018,
+			"pais_id": 11,
+			"estadonombre": "Pazardzhik"
+		},
+		{
+			"estado_id": 1019,
+			"pais_id": 11,
+			"estadonombre": "Pernik"
+		},
+		{
+			"estado_id": 1020,
+			"pais_id": 11,
+			"estadonombre": "Pleven"
+		},
+		{
+			"estado_id": 1021,
+			"pais_id": 11,
+			"estadonombre": "Plovdiv"
+		},
+		{
+			"estado_id": 1022,
+			"pais_id": 11,
+			"estadonombre": "Razgrad"
+		},
+		{
+			"estado_id": 1023,
+			"pais_id": 11,
+			"estadonombre": "Ruse"
+		},
+		{
+			"estado_id": 1024,
+			"pais_id": 11,
+			"estadonombre": "Shumen"
+		},
+		{
+			"estado_id": 1025,
+			"pais_id": 11,
+			"estadonombre": "Silistra"
+		},
+		{
+			"estado_id": 1026,
+			"pais_id": 11,
+			"estadonombre": "Sliven"
+		},
+		{
+			"estado_id": 1027,
+			"pais_id": 11,
+			"estadonombre": "Smolyan"
+		},
+		{
+			"estado_id": 1028,
+			"pais_id": 11,
+			"estadonombre": "Sofiya"
+		},
+		{
+			"estado_id": 1029,
+			"pais_id": 11,
+			"estadonombre": "Stara Zagora"
+		},
+		{
+			"estado_id": 1030,
+			"pais_id": 11,
+			"estadonombre": "Turgovishte"
+		},
+		{
+			"estado_id": 1031,
+			"pais_id": 11,
+			"estadonombre": "Varna"
+		},
+		{
+			"estado_id": 1032,
+			"pais_id": 11,
+			"estadonombre": "Veliko Turnovo"
+		},
+		{
+			"estado_id": 1033,
+			"pais_id": 11,
+			"estadonombre": "Vidin"
+		},
+		{
+			"estado_id": 1034,
+			"pais_id": 11,
+			"estadonombre": "Vratsa"
+		},
+		{
+			"estado_id": 1035,
+			"pais_id": 11,
+			"estadonombre": "Yambol"
+		},
+		{
+			"estado_id": 1037,
+			"pais_id": 71,
+			"estadonombre": "Bjelovarsko-Bilogorska"
+		},
+		{
+			"estado_id": 1038,
+			"pais_id": 71,
+			"estadonombre": "Brodsko-Posavska"
+		},
+		{
+			"estado_id": 1039,
+			"pais_id": 71,
+			"estadonombre": "Dubrovacko-Neretvanska"
+		},
+		{
+			"estado_id": 1040,
+			"pais_id": 71,
+			"estadonombre": "Istarska"
+		},
+		{
+			"estado_id": 1041,
+			"pais_id": 71,
+			"estadonombre": "Karlovacka"
+		},
+		{
+			"estado_id": 1042,
+			"pais_id": 71,
+			"estadonombre": "Koprivnicko-Krizevacka"
+		},
+		{
+			"estado_id": 1043,
+			"pais_id": 71,
+			"estadonombre": "Krapinsko-Zagorska"
+		},
+		{
+			"estado_id": 1044,
+			"pais_id": 71,
+			"estadonombre": "Licko-Senjska"
+		},
+		{
+			"estado_id": 1045,
+			"pais_id": 71,
+			"estadonombre": "Medimurska"
+		},
+		{
+			"estado_id": 1046,
+			"pais_id": 71,
+			"estadonombre": "Osjecko-Baranjska"
+		},
+		{
+			"estado_id": 1047,
+			"pais_id": 71,
+			"estadonombre": "Pozesko-Slavonska"
+		},
+		{
+			"estado_id": 1048,
+			"pais_id": 71,
+			"estadonombre": "Primorsko-Goranska"
+		},
+		{
+			"estado_id": 1049,
+			"pais_id": 71,
+			"estadonombre": "Sibensko-Kninska"
+		},
+		{
+			"estado_id": 1050,
+			"pais_id": 71,
+			"estadonombre": "Sisacko-Moslavacka"
+		},
+		{
+			"estado_id": 1051,
+			"pais_id": 71,
+			"estadonombre": "Splitsko-Dalmatinska"
+		},
+		{
+			"estado_id": 1052,
+			"pais_id": 71,
+			"estadonombre": "Varazdinska"
+		},
+		{
+			"estado_id": 1053,
+			"pais_id": 71,
+			"estadonombre": "Viroviticko-Podravska"
+		},
+		{
+			"estado_id": 1054,
+			"pais_id": 71,
+			"estadonombre": "Vukovarsko-Srijemska"
+		},
+		{
+			"estado_id": 1055,
+			"pais_id": 71,
+			"estadonombre": "Zadarska"
+		},
+		{
+			"estado_id": 1056,
+			"pais_id": 71,
+			"estadonombre": "Zagrebacka"
+		},
+		{
+			"estado_id": 1057,
+			"pais_id": 71,
+			"estadonombre": "Grad Zagreb"
+		},
+		{
+			"estado_id": 1059,
+			"pais_id": 143,
+			"estadonombre": "Gibraltar"
+		},
+		{
+			"estado_id": 1060,
+			"pais_id": 20,
+			"estadonombre": "Evros"
+		},
+		{
+			"estado_id": 1061,
+			"pais_id": 20,
+			"estadonombre": "Rodhopi"
+		},
+		{
+			"estado_id": 1062,
+			"pais_id": 20,
+			"estadonombre": "Xanthi"
+		},
+		{
+			"estado_id": 1063,
+			"pais_id": 20,
+			"estadonombre": "Drama"
+		},
+		{
+			"estado_id": 1064,
+			"pais_id": 20,
+			"estadonombre": "Serrai"
+		},
+		{
+			"estado_id": 1065,
+			"pais_id": 20,
+			"estadonombre": "Kilkis"
+		},
+		{
+			"estado_id": 1066,
+			"pais_id": 20,
+			"estadonombre": "Pella"
+		},
+		{
+			"estado_id": 1067,
+			"pais_id": 20,
+			"estadonombre": "Florina"
+		},
+		{
+			"estado_id": 1068,
+			"pais_id": 20,
+			"estadonombre": "Kastoria"
+		},
+		{
+			"estado_id": 1069,
+			"pais_id": 20,
+			"estadonombre": "Grevena"
+		},
+		{
+			"estado_id": 1070,
+			"pais_id": 20,
+			"estadonombre": "Kozani"
+		},
+		{
+			"estado_id": 1071,
+			"pais_id": 20,
+			"estadonombre": "Imathia"
+		},
+		{
+			"estado_id": 1072,
+			"pais_id": 20,
+			"estadonombre": "Thessaloniki"
+		},
+		{
+			"estado_id": 1073,
+			"pais_id": 20,
+			"estadonombre": "Kavala"
+		},
+		{
+			"estado_id": 1074,
+			"pais_id": 20,
+			"estadonombre": "Khalkidhiki"
+		},
+		{
+			"estado_id": 1075,
+			"pais_id": 20,
+			"estadonombre": "Pieria"
+		},
+		{
+			"estado_id": 1076,
+			"pais_id": 20,
+			"estadonombre": "Ioannina"
+		},
+		{
+			"estado_id": 1077,
+			"pais_id": 20,
+			"estadonombre": "Thesprotia"
+		},
+		{
+			"estado_id": 1078,
+			"pais_id": 20,
+			"estadonombre": "Preveza"
+		},
+		{
+			"estado_id": 1079,
+			"pais_id": 20,
+			"estadonombre": "Arta"
+		},
+		{
+			"estado_id": 1080,
+			"pais_id": 20,
+			"estadonombre": "Larisa"
+		},
+		{
+			"estado_id": 1081,
+			"pais_id": 20,
+			"estadonombre": "Trikala"
+		},
+		{
+			"estado_id": 1082,
+			"pais_id": 20,
+			"estadonombre": "Kardhitsa"
+		},
+		{
+			"estado_id": 1083,
+			"pais_id": 20,
+			"estadonombre": "Magnisia"
+		},
+		{
+			"estado_id": 1084,
+			"pais_id": 20,
+			"estadonombre": "Kerkira"
+		},
+		{
+			"estado_id": 1085,
+			"pais_id": 20,
+			"estadonombre": "Levkas"
+		},
+		{
+			"estado_id": 1086,
+			"pais_id": 20,
+			"estadonombre": "Kefallinia"
+		},
+		{
+			"estado_id": 1087,
+			"pais_id": 20,
+			"estadonombre": "Zakinthos"
+		},
+		{
+			"estado_id": 1088,
+			"pais_id": 20,
+			"estadonombre": "Fthiotis"
+		},
+		{
+			"estado_id": 1089,
+			"pais_id": 20,
+			"estadonombre": "Evritania"
+		},
+		{
+			"estado_id": 1090,
+			"pais_id": 20,
+			"estadonombre": "Aitolia kai Akarnania"
+		},
+		{
+			"estado_id": 1091,
+			"pais_id": 20,
+			"estadonombre": "Fokis"
+		},
+		{
+			"estado_id": 1092,
+			"pais_id": 20,
+			"estadonombre": "Voiotia"
+		},
+		{
+			"estado_id": 1093,
+			"pais_id": 20,
+			"estadonombre": "Evvoia"
+		},
+		{
+			"estado_id": 1094,
+			"pais_id": 20,
+			"estadonombre": "Attiki"
+		},
+		{
+			"estado_id": 1095,
+			"pais_id": 20,
+			"estadonombre": "Argolis"
+		},
+		{
+			"estado_id": 1096,
+			"pais_id": 20,
+			"estadonombre": "Korinthia"
+		},
+		{
+			"estado_id": 1097,
+			"pais_id": 20,
+			"estadonombre": "Akhaia"
+		},
+		{
+			"estado_id": 1098,
+			"pais_id": 20,
+			"estadonombre": "Ilia"
+		},
+		{
+			"estado_id": 1099,
+			"pais_id": 20,
+			"estadonombre": "Messinia"
+		},
+		{
+			"estado_id": 1100,
+			"pais_id": 20,
+			"estadonombre": "Arkadhia"
+		},
+		{
+			"estado_id": 1101,
+			"pais_id": 20,
+			"estadonombre": "Lakonia"
+		},
+		{
+			"estado_id": 1102,
+			"pais_id": 20,
+			"estadonombre": "Khania"
+		},
+		{
+			"estado_id": 1103,
+			"pais_id": 20,
+			"estadonombre": "Rethimni"
+		},
+		{
+			"estado_id": 1104,
+			"pais_id": 20,
+			"estadonombre": "Iraklion"
+		},
+		{
+			"estado_id": 1105,
+			"pais_id": 20,
+			"estadonombre": "Lasithi"
+		},
+		{
+			"estado_id": 1106,
+			"pais_id": 20,
+			"estadonombre": "Dhodhekanisos"
+		},
+		{
+			"estado_id": 1107,
+			"pais_id": 20,
+			"estadonombre": "Samos"
+		},
+		{
+			"estado_id": 1108,
+			"pais_id": 20,
+			"estadonombre": "Kikladhes"
+		},
+		{
+			"estado_id": 1109,
+			"pais_id": 20,
+			"estadonombre": "Khios"
+		},
+		{
+			"estado_id": 1110,
+			"pais_id": 20,
+			"estadonombre": "Lesvos"
+		},
+		{
+			"estado_id": 1112,
+			"pais_id": 14,
+			"estadonombre": "Bacs-Kiskun"
+		},
+		{
+			"estado_id": 1113,
+			"pais_id": 14,
+			"estadonombre": "Baranya"
+		},
+		{
+			"estado_id": 1114,
+			"pais_id": 14,
+			"estadonombre": "Bekes"
+		},
+		{
+			"estado_id": 1115,
+			"pais_id": 14,
+			"estadonombre": "Borsod-Abauj-Zemplen"
+		},
+		{
+			"estado_id": 1116,
+			"pais_id": 14,
+			"estadonombre": "Budapest"
+		},
+		{
+			"estado_id": 1117,
+			"pais_id": 14,
+			"estadonombre": "Csongrad"
+		},
+		{
+			"estado_id": 1118,
+			"pais_id": 14,
+			"estadonombre": "Debrecen"
+		},
+		{
+			"estado_id": 1119,
+			"pais_id": 14,
+			"estadonombre": "Fejer"
+		},
+		{
+			"estado_id": 1120,
+			"pais_id": 14,
+			"estadonombre": "Gyor-Moson-Sopron"
+		},
+		{
+			"estado_id": 1121,
+			"pais_id": 14,
+			"estadonombre": "Hajdu-Bihar"
+		},
+		{
+			"estado_id": 1122,
+			"pais_id": 14,
+			"estadonombre": "Heves"
+		},
+		{
+			"estado_id": 1123,
+			"pais_id": 14,
+			"estadonombre": "Komarom-Esztergom"
+		},
+		{
+			"estado_id": 1124,
+			"pais_id": 14,
+			"estadonombre": "Miskolc"
+		},
+		{
+			"estado_id": 1125,
+			"pais_id": 14,
+			"estadonombre": "Nograd"
+		},
+		{
+			"estado_id": 1126,
+			"pais_id": 14,
+			"estadonombre": "Pecs"
+		},
+		{
+			"estado_id": 1127,
+			"pais_id": 14,
+			"estadonombre": "Pest"
+		},
+		{
+			"estado_id": 1128,
+			"pais_id": 14,
+			"estadonombre": "Somogy"
+		},
+		{
+			"estado_id": 1129,
+			"pais_id": 14,
+			"estadonombre": "Szabolcs-Szatmar-Bereg"
+		},
+		{
+			"estado_id": 1130,
+			"pais_id": 14,
+			"estadonombre": "Szeged"
+		},
+		{
+			"estado_id": 1131,
+			"pais_id": 14,
+			"estadonombre": "Jasz-Nagykun-Szolnok"
+		},
+		{
+			"estado_id": 1132,
+			"pais_id": 14,
+			"estadonombre": "Tolna"
+		},
+		{
+			"estado_id": 1133,
+			"pais_id": 14,
+			"estadonombre": "Vas"
+		},
+		{
+			"estado_id": 1134,
+			"pais_id": 14,
+			"estadonombre": "Veszprem"
+		},
+		{
+			"estado_id": 1135,
+			"pais_id": 14,
+			"estadonombre": "Zala"
+		},
+		{
+			"estado_id": 1136,
+			"pais_id": 14,
+			"estadonombre": "Gyor"
+		},
+		{
+			"estado_id": 1150,
+			"pais_id": 14,
+			"estadonombre": "Veszprem"
+		},
+		{
+			"estado_id": 1152,
+			"pais_id": 126,
+			"estadonombre": "Balzers"
+		},
+		{
+			"estado_id": 1153,
+			"pais_id": 126,
+			"estadonombre": "Eschen"
+		},
+		{
+			"estado_id": 1154,
+			"pais_id": 126,
+			"estadonombre": "Gamprin"
+		},
+		{
+			"estado_id": 1155,
+			"pais_id": 126,
+			"estadonombre": "Mauren"
+		},
+		{
+			"estado_id": 1156,
+			"pais_id": 126,
+			"estadonombre": "Planken"
+		},
+		{
+			"estado_id": 1157,
+			"pais_id": 126,
+			"estadonombre": "Ruggell"
+		},
+		{
+			"estado_id": 1158,
+			"pais_id": 126,
+			"estadonombre": "Schaan"
+		},
+		{
+			"estado_id": 1159,
+			"pais_id": 126,
+			"estadonombre": "Schellenberg"
+		},
+		{
+			"estado_id": 1160,
+			"pais_id": 126,
+			"estadonombre": "Triesen"
+		},
+		{
+			"estado_id": 1161,
+			"pais_id": 126,
+			"estadonombre": "Triesenberg"
+		},
+		{
+			"estado_id": 1162,
+			"pais_id": 126,
+			"estadonombre": "Vaduz"
+		},
+		{
+			"estado_id": 1163,
+			"pais_id": 41,
+			"estadonombre": "Diekirch"
+		},
+		{
+			"estado_id": 1164,
+			"pais_id": 41,
+			"estadonombre": "Grevenmacher"
+		},
+		{
+			"estado_id": 1165,
+			"pais_id": 41,
+			"estadonombre": "Luxembourg"
+		},
+		{
+			"estado_id": 1167,
+			"pais_id": 85,
+			"estadonombre": "Aracinovo"
+		},
+		{
+			"estado_id": 1168,
+			"pais_id": 85,
+			"estadonombre": "Bac"
+		},
+		{
+			"estado_id": 1169,
+			"pais_id": 85,
+			"estadonombre": "Belcista"
+		},
+		{
+			"estado_id": 1170,
+			"pais_id": 85,
+			"estadonombre": "Berovo"
+		},
+		{
+			"estado_id": 1171,
+			"pais_id": 85,
+			"estadonombre": "Bistrica"
+		},
+		{
+			"estado_id": 1172,
+			"pais_id": 85,
+			"estadonombre": "Bitola"
+		},
+		{
+			"estado_id": 1173,
+			"pais_id": 85,
+			"estadonombre": "Blatec"
+		},
+		{
+			"estado_id": 1174,
+			"pais_id": 85,
+			"estadonombre": "Bogdanci"
+		},
+		{
+			"estado_id": 1175,
+			"pais_id": 85,
+			"estadonombre": "Bogomila"
+		},
+		{
+			"estado_id": 1176,
+			"pais_id": 85,
+			"estadonombre": "Bogovinje"
+		},
+		{
+			"estado_id": 1177,
+			"pais_id": 85,
+			"estadonombre": "Bosilovo"
+		},
+		{
+			"estado_id": 1179,
+			"pais_id": 85,
+			"estadonombre": "Cair"
+		},
+		{
+			"estado_id": 1180,
+			"pais_id": 85,
+			"estadonombre": "Capari"
+		},
+		{
+			"estado_id": 1181,
+			"pais_id": 85,
+			"estadonombre": "Caska"
+		},
+		{
+			"estado_id": 1182,
+			"pais_id": 85,
+			"estadonombre": "Cegrane"
+		},
+		{
+			"estado_id": 1184,
+			"pais_id": 85,
+			"estadonombre": "Centar Zupa"
+		},
+		{
+			"estado_id": 1187,
+			"pais_id": 85,
+			"estadonombre": "Debar"
+		},
+		{
+			"estado_id": 1188,
+			"pais_id": 85,
+			"estadonombre": "Delcevo"
+		},
+		{
+			"estado_id": 1190,
+			"pais_id": 85,
+			"estadonombre": "Demir Hisar"
+		},
+		{
+			"estado_id": 1191,
+			"pais_id": 85,
+			"estadonombre": "Demir Kapija"
+		},
+		{
+			"estado_id": 1195,
+			"pais_id": 85,
+			"estadonombre": "Dorce Petrov"
+		},
+		{
+			"estado_id": 1198,
+			"pais_id": 85,
+			"estadonombre": "Gazi Baba"
+		},
+		{
+			"estado_id": 1199,
+			"pais_id": 85,
+			"estadonombre": "Gevgelija"
+		},
+		{
+			"estado_id": 1200,
+			"pais_id": 85,
+			"estadonombre": "Gostivar"
+		},
+		{
+			"estado_id": 1201,
+			"pais_id": 85,
+			"estadonombre": "Gradsko"
+		},
+		{
+			"estado_id": 1204,
+			"pais_id": 85,
+			"estadonombre": "Jegunovce"
+		},
+		{
+			"estado_id": 1205,
+			"pais_id": 85,
+			"estadonombre": "Kamenjane"
+		},
+		{
+			"estado_id": 1207,
+			"pais_id": 85,
+			"estadonombre": "Karpos"
+		},
+		{
+			"estado_id": 1208,
+			"pais_id": 85,
+			"estadonombre": "Kavadarci"
+		},
+		{
+			"estado_id": 1209,
+			"pais_id": 85,
+			"estadonombre": "Kicevo"
+		},
+		{
+			"estado_id": 1210,
+			"pais_id": 85,
+			"estadonombre": "Kisela Voda"
+		},
+		{
+			"estado_id": 1211,
+			"pais_id": 85,
+			"estadonombre": "Klecevce"
+		},
+		{
+			"estado_id": 1212,
+			"pais_id": 85,
+			"estadonombre": "Kocani"
+		},
+		{
+			"estado_id": 1214,
+			"pais_id": 85,
+			"estadonombre": "Kondovo"
+		},
+		{
+			"estado_id": 1217,
+			"pais_id": 85,
+			"estadonombre": "Kratovo"
+		},
+		{
+			"estado_id": 1219,
+			"pais_id": 85,
+			"estadonombre": "Krivogastani"
+		},
+		{
+			"estado_id": 1220,
+			"pais_id": 85,
+			"estadonombre": "Krusevo"
+		},
+		{
+			"estado_id": 1223,
+			"pais_id": 85,
+			"estadonombre": "Kumanovo"
+		},
+		{
+			"estado_id": 1224,
+			"pais_id": 85,
+			"estadonombre": "Labunista"
+		},
+		{
+			"estado_id": 1225,
+			"pais_id": 85,
+			"estadonombre": "Lipkovo"
+		},
+		{
+			"estado_id": 1228,
+			"pais_id": 85,
+			"estadonombre": "Makedonska Kamenica"
+		},
+		{
+			"estado_id": 1229,
+			"pais_id": 85,
+			"estadonombre": "Makedonski Brod"
+		},
+		{
+			"estado_id": 1234,
+			"pais_id": 85,
+			"estadonombre": "Murtino"
+		},
+		{
+			"estado_id": 1235,
+			"pais_id": 85,
+			"estadonombre": "Negotino"
+		},
+		{
+			"estado_id": 1238,
+			"pais_id": 85,
+			"estadonombre": "Novo Selo"
+		},
+		{
+			"estado_id": 1240,
+			"pais_id": 85,
+			"estadonombre": "Ohrid"
+		},
+		{
+			"estado_id": 1242,
+			"pais_id": 85,
+			"estadonombre": "Orizari"
+		},
+		{
+			"estado_id": 1245,
+			"pais_id": 85,
+			"estadonombre": "Petrovec"
+		},
+		{
+			"estado_id": 1248,
+			"pais_id": 85,
+			"estadonombre": "Prilep"
+		},
+		{
+			"estado_id": 1249,
+			"pais_id": 85,
+			"estadonombre": "Probistip"
+		},
+		{
+			"estado_id": 1250,
+			"pais_id": 85,
+			"estadonombre": "Radovis"
+		},
+		{
+			"estado_id": 1252,
+			"pais_id": 85,
+			"estadonombre": "Resen"
+		},
+		{
+			"estado_id": 1253,
+			"pais_id": 85,
+			"estadonombre": "Rosoman"
+		},
+		{
+			"estado_id": 1256,
+			"pais_id": 85,
+			"estadonombre": "Saraj"
+		},
+		{
+			"estado_id": 1260,
+			"pais_id": 85,
+			"estadonombre": "Srbinovo"
+		},
+		{
+			"estado_id": 1262,
+			"pais_id": 85,
+			"estadonombre": "Star Dojran"
+		},
+		{
+			"estado_id": 1264,
+			"pais_id": 85,
+			"estadonombre": "Stip"
+		},
+		{
+			"estado_id": 1265,
+			"pais_id": 85,
+			"estadonombre": "Struga"
+		},
+		{
+			"estado_id": 1266,
+			"pais_id": 85,
+			"estadonombre": "Strumica"
+		},
+		{
+			"estado_id": 1267,
+			"pais_id": 85,
+			"estadonombre": "Studenicani"
+		},
+		{
+			"estado_id": 1268,
+			"pais_id": 85,
+			"estadonombre": "Suto Orizari"
+		},
+		{
+			"estado_id": 1269,
+			"pais_id": 85,
+			"estadonombre": "Sveti Nikole"
+		},
+		{
+			"estado_id": 1270,
+			"pais_id": 85,
+			"estadonombre": "Tearce"
+		},
+		{
+			"estado_id": 1271,
+			"pais_id": 85,
+			"estadonombre": "Tetovo"
+		},
+		{
+			"estado_id": 1273,
+			"pais_id": 85,
+			"estadonombre": "Valandovo"
+		},
+		{
+			"estado_id": 1275,
+			"pais_id": 85,
+			"estadonombre": "Veles"
+		},
+		{
+			"estado_id": 1277,
+			"pais_id": 85,
+			"estadonombre": "Vevcani"
+		},
+		{
+			"estado_id": 1278,
+			"pais_id": 85,
+			"estadonombre": "Vinica"
+		},
+		{
+			"estado_id": 1281,
+			"pais_id": 85,
+			"estadonombre": "Vrapciste"
+		},
+		{
+			"estado_id": 1286,
+			"pais_id": 85,
+			"estadonombre": "Zelino"
+		},
+		{
+			"estado_id": 1289,
+			"pais_id": 85,
+			"estadonombre": "Zrnovci"
+		},
+		{
+			"estado_id": 1291,
+			"pais_id": 86,
+			"estadonombre": "Malta"
+		},
+		{
+			"estado_id": 1292,
+			"pais_id": 44,
+			"estadonombre": "La Condamine"
+		},
+		{
+			"estado_id": 1293,
+			"pais_id": 44,
+			"estadonombre": "Monaco"
+		},
+		{
+			"estado_id": 1294,
+			"pais_id": 44,
+			"estadonombre": "Monte-Carlo"
+		},
+		{
+			"estado_id": 1295,
+			"pais_id": 47,
+			"estadonombre": "Biala Podlaska"
+		},
+		{
+			"estado_id": 1296,
+			"pais_id": 47,
+			"estadonombre": "Bialystok"
+		},
+		{
+			"estado_id": 1297,
+			"pais_id": 47,
+			"estadonombre": "Bielsko"
+		},
+		{
+			"estado_id": 1298,
+			"pais_id": 47,
+			"estadonombre": "Bydgoszcz"
+		},
+		{
+			"estado_id": 1299,
+			"pais_id": 47,
+			"estadonombre": "Chelm"
+		},
+		{
+			"estado_id": 1300,
+			"pais_id": 47,
+			"estadonombre": "Ciechanow"
+		},
+		{
+			"estado_id": 1301,
+			"pais_id": 47,
+			"estadonombre": "Czestochowa"
+		},
+		{
+			"estado_id": 1302,
+			"pais_id": 47,
+			"estadonombre": "Elblag"
+		},
+		{
+			"estado_id": 1303,
+			"pais_id": 47,
+			"estadonombre": "Gdansk"
+		},
+		{
+			"estado_id": 1304,
+			"pais_id": 47,
+			"estadonombre": "Gorzow"
+		},
+		{
+			"estado_id": 1305,
+			"pais_id": 47,
+			"estadonombre": "Jelenia Gora"
+		},
+		{
+			"estado_id": 1306,
+			"pais_id": 47,
+			"estadonombre": "Kalisz"
+		},
+		{
+			"estado_id": 1307,
+			"pais_id": 47,
+			"estadonombre": "Katowice"
+		},
+		{
+			"estado_id": 1308,
+			"pais_id": 47,
+			"estadonombre": "Kielce"
+		},
+		{
+			"estado_id": 1309,
+			"pais_id": 47,
+			"estadonombre": "Konin"
+		},
+		{
+			"estado_id": 1310,
+			"pais_id": 47,
+			"estadonombre": "Koszalin"
+		},
+		{
+			"estado_id": 1311,
+			"pais_id": 47,
+			"estadonombre": "Krakow"
+		},
+		{
+			"estado_id": 1312,
+			"pais_id": 47,
+			"estadonombre": "Krosno"
+		},
+		{
+			"estado_id": 1313,
+			"pais_id": 47,
+			"estadonombre": "Legnica"
+		},
+		{
+			"estado_id": 1314,
+			"pais_id": 47,
+			"estadonombre": "Leszno"
+		},
+		{
+			"estado_id": 1315,
+			"pais_id": 47,
+			"estadonombre": "Lodz"
+		},
+		{
+			"estado_id": 1316,
+			"pais_id": 47,
+			"estadonombre": "Lomza"
+		},
+		{
+			"estado_id": 1317,
+			"pais_id": 47,
+			"estadonombre": "Lublin"
+		},
+		{
+			"estado_id": 1318,
+			"pais_id": 47,
+			"estadonombre": "Nowy Sacz"
+		},
+		{
+			"estado_id": 1319,
+			"pais_id": 47,
+			"estadonombre": "Olsztyn"
+		},
+		{
+			"estado_id": 1320,
+			"pais_id": 47,
+			"estadonombre": "Opole"
+		},
+		{
+			"estado_id": 1321,
+			"pais_id": 47,
+			"estadonombre": "Ostroleka"
+		},
+		{
+			"estado_id": 1322,
+			"pais_id": 47,
+			"estadonombre": "Pila"
+		},
+		{
+			"estado_id": 1323,
+			"pais_id": 47,
+			"estadonombre": "Piotrkow"
+		},
+		{
+			"estado_id": 1324,
+			"pais_id": 47,
+			"estadonombre": "Plock"
+		},
+		{
+			"estado_id": 1325,
+			"pais_id": 47,
+			"estadonombre": "Poznan"
+		},
+		{
+			"estado_id": 1326,
+			"pais_id": 47,
+			"estadonombre": "Przemysl"
+		},
+		{
+			"estado_id": 1327,
+			"pais_id": 47,
+			"estadonombre": "Radom"
+		},
+		{
+			"estado_id": 1328,
+			"pais_id": 47,
+			"estadonombre": "Rzeszow"
+		},
+		{
+			"estado_id": 1329,
+			"pais_id": 47,
+			"estadonombre": "Siedlce"
+		},
+		{
+			"estado_id": 1330,
+			"pais_id": 47,
+			"estadonombre": "Sieradz"
+		},
+		{
+			"estado_id": 1331,
+			"pais_id": 47,
+			"estadonombre": "Skierniewice"
+		},
+		{
+			"estado_id": 1332,
+			"pais_id": 47,
+			"estadonombre": "Slupsk"
+		},
+		{
+			"estado_id": 1333,
+			"pais_id": 47,
+			"estadonombre": "Suwalki"
+		},
+		{
+			"estado_id": 1335,
+			"pais_id": 47,
+			"estadonombre": "Tarnobrzeg"
+		},
+		{
+			"estado_id": 1336,
+			"pais_id": 47,
+			"estadonombre": "Tarnow"
+		},
+		{
+			"estado_id": 1337,
+			"pais_id": 47,
+			"estadonombre": "Torun"
+		},
+		{
+			"estado_id": 1338,
+			"pais_id": 47,
+			"estadonombre": "Walbrzych"
+		},
+		{
+			"estado_id": 1339,
+			"pais_id": 47,
+			"estadonombre": "Warszawa"
+		},
+		{
+			"estado_id": 1340,
+			"pais_id": 47,
+			"estadonombre": "Wloclawek"
+		},
+		{
+			"estado_id": 1341,
+			"pais_id": 47,
+			"estadonombre": "Wroclaw"
+		},
+		{
+			"estado_id": 1342,
+			"pais_id": 47,
+			"estadonombre": "Zamosc"
+		},
+		{
+			"estado_id": 1343,
+			"pais_id": 47,
+			"estadonombre": "Zielona Gora"
+		},
+		{
+			"estado_id": 1344,
+			"pais_id": 47,
+			"estadonombre": "Dolnoslaskie"
+		},
+		{
+			"estado_id": 1345,
+			"pais_id": 47,
+			"estadonombre": "Kujawsko-Pomorskie"
+		},
+		{
+			"estado_id": 1346,
+			"pais_id": 47,
+			"estadonombre": "Lodzkie"
+		},
+		{
+			"estado_id": 1347,
+			"pais_id": 47,
+			"estadonombre": "Lubelskie"
+		},
+		{
+			"estado_id": 1348,
+			"pais_id": 47,
+			"estadonombre": "Lubuskie"
+		},
+		{
+			"estado_id": 1349,
+			"pais_id": 47,
+			"estadonombre": "Malopolskie"
+		},
+		{
+			"estado_id": 1350,
+			"pais_id": 47,
+			"estadonombre": "Mazowieckie"
+		},
+		{
+			"estado_id": 1351,
+			"pais_id": 47,
+			"estadonombre": "Opolskie"
+		},
+		{
+			"estado_id": 1352,
+			"pais_id": 47,
+			"estadonombre": "Podkarpackie"
+		},
+		{
+			"estado_id": 1353,
+			"pais_id": 47,
+			"estadonombre": "Podlaskie"
+		},
+		{
+			"estado_id": 1354,
+			"pais_id": 47,
+			"estadonombre": "Pomorskie"
+		},
+		{
+			"estado_id": 1355,
+			"pais_id": 47,
+			"estadonombre": "Slaskie"
+		},
+		{
+			"estado_id": 1356,
+			"pais_id": 47,
+			"estadonombre": "Swietokrzyskie"
+		},
+		{
+			"estado_id": 1357,
+			"pais_id": 47,
+			"estadonombre": "Warminsko-Mazurskie"
+		},
+		{
+			"estado_id": 1358,
+			"pais_id": 47,
+			"estadonombre": "Wielkopolskie"
+		},
+		{
+			"estado_id": 1359,
+			"pais_id": 47,
+			"estadonombre": "Zachodniopomorskie"
+		},
+		{
+			"estado_id": 1361,
+			"pais_id": 72,
+			"estadonombre": "Alba"
+		},
+		{
+			"estado_id": 1362,
+			"pais_id": 72,
+			"estadonombre": "Arad"
+		},
+		{
+			"estado_id": 1363,
+			"pais_id": 72,
+			"estadonombre": "Arges"
+		},
+		{
+			"estado_id": 1364,
+			"pais_id": 72,
+			"estadonombre": "Bacau"
+		},
+		{
+			"estado_id": 1365,
+			"pais_id": 72,
+			"estadonombre": "Bihor"
+		},
+		{
+			"estado_id": 1366,
+			"pais_id": 72,
+			"estadonombre": "Bistrita-Nasaud"
+		},
+		{
+			"estado_id": 1367,
+			"pais_id": 72,
+			"estadonombre": "Botosani"
+		},
+		{
+			"estado_id": 1368,
+			"pais_id": 72,
+			"estadonombre": "Braila"
+		},
+		{
+			"estado_id": 1369,
+			"pais_id": 72,
+			"estadonombre": "Brasov"
+		},
+		{
+			"estado_id": 1370,
+			"pais_id": 72,
+			"estadonombre": "Bucuresti"
+		},
+		{
+			"estado_id": 1371,
+			"pais_id": 72,
+			"estadonombre": "Buzau"
+		},
+		{
+			"estado_id": 1372,
+			"pais_id": 72,
+			"estadonombre": "Caras-Severin"
+		},
+		{
+			"estado_id": 1373,
+			"pais_id": 72,
+			"estadonombre": "Cluj"
+		},
+		{
+			"estado_id": 1374,
+			"pais_id": 72,
+			"estadonombre": "Constanta"
+		},
+		{
+			"estado_id": 1375,
+			"pais_id": 72,
+			"estadonombre": "Covasna"
+		},
+		{
+			"estado_id": 1376,
+			"pais_id": 72,
+			"estadonombre": "Dambovita"
+		},
+		{
+			"estado_id": 1377,
+			"pais_id": 72,
+			"estadonombre": "Dolj"
+		},
+		{
+			"estado_id": 1378,
+			"pais_id": 72,
+			"estadonombre": "Galati"
+		},
+		{
+			"estado_id": 1379,
+			"pais_id": 72,
+			"estadonombre": "Gorj"
+		},
+		{
+			"estado_id": 1380,
+			"pais_id": 72,
+			"estadonombre": "Harghita"
+		},
+		{
+			"estado_id": 1381,
+			"pais_id": 72,
+			"estadonombre": "Hunedoara"
+		},
+		{
+			"estado_id": 1382,
+			"pais_id": 72,
+			"estadonombre": "Ialomita"
+		},
+		{
+			"estado_id": 1383,
+			"pais_id": 72,
+			"estadonombre": "Iasi"
+		},
+		{
+			"estado_id": 1384,
+			"pais_id": 72,
+			"estadonombre": "Maramures"
+		},
+		{
+			"estado_id": 1385,
+			"pais_id": 72,
+			"estadonombre": "Mehedinti"
+		},
+		{
+			"estado_id": 1386,
+			"pais_id": 72,
+			"estadonombre": "Mures"
+		},
+		{
+			"estado_id": 1387,
+			"pais_id": 72,
+			"estadonombre": "Neamt"
+		},
+		{
+			"estado_id": 1388,
+			"pais_id": 72,
+			"estadonombre": "Olt"
+		},
+		{
+			"estado_id": 1389,
+			"pais_id": 72,
+			"estadonombre": "Prahova"
+		},
+		{
+			"estado_id": 1390,
+			"pais_id": 72,
+			"estadonombre": "Salaj"
+		},
+		{
+			"estado_id": 1391,
+			"pais_id": 72,
+			"estadonombre": "Satu Mare"
+		},
+		{
+			"estado_id": 1392,
+			"pais_id": 72,
+			"estadonombre": "Sibiu"
+		},
+		{
+			"estado_id": 1393,
+			"pais_id": 72,
+			"estadonombre": "Suceava"
+		},
+		{
+			"estado_id": 1394,
+			"pais_id": 72,
+			"estadonombre": "Teleorman"
+		},
+		{
+			"estado_id": 1395,
+			"pais_id": 72,
+			"estadonombre": "Timis"
+		},
+		{
+			"estado_id": 1396,
+			"pais_id": 72,
+			"estadonombre": "Tulcea"
+		},
+		{
+			"estado_id": 1397,
+			"pais_id": 72,
+			"estadonombre": "Vaslui"
+		},
+		{
+			"estado_id": 1398,
+			"pais_id": 72,
+			"estadonombre": "Valcea"
+		},
+		{
+			"estado_id": 1399,
+			"pais_id": 72,
+			"estadonombre": "Vrancea"
+		},
+		{
+			"estado_id": 1400,
+			"pais_id": 72,
+			"estadonombre": "Calarasi"
+		},
+		{
+			"estado_id": 1401,
+			"pais_id": 72,
+			"estadonombre": "Giurgiu"
+		},
+		{
+			"estado_id": 1404,
+			"pais_id": 224,
+			"estadonombre": "Acquaviva"
+		},
+		{
+			"estado_id": 1405,
+			"pais_id": 224,
+			"estadonombre": "Chiesanuova"
+		},
+		{
+			"estado_id": 1406,
+			"pais_id": 224,
+			"estadonombre": "Domagnano"
+		},
+		{
+			"estado_id": 1407,
+			"pais_id": 224,
+			"estadonombre": "Faetano"
+		},
+		{
+			"estado_id": 1408,
+			"pais_id": 224,
+			"estadonombre": "Fiorentino"
+		},
+		{
+			"estado_id": 1409,
+			"pais_id": 224,
+			"estadonombre": "Borgo Maggiore"
+		},
+		{
+			"estado_id": 1410,
+			"pais_id": 224,
+			"estadonombre": "San Marino"
+		},
+		{
+			"estado_id": 1411,
+			"pais_id": 224,
+			"estadonombre": "Monte Giardino"
+		},
+		{
+			"estado_id": 1412,
+			"pais_id": 224,
+			"estadonombre": "Serravalle"
+		},
+		{
+			"estado_id": 1413,
+			"pais_id": 52,
+			"estadonombre": "Banska Bystrica"
+		},
+		{
+			"estado_id": 1414,
+			"pais_id": 52,
+			"estadonombre": "Bratislava"
+		},
+		{
+			"estado_id": 1415,
+			"pais_id": 52,
+			"estadonombre": "Kosice"
+		},
+		{
+			"estado_id": 1416,
+			"pais_id": 52,
+			"estadonombre": "Nitra"
+		},
+		{
+			"estado_id": 1417,
+			"pais_id": 52,
+			"estadonombre": "Presov"
+		},
+		{
+			"estado_id": 1418,
+			"pais_id": 52,
+			"estadonombre": "Trencin"
+		},
+		{
+			"estado_id": 1419,
+			"pais_id": 52,
+			"estadonombre": "Trnava"
+		},
+		{
+			"estado_id": 1420,
+			"pais_id": 52,
+			"estadonombre": "Zilina"
+		},
+		{
+			"estado_id": 1423,
+			"pais_id": 53,
+			"estadonombre": "Beltinci"
+		},
+		{
+			"estado_id": 1425,
+			"pais_id": 53,
+			"estadonombre": "Bohinj"
+		},
+		{
+			"estado_id": 1426,
+			"pais_id": 53,
+			"estadonombre": "Borovnica"
+		},
+		{
+			"estado_id": 1427,
+			"pais_id": 53,
+			"estadonombre": "Bovec"
+		},
+		{
+			"estado_id": 1428,
+			"pais_id": 53,
+			"estadonombre": "Brda"
+		},
+		{
+			"estado_id": 1429,
+			"pais_id": 53,
+			"estadonombre": "Brezice"
+		},
+		{
+			"estado_id": 1430,
+			"pais_id": 53,
+			"estadonombre": "Brezovica"
+		},
+		{
+			"estado_id": 1432,
+			"pais_id": 53,
+			"estadonombre": "Cerklje na Gorenjskem"
+		},
+		{
+			"estado_id": 1434,
+			"pais_id": 53,
+			"estadonombre": "Cerkno"
+		},
+		{
+			"estado_id": 1436,
+			"pais_id": 53,
+			"estadonombre": "Crna na Koroskem"
+		},
+		{
+			"estado_id": 1437,
+			"pais_id": 53,
+			"estadonombre": "Crnomelj"
+		},
+		{
+			"estado_id": 1438,
+			"pais_id": 53,
+			"estadonombre": "Divaca"
+		},
+		{
+			"estado_id": 1439,
+			"pais_id": 53,
+			"estadonombre": "Dobrepolje"
+		},
+		{
+			"estado_id": 1440,
+			"pais_id": 53,
+			"estadonombre": "Dol pri Ljubljani"
+		},
+		{
+			"estado_id": 1443,
+			"pais_id": 53,
+			"estadonombre": "Duplek"
+		},
+		{
+			"estado_id": 1447,
+			"pais_id": 53,
+			"estadonombre": "Gornji Grad"
+		},
+		{
+			"estado_id": 1450,
+			"pais_id": 53,
+			"estadonombre": "Hrastnik"
+		},
+		{
+			"estado_id": 1451,
+			"pais_id": 53,
+			"estadonombre": "Hrpelje-Kozina"
+		},
+		{
+			"estado_id": 1452,
+			"pais_id": 53,
+			"estadonombre": "Idrija"
+		},
+		{
+			"estado_id": 1453,
+			"pais_id": 53,
+			"estadonombre": "Ig"
+		},
+		{
+			"estado_id": 1454,
+			"pais_id": 53,
+			"estadonombre": "Ilirska Bistrica"
+		},
+		{
+			"estado_id": 1455,
+			"pais_id": 53,
+			"estadonombre": "Ivancna Gorica"
+		},
+		{
+			"estado_id": 1462,
+			"pais_id": 53,
+			"estadonombre": "Komen"
+		},
+		{
+			"estado_id": 1463,
+			"pais_id": 53,
+			"estadonombre": "Koper-Capodistria"
+		},
+		{
+			"estado_id": 1464,
+			"pais_id": 53,
+			"estadonombre": "Kozje"
+		},
+		{
+			"estado_id": 1465,
+			"pais_id": 53,
+			"estadonombre": "Kranj"
+		},
+		{
+			"estado_id": 1466,
+			"pais_id": 53,
+			"estadonombre": "Kranjska Gora"
+		},
+		{
+			"estado_id": 1467,
+			"pais_id": 53,
+			"estadonombre": "Krsko"
+		},
+		{
+			"estado_id": 1469,
+			"pais_id": 53,
+			"estadonombre": "Lasko"
+		},
+		{
+			"estado_id": 1470,
+			"pais_id": 53,
+			"estadonombre": "Ljubljana"
+		},
+		{
+			"estado_id": 1471,
+			"pais_id": 53,
+			"estadonombre": "Ljubno"
+		},
+		{
+			"estado_id": 1472,
+			"pais_id": 53,
+			"estadonombre": "Logatec"
+		},
+		{
+			"estado_id": 1475,
+			"pais_id": 53,
+			"estadonombre": "Medvode"
+		},
+		{
+			"estado_id": 1476,
+			"pais_id": 53,
+			"estadonombre": "Menges"
+		},
+		{
+			"estado_id": 1478,
+			"pais_id": 53,
+			"estadonombre": "Mezica"
+		},
+		{
+			"estado_id": 1480,
+			"pais_id": 53,
+			"estadonombre": "Moravce"
+		},
+		{
+			"estado_id": 1482,
+			"pais_id": 53,
+			"estadonombre": "Mozirje"
+		},
+		{
+			"estado_id": 1483,
+			"pais_id": 53,
+			"estadonombre": "Murska Sobota"
+		},
+		{
+			"estado_id": 1487,
+			"pais_id": 53,
+			"estadonombre": "Nova Gorica"
+		},
+		{
+			"estado_id": 1489,
+			"pais_id": 53,
+			"estadonombre": "Ormoz"
+		},
+		{
+			"estado_id": 1491,
+			"pais_id": 53,
+			"estadonombre": "Pesnica"
+		},
+		{
+			"estado_id": 1494,
+			"pais_id": 53,
+			"estadonombre": "Postojna"
+		},
+		{
+			"estado_id": 1497,
+			"pais_id": 53,
+			"estadonombre": "Radece"
+		},
+		{
+			"estado_id": 1498,
+			"pais_id": 53,
+			"estadonombre": "Radenci"
+		},
+		{
+			"estado_id": 1500,
+			"pais_id": 53,
+			"estadonombre": "Radovljica"
+		},
+		{
+			"estado_id": 1502,
+			"pais_id": 53,
+			"estadonombre": "Rogaska Slatina"
+		},
+		{
+			"estado_id": 1505,
+			"pais_id": 53,
+			"estadonombre": "Sencur"
+		},
+		{
+			"estado_id": 1506,
+			"pais_id": 53,
+			"estadonombre": "Sentilj"
+		},
+		{
+			"estado_id": 1508,
+			"pais_id": 53,
+			"estadonombre": "Sevnica"
+		},
+		{
+			"estado_id": 1509,
+			"pais_id": 53,
+			"estadonombre": "Sezana"
+		},
+		{
+			"estado_id": 1511,
+			"pais_id": 53,
+			"estadonombre": "Skofja Loka"
+		},
+		{
+			"estado_id": 1513,
+			"pais_id": 53,
+			"estadonombre": "Slovenj Gradec"
+		},
+		{
+			"estado_id": 1514,
+			"pais_id": 53,
+			"estadonombre": "Slovenske Konjice"
+		},
+		{
+			"estado_id": 1515,
+			"pais_id": 53,
+			"estadonombre": "Smarje pri Jelsah"
+		},
+		{
+			"estado_id": 1521,
+			"pais_id": 53,
+			"estadonombre": "Tolmin"
+		},
+		{
+			"estado_id": 1522,
+			"pais_id": 53,
+			"estadonombre": "Trbovlje"
+		},
+		{
+			"estado_id": 1524,
+			"pais_id": 53,
+			"estadonombre": "Trzic"
+		},
+		{
+			"estado_id": 1526,
+			"pais_id": 53,
+			"estadonombre": "Velenje"
+		},
+		{
+			"estado_id": 1528,
+			"pais_id": 53,
+			"estadonombre": "Vipava"
+		},
+		{
+			"estado_id": 1531,
+			"pais_id": 53,
+			"estadonombre": "Vrhnika"
+		},
+		{
+			"estado_id": 1532,
+			"pais_id": 53,
+			"estadonombre": "Vuzenica"
+		},
+		{
+			"estado_id": 1533,
+			"pais_id": 53,
+			"estadonombre": "Zagorje ob Savi"
+		},
+		{
+			"estado_id": 1535,
+			"pais_id": 53,
+			"estadonombre": "Zelezniki"
+		},
+		{
+			"estado_id": 1536,
+			"pais_id": 53,
+			"estadonombre": "Ziri"
+		},
+		{
+			"estado_id": 1537,
+			"pais_id": 53,
+			"estadonombre": "Zrece"
+		},
+		{
+			"estado_id": 1539,
+			"pais_id": 53,
+			"estadonombre": "Domzale"
+		},
+		{
+			"estado_id": 1540,
+			"pais_id": 53,
+			"estadonombre": "Jesenice"
+		},
+		{
+			"estado_id": 1541,
+			"pais_id": 53,
+			"estadonombre": "Kamnik"
+		},
+		{
+			"estado_id": 1542,
+			"pais_id": 53,
+			"estadonombre": "Kocevje"
+		},
+		{
+			"estado_id": 1544,
+			"pais_id": 53,
+			"estadonombre": "Lenart"
+		},
+		{
+			"estado_id": 1545,
+			"pais_id": 53,
+			"estadonombre": "Litija"
+		},
+		{
+			"estado_id": 1546,
+			"pais_id": 53,
+			"estadonombre": "Ljutomer"
+		},
+		{
+			"estado_id": 1550,
+			"pais_id": 53,
+			"estadonombre": "Maribor"
+		},
+		{
+			"estado_id": 1552,
+			"pais_id": 53,
+			"estadonombre": "Novo Mesto"
+		},
+		{
+			"estado_id": 1553,
+			"pais_id": 53,
+			"estadonombre": "Piran"
+		},
+		{
+			"estado_id": 1554,
+			"pais_id": 53,
+			"estadonombre": "Preddvor"
+		},
+		{
+			"estado_id": 1555,
+			"pais_id": 53,
+			"estadonombre": "Ptuj"
+		},
+		{
+			"estado_id": 1556,
+			"pais_id": 53,
+			"estadonombre": "Ribnica"
+		},
+		{
+			"estado_id": 1558,
+			"pais_id": 53,
+			"estadonombre": "Sentjur pri Celju"
+		},
+		{
+			"estado_id": 1559,
+			"pais_id": 53,
+			"estadonombre": "Slovenska Bistrica"
+		},
+		{
+			"estado_id": 1560,
+			"pais_id": 53,
+			"estadonombre": "Videm"
+		},
+		{
+			"estado_id": 1562,
+			"pais_id": 53,
+			"estadonombre": "Zalec"
+		},
+		{
+			"estado_id": 1564,
+			"pais_id": 109,
+			"estadonombre": "Seychelles"
+		},
+		{
+			"estado_id": 1565,
+			"pais_id": 108,
+			"estadonombre": "Mauritania"
+		},
+		{
+			"estado_id": 1566,
+			"pais_id": 135,
+			"estadonombre": "Senegal"
+		},
+		{
+			"estado_id": 1567,
+			"pais_id": 154,
+			"estadonombre": "Road Town"
+		},
+		{
+			"estado_id": 1568,
+			"pais_id": 165,
+			"estadonombre": "Congo"
+		},
+		{
+			"estado_id": 1569,
+			"pais_id": 166,
+			"estadonombre": "Avarua"
+		},
+		{
+			"estado_id": 1570,
+			"pais_id": 172,
+			"estadonombre": "Malabo"
+		},
+		{
+			"estado_id": 1571,
+			"pais_id": 175,
+			"estadonombre": "Torshavn"
+		},
+		{
+			"estado_id": 1572,
+			"pais_id": 178,
+			"estadonombre": "Papeete"
+		},
+		{
+			"estado_id": 1573,
+			"pais_id": 184,
+			"estadonombre": "St Georges"
+		},
+		{
+			"estado_id": 1574,
+			"pais_id": 186,
+			"estadonombre": "St Peter Port"
+		},
+		{
+			"estado_id": 1575,
+			"pais_id": 188,
+			"estadonombre": "Bissau"
+		},
+		{
+			"estado_id": 1576,
+			"pais_id": 193,
+			"estadonombre": "Saint Helier"
+		},
+		{
+			"estado_id": 1577,
+			"pais_id": 201,
+			"estadonombre": "Fort-de-France"
+		},
+		{
+			"estado_id": 1578,
+			"pais_id": 207,
+			"estadonombre": "Willemstad"
+		},
+		{
+			"estado_id": 1579,
+			"pais_id": 208,
+			"estadonombre": "Noumea"
+		},
+		{
+			"estado_id": 1580,
+			"pais_id": 212,
+			"estadonombre": "Kingston"
+		},
+		{
+			"estado_id": 1581,
+			"pais_id": 215,
+			"estadonombre": "Adamstown"
+		},
+		{
+			"estado_id": 1582,
+			"pais_id": 216,
+			"estadonombre": "Doha"
+		},
+		{
+			"estado_id": 1583,
+			"pais_id": 218,
+			"estadonombre": "Jamestown"
+		},
+		{
+			"estado_id": 1584,
+			"pais_id": 219,
+			"estadonombre": "Basseterre"
+		},
+		{
+			"estado_id": 1585,
+			"pais_id": 220,
+			"estadonombre": "Castries"
+		},
+		{
+			"estado_id": 1586,
+			"pais_id": 221,
+			"estadonombre": "Saint Pierre"
+		},
+		{
+			"estado_id": 1587,
+			"pais_id": 222,
+			"estadonombre": "Kingstown"
+		},
+		{
+			"estado_id": 1588,
+			"pais_id": 225,
+			"estadonombre": "San Tome"
+		},
+		{
+			"estado_id": 1589,
+			"pais_id": 226,
+			"estadonombre": "Belgrade"
+		},
+		{
+			"estado_id": 1590,
+			"pais_id": 227,
+			"estadonombre": "Freetown"
+		},
+		{
+			"estado_id": 1591,
+			"pais_id": 229,
+			"estadonombre": "Mogadishu"
+		},
+		{
+			"estado_id": 1592,
+			"pais_id": 235,
+			"estadonombre": "Fakaofo"
+		},
+		{
+			"estado_id": 1593,
+			"pais_id": 237,
+			"estadonombre": "Port of Spain"
+		},
+		{
+			"estado_id": 1594,
+			"pais_id": 241,
+			"estadonombre": "Mata-Utu"
+		},
+		{
+			"estado_id": 1596,
+			"pais_id": 89,
+			"estadonombre": "Amazonas"
+		},
+		{
+			"estado_id": 1597,
+			"pais_id": 89,
+			"estadonombre": "Ancash"
+		},
+		{
+			"estado_id": 1598,
+			"pais_id": 89,
+			"estadonombre": "Apurímac"
+		},
+		{
+			"estado_id": 1599,
+			"pais_id": 89,
+			"estadonombre": "Arequipa"
+		},
+		{
+			"estado_id": 1600,
+			"pais_id": 89,
+			"estadonombre": "Ayacucho"
+		},
+		{
+			"estado_id": 1601,
+			"pais_id": 89,
+			"estadonombre": "Cajamarca"
+		},
+		{
+			"estado_id": 1602,
+			"pais_id": 89,
+			"estadonombre": "Callao"
+		},
+		{
+			"estado_id": 1603,
+			"pais_id": 89,
+			"estadonombre": "Cusco"
+		},
+		{
+			"estado_id": 1604,
+			"pais_id": 89,
+			"estadonombre": "Huancavelica"
+		},
+		{
+			"estado_id": 1605,
+			"pais_id": 89,
+			"estadonombre": "Huánuco"
+		},
+		{
+			"estado_id": 1606,
+			"pais_id": 89,
+			"estadonombre": "Ica"
+		},
+		{
+			"estado_id": 1607,
+			"pais_id": 89,
+			"estadonombre": "Junín"
+		},
+		{
+			"estado_id": 1608,
+			"pais_id": 89,
+			"estadonombre": "La Libertad"
+		},
+		{
+			"estado_id": 1609,
+			"pais_id": 89,
+			"estadonombre": "Lambayeque"
+		},
+		{
+			"estado_id": 1610,
+			"pais_id": 89,
+			"estadonombre": "Lima"
+		},
+		{
+			"estado_id": 1611,
+			"pais_id": 89,
+			"estadonombre": "Loreto"
+		},
+		{
+			"estado_id": 1612,
+			"pais_id": 89,
+			"estadonombre": "Madre de Dios"
+		},
+		{
+			"estado_id": 1613,
+			"pais_id": 89,
+			"estadonombre": "Moquegua"
+		},
+		{
+			"estado_id": 1614,
+			"pais_id": 89,
+			"estadonombre": "Pasco"
+		},
+		{
+			"estado_id": 1615,
+			"pais_id": 89,
+			"estadonombre": "Piura"
+		},
+		{
+			"estado_id": 1616,
+			"pais_id": 89,
+			"estadonombre": "Puno"
+		},
+		{
+			"estado_id": 1617,
+			"pais_id": 89,
+			"estadonombre": "San Martín"
+		},
+		{
+			"estado_id": 1618,
+			"pais_id": 89,
+			"estadonombre": "Tacna"
+		},
+		{
+			"estado_id": 1619,
+			"pais_id": 89,
+			"estadonombre": "Tumbes"
+		},
+		{
+			"estado_id": 1620,
+			"pais_id": 89,
+			"estadonombre": "Ucayali"
+		},
+		{
+			"estado_id": 1622,
+			"pais_id": 110,
+			"estadonombre": "Alto Paraná"
+		},
+		{
+			"estado_id": 1623,
+			"pais_id": 110,
+			"estadonombre": "Amambay"
+		},
+		{
+			"estado_id": 1624,
+			"pais_id": 110,
+			"estadonombre": "Boquerón"
+		},
+		{
+			"estado_id": 1625,
+			"pais_id": 110,
+			"estadonombre": "Caaguazú"
+		},
+		{
+			"estado_id": 1626,
+			"pais_id": 110,
+			"estadonombre": "Caazapá"
+		},
+		{
+			"estado_id": 1627,
+			"pais_id": 110,
+			"estadonombre": "Central"
+		},
+		{
+			"estado_id": 1628,
+			"pais_id": 110,
+			"estadonombre": "Concepción"
+		},
+		{
+			"estado_id": 1629,
+			"pais_id": 110,
+			"estadonombre": "Cordillera"
+		},
+		{
+			"estado_id": 1630,
+			"pais_id": 110,
+			"estadonombre": "Guairá"
+		},
+		{
+			"estado_id": 1631,
+			"pais_id": 110,
+			"estadonombre": "Itapúa"
+		},
+		{
+			"estado_id": 1632,
+			"pais_id": 110,
+			"estadonombre": "Misiones"
+		},
+		{
+			"estado_id": 1633,
+			"pais_id": 110,
+			"estadonombre": "Neembucú"
+		},
+		{
+			"estado_id": 1634,
+			"pais_id": 110,
+			"estadonombre": "Paraguarí"
+		},
+		{
+			"estado_id": 1635,
+			"pais_id": 110,
+			"estadonombre": "Presidente Hayes"
+		},
+		{
+			"estado_id": 1636,
+			"pais_id": 110,
+			"estadonombre": "San Pedro"
+		},
+		{
+			"estado_id": 1637,
+			"pais_id": 110,
+			"estadonombre": "Alto Paraguay"
+		},
+		{
+			"estado_id": 1638,
+			"pais_id": 110,
+			"estadonombre": "Canindeyú"
+		},
+		{
+			"estado_id": 1639,
+			"pais_id": 110,
+			"estadonombre": "Chaco"
+		},
+		{
+			"estado_id": 1642,
+			"pais_id": 111,
+			"estadonombre": "Artigas"
+		},
+		{
+			"estado_id": 1643,
+			"pais_id": 111,
+			"estadonombre": "Canelones"
+		},
+		{
+			"estado_id": 1644,
+			"pais_id": 111,
+			"estadonombre": "Cerro Largo"
+		},
+		{
+			"estado_id": 1645,
+			"pais_id": 111,
+			"estadonombre": "Colonia"
+		},
+		{
+			"estado_id": 1646,
+			"pais_id": 111,
+			"estadonombre": "Durazno"
+		},
+		{
+			"estado_id": 1647,
+			"pais_id": 111,
+			"estadonombre": "Flores"
+		},
+		{
+			"estado_id": 1648,
+			"pais_id": 111,
+			"estadonombre": "Florida"
+		},
+		{
+			"estado_id": 1649,
+			"pais_id": 111,
+			"estadonombre": "Lavalleja"
+		},
+		{
+			"estado_id": 1650,
+			"pais_id": 111,
+			"estadonombre": "Maldonado"
+		},
+		{
+			"estado_id": 1651,
+			"pais_id": 111,
+			"estadonombre": "Montevideo"
+		},
+		{
+			"estado_id": 1652,
+			"pais_id": 111,
+			"estadonombre": "Paysandú"
+		},
+		{
+			"estado_id": 1653,
+			"pais_id": 111,
+			"estadonombre": "Río Negro"
+		},
+		{
+			"estado_id": 1654,
+			"pais_id": 111,
+			"estadonombre": "Rivera"
+		},
+		{
+			"estado_id": 1655,
+			"pais_id": 111,
+			"estadonombre": "Rocha"
+		},
+		{
+			"estado_id": 1656,
+			"pais_id": 111,
+			"estadonombre": "Salto"
+		},
+		{
+			"estado_id": 1657,
+			"pais_id": 111,
+			"estadonombre": "San José"
+		},
+		{
+			"estado_id": 1658,
+			"pais_id": 111,
+			"estadonombre": "Soriano"
+		},
+		{
+			"estado_id": 1659,
+			"pais_id": 111,
+			"estadonombre": "Tacuarembó"
+		},
+		{
+			"estado_id": 1660,
+			"pais_id": 111,
+			"estadonombre": "Treinta y Tres"
+		},
+		{
+			"estado_id": 1662,
+			"pais_id": 81,
+			"estadonombre": "Valparaíso"
+		},
+		{
+			"estado_id": 1663,
+			"pais_id": 81,
+			"estadonombre": "Aisén del General Carlos Ibánez del Campo"
+		},
+		{
+			"estado_id": 1664,
+			"pais_id": 81,
+			"estadonombre": "Antofagasta"
+		},
+		{
+			"estado_id": 1665,
+			"pais_id": 81,
+			"estadonombre": "Araucanía"
+		},
+		{
+			"estado_id": 1666,
+			"pais_id": 81,
+			"estadonombre": "Atacama"
+		},
+		{
+			"estado_id": 1667,
+			"pais_id": 81,
+			"estadonombre": "Bío-Bío"
+		},
+		{
+			"estado_id": 1668,
+			"pais_id": 81,
+			"estadonombre": "Coquimbo"
+		},
+		{
+			"estado_id": 1669,
+			"pais_id": 81,
+			"estadonombre": "Libertador General Bernardo OHiggins"
+		},
+		{
+			"estado_id": 1670,
+			"pais_id": 81,
+			"estadonombre": "Los Lagos"
+		},
+		{
+			"estado_id": 1671,
+			"pais_id": 81,
+			"estadonombre": "Magallanes y de la Antártica Chilena"
+		},
+		{
+			"estado_id": 1672,
+			"pais_id": 81,
+			"estadonombre": "Maule"
+		},
+		{
+			"estado_id": 1673,
+			"pais_id": 81,
+			"estadonombre": "Region Metropolitana"
+		},
+		{
+			"estado_id": 1674,
+			"pais_id": 81,
+			"estadonombre": "Tarapacá"
+		},
+		{
+			"estado_id": 1676,
+			"pais_id": 185,
+			"estadonombre": "Alta Verapaz"
+		},
+		{
+			"estado_id": 1677,
+			"pais_id": 185,
+			"estadonombre": "Baja Verapaz"
+		},
+		{
+			"estado_id": 1678,
+			"pais_id": 185,
+			"estadonombre": "Chimaltenango"
+		},
+		{
+			"estado_id": 1679,
+			"pais_id": 185,
+			"estadonombre": "Chiquimula"
+		},
+		{
+			"estado_id": 1680,
+			"pais_id": 185,
+			"estadonombre": "El Progreso"
+		},
+		{
+			"estado_id": 1681,
+			"pais_id": 185,
+			"estadonombre": "Escuintla"
+		},
+		{
+			"estado_id": 1682,
+			"pais_id": 185,
+			"estadonombre": "Guatemala"
+		},
+		{
+			"estado_id": 1683,
+			"pais_id": 185,
+			"estadonombre": "Huehuetenango"
+		},
+		{
+			"estado_id": 1684,
+			"pais_id": 185,
+			"estadonombre": "Izabal"
+		},
+		{
+			"estado_id": 1685,
+			"pais_id": 185,
+			"estadonombre": "Jalapa"
+		},
+		{
+			"estado_id": 1686,
+			"pais_id": 185,
+			"estadonombre": "Jutiapa"
+		},
+		{
+			"estado_id": 1687,
+			"pais_id": 185,
+			"estadonombre": "Petén"
+		},
+		{
+			"estado_id": 1688,
+			"pais_id": 185,
+			"estadonombre": "Quetzaltenango"
+		},
+		{
+			"estado_id": 1689,
+			"pais_id": 185,
+			"estadonombre": "Quiché"
+		},
+		{
+			"estado_id": 1690,
+			"pais_id": 185,
+			"estadonombre": "Retalhuleu"
+		},
+		{
+			"estado_id": 1691,
+			"pais_id": 185,
+			"estadonombre": "Sacatepéquez"
+		},
+		{
+			"estado_id": 1692,
+			"pais_id": 185,
+			"estadonombre": "San Marcos"
+		},
+		{
+			"estado_id": 1693,
+			"pais_id": 185,
+			"estadonombre": "Santa Rosa"
+		},
+		{
+			"estado_id": 1694,
+			"pais_id": 185,
+			"estadonombre": "Sololá"
+		},
+		{
+			"estado_id": 1695,
+			"pais_id": 185,
+			"estadonombre": "Suchitepequez"
+		},
+		{
+			"estado_id": 1696,
+			"pais_id": 185,
+			"estadonombre": "Totonicapán"
+		},
+		{
+			"estado_id": 1697,
+			"pais_id": 185,
+			"estadonombre": "Zacapa"
+		},
+		{
+			"estado_id": 1699,
+			"pais_id": 82,
+			"estadonombre": "Amazonas"
+		},
+		{
+			"estado_id": 1700,
+			"pais_id": 82,
+			"estadonombre": "Antioquia"
+		},
+		{
+			"estado_id": 1701,
+			"pais_id": 82,
+			"estadonombre": "Arauca"
+		},
+		{
+			"estado_id": 1702,
+			"pais_id": 82,
+			"estadonombre": "Atlántico"
+		},
+		{
+			"estado_id": 1703,
+			"pais_id": 82,
+			"estadonombre": "Caquetá"
+		},
+		{
+			"estado_id": 1704,
+			"pais_id": 82,
+			"estadonombre": "Cauca"
+		},
+		{
+			"estado_id": 1705,
+			"pais_id": 82,
+			"estadonombre": "César"
+		},
+		{
+			"estado_id": 1706,
+			"pais_id": 82,
+			"estadonombre": "Chocó"
+		},
+		{
+			"estado_id": 1707,
+			"pais_id": 82,
+			"estadonombre": "Córdoba"
+		},
+		{
+			"estado_id": 1708,
+			"pais_id": 82,
+			"estadonombre": "Guaviare"
+		},
+		{
+			"estado_id": 1709,
+			"pais_id": 82,
+			"estadonombre": "Guainía"
+		},
+		{
+			"estado_id": 1710,
+			"pais_id": 82,
+			"estadonombre": "Huila"
+		},
+		{
+			"estado_id": 1711,
+			"pais_id": 82,
+			"estadonombre": "La Guajira"
+		},
+		{
+			"estado_id": 1712,
+			"pais_id": 82,
+			"estadonombre": "Meta"
+		},
+		{
+			"estado_id": 1713,
+			"pais_id": 82,
+			"estadonombre": "Narino"
+		},
+		{
+			"estado_id": 1714,
+			"pais_id": 82,
+			"estadonombre": "Norte de Santander"
+		},
+		{
+			"estado_id": 1715,
+			"pais_id": 82,
+			"estadonombre": "Putumayo"
+		},
+		{
+			"estado_id": 1716,
+			"pais_id": 82,
+			"estadonombre": "Quindío"
+		},
+		{
+			"estado_id": 1717,
+			"pais_id": 82,
+			"estadonombre": "Risaralda"
+		},
+		{
+			"estado_id": 1718,
+			"pais_id": 82,
+			"estadonombre": "San Andrés y Providencia"
+		},
+		{
+			"estado_id": 1719,
+			"pais_id": 82,
+			"estadonombre": "Santander"
+		},
+		{
+			"estado_id": 1720,
+			"pais_id": 82,
+			"estadonombre": "Sucre"
+		},
+		{
+			"estado_id": 1721,
+			"pais_id": 82,
+			"estadonombre": "Tolima"
+		},
+		{
+			"estado_id": 1722,
+			"pais_id": 82,
+			"estadonombre": "Valle del Cauca"
+		},
+		{
+			"estado_id": 1723,
+			"pais_id": 82,
+			"estadonombre": "Vaupés"
+		},
+		{
+			"estado_id": 1724,
+			"pais_id": 82,
+			"estadonombre": "Vichada"
+		},
+		{
+			"estado_id": 1725,
+			"pais_id": 82,
+			"estadonombre": "Casanare"
+		},
+		{
+			"estado_id": 1726,
+			"pais_id": 82,
+			"estadonombre": "Cundinamarca"
+		},
+		{
+			"estado_id": 1727,
+			"pais_id": 82,
+			"estadonombre": "Distrito Capital"
+		},
+		{
+			"estado_id": 1730,
+			"pais_id": 82,
+			"estadonombre": "Caldas"
+		},
+		{
+			"estado_id": 1731,
+			"pais_id": 82,
+			"estadonombre": "Magdalena"
+		},
+		{
+			"estado_id": 1733,
+			"pais_id": 42,
+			"estadonombre": "Aguascalientes"
+		},
+		{
+			"estado_id": 1734,
+			"pais_id": 42,
+			"estadonombre": "Baja California"
+		},
+		{
+			"estado_id": 1735,
+			"pais_id": 42,
+			"estadonombre": "Baja California Sur"
+		},
+		{
+			"estado_id": 1736,
+			"pais_id": 42,
+			"estadonombre": "Campeche"
+		},
+		{
+			"estado_id": 1737,
+			"pais_id": 42,
+			"estadonombre": "Chiapas"
+		},
+		{
+			"estado_id": 1738,
+			"pais_id": 42,
+			"estadonombre": "Chihuahua"
+		},
+		{
+			"estado_id": 1739,
+			"pais_id": 42,
+			"estadonombre": "Coahuila de Zaragoza"
+		},
+		{
+			"estado_id": 1740,
+			"pais_id": 42,
+			"estadonombre": "Colima"
+		},
+		{
+			"estado_id": 1741,
+			"pais_id": 42,
+			"estadonombre": "Distrito Federal"
+		},
+		{
+			"estado_id": 1742,
+			"pais_id": 42,
+			"estadonombre": "Durango"
+		},
+		{
+			"estado_id": 1743,
+			"pais_id": 42,
+			"estadonombre": "Guanajuato"
+		},
+		{
+			"estado_id": 1744,
+			"pais_id": 42,
+			"estadonombre": "Guerrero"
+		},
+		{
+			"estado_id": 1745,
+			"pais_id": 42,
+			"estadonombre": "Hidalgo"
+		},
+		{
+			"estado_id": 1746,
+			"pais_id": 42,
+			"estadonombre": "Jalisco"
+		},
+		{
+			"estado_id": 1747,
+			"pais_id": 42,
+			"estadonombre": "México"
+		},
+		{
+			"estado_id": 1748,
+			"pais_id": 42,
+			"estadonombre": "Michoacán de Ocampo"
+		},
+		{
+			"estado_id": 1749,
+			"pais_id": 42,
+			"estadonombre": "Morelos"
+		},
+		{
+			"estado_id": 1750,
+			"pais_id": 42,
+			"estadonombre": "Nayarit"
+		},
+		{
+			"estado_id": 1751,
+			"pais_id": 42,
+			"estadonombre": "Nuevo León"
+		},
+		{
+			"estado_id": 1752,
+			"pais_id": 42,
+			"estadonombre": "Oaxaca"
+		},
+		{
+			"estado_id": 1753,
+			"pais_id": 42,
+			"estadonombre": "Puebla"
+		},
+		{
+			"estado_id": 1754,
+			"pais_id": 42,
+			"estadonombre": "Querétaro de Arteaga"
+		},
+		{
+			"estado_id": 1755,
+			"pais_id": 42,
+			"estadonombre": "Quintana Roo"
+		},
+		{
+			"estado_id": 1756,
+			"pais_id": 42,
+			"estadonombre": "San Luis Potosí"
+		},
+		{
+			"estado_id": 1757,
+			"pais_id": 42,
+			"estadonombre": "Sinaloa"
+		},
+		{
+			"estado_id": 1758,
+			"pais_id": 42,
+			"estadonombre": "Sonora"
+		},
+		{
+			"estado_id": 1759,
+			"pais_id": 42,
+			"estadonombre": "Tabasco"
+		},
+		{
+			"estado_id": 1760,
+			"pais_id": 42,
+			"estadonombre": "Tamaulipas"
+		},
+		{
+			"estado_id": 1761,
+			"pais_id": 42,
+			"estadonombre": "Tlaxcala"
+		},
+		{
+			"estado_id": 1762,
+			"pais_id": 42,
+			"estadonombre": "Veracruz-Llave"
+		},
+		{
+			"estado_id": 1763,
+			"pais_id": 42,
+			"estadonombre": "Yucatán"
+		},
+		{
+			"estado_id": 1764,
+			"pais_id": 42,
+			"estadonombre": "Zacatecas"
+		},
+		{
+			"estado_id": 1766,
+			"pais_id": 124,
+			"estadonombre": "Bocas del Toro"
+		},
+		{
+			"estado_id": 1767,
+			"pais_id": 124,
+			"estadonombre": "Chiriquí"
+		},
+		{
+			"estado_id": 1768,
+			"pais_id": 124,
+			"estadonombre": "Coclé"
+		},
+		{
+			"estado_id": 1769,
+			"pais_id": 124,
+			"estadonombre": "Colón"
+		},
+		{
+			"estado_id": 1770,
+			"pais_id": 124,
+			"estadonombre": "Darién"
+		},
+		{
+			"estado_id": 1771,
+			"pais_id": 124,
+			"estadonombre": "Herrera"
+		},
+		{
+			"estado_id": 1772,
+			"pais_id": 124,
+			"estadonombre": "Los Santos"
+		},
+		{
+			"estado_id": 1773,
+			"pais_id": 124,
+			"estadonombre": "Panamá"
+		},
+		{
+			"estado_id": 1774,
+			"pais_id": 124,
+			"estadonombre": "San Blas"
+		},
+		{
+			"estado_id": 1775,
+			"pais_id": 124,
+			"estadonombre": "Veraguas"
+		},
+		{
+			"estado_id": 1777,
+			"pais_id": 123,
+			"estadonombre": "Chuquisaca"
+		},
+		{
+			"estado_id": 1778,
+			"pais_id": 123,
+			"estadonombre": "Cochabamba"
+		},
+		{
+			"estado_id": 1779,
+			"pais_id": 123,
+			"estadonombre": "El Beni"
+		},
+		{
+			"estado_id": 1780,
+			"pais_id": 123,
+			"estadonombre": "La Paz"
+		},
+		{
+			"estado_id": 1781,
+			"pais_id": 123,
+			"estadonombre": "Oruro"
+		},
+		{
+			"estado_id": 1782,
+			"pais_id": 123,
+			"estadonombre": "Pando"
+		},
+		{
+			"estado_id": 1783,
+			"pais_id": 123,
+			"estadonombre": "Potosí"
+		},
+		{
+			"estado_id": 1784,
+			"pais_id": 123,
+			"estadonombre": "Santa Cruz"
+		},
+		{
+			"estado_id": 1785,
+			"pais_id": 123,
+			"estadonombre": "Tarija"
+		},
+		{
+			"estado_id": 1787,
+			"pais_id": 36,
+			"estadonombre": "Alajuela"
+		},
+		{
+			"estado_id": 1788,
+			"pais_id": 36,
+			"estadonombre": "Cartago"
+		},
+		{
+			"estado_id": 1789,
+			"pais_id": 36,
+			"estadonombre": "Guanacaste"
+		},
+		{
+			"estado_id": 1790,
+			"pais_id": 36,
+			"estadonombre": "Heredia"
+		},
+		{
+			"estado_id": 1791,
+			"pais_id": 36,
+			"estadonombre": "Limón"
+		},
+		{
+			"estado_id": 1792,
+			"pais_id": 36,
+			"estadonombre": "Puntarenas"
+		},
+		{
+			"estado_id": 1793,
+			"pais_id": 36,
+			"estadonombre": "San José"
+		},
+		{
+			"estado_id": 1795,
+			"pais_id": 103,
+			"estadonombre": "Galápagos"
+		},
+		{
+			"estado_id": 1796,
+			"pais_id": 103,
+			"estadonombre": "Azuay"
+		},
+		{
+			"estado_id": 1797,
+			"pais_id": 103,
+			"estadonombre": "Bolívar"
+		},
+		{
+			"estado_id": 1798,
+			"pais_id": 103,
+			"estadonombre": "Canar"
+		},
+		{
+			"estado_id": 1799,
+			"pais_id": 103,
+			"estadonombre": "Carchi"
+		},
+		{
+			"estado_id": 1800,
+			"pais_id": 103,
+			"estadonombre": "Chimborazo"
+		},
+		{
+			"estado_id": 1801,
+			"pais_id": 103,
+			"estadonombre": "Cotopaxi"
+		},
+		{
+			"estado_id": 1802,
+			"pais_id": 103,
+			"estadonombre": "El Oro"
+		},
+		{
+			"estado_id": 1803,
+			"pais_id": 103,
+			"estadonombre": "Esmeraldas"
+		},
+		{
+			"estado_id": 1804,
+			"pais_id": 103,
+			"estadonombre": "Guayas"
+		},
+		{
+			"estado_id": 1805,
+			"pais_id": 103,
+			"estadonombre": "Imbabura"
+		},
+		{
+			"estado_id": 1806,
+			"pais_id": 103,
+			"estadonombre": "Loja"
+		},
+		{
+			"estado_id": 1807,
+			"pais_id": 103,
+			"estadonombre": "Los Ríos"
+		},
+		{
+			"estado_id": 1808,
+			"pais_id": 103,
+			"estadonombre": "Manabí"
+		},
+		{
+			"estado_id": 1809,
+			"pais_id": 103,
+			"estadonombre": "Morona-Santiago"
+		},
+		{
+			"estado_id": 1810,
+			"pais_id": 103,
+			"estadonombre": "Pastaza"
+		},
+		{
+			"estado_id": 1811,
+			"pais_id": 103,
+			"estadonombre": "Pichincha"
+		},
+		{
+			"estado_id": 1812,
+			"pais_id": 103,
+			"estadonombre": "Tungurahua"
+		},
+		{
+			"estado_id": 1813,
+			"pais_id": 103,
+			"estadonombre": "Zamora-Chinchipe"
+		},
+		{
+			"estado_id": 1814,
+			"pais_id": 103,
+			"estadonombre": "Sucumbíos"
+		},
+		{
+			"estado_id": 1815,
+			"pais_id": 103,
+			"estadonombre": "Napo"
+		},
+		{
+			"estado_id": 1816,
+			"pais_id": 103,
+			"estadonombre": "Orellana"
+		},
+		{
+			"estado_id": 1818,
+			"pais_id": 5,
+			"estadonombre": "Buenos Aires"
+		},
+		{
+			"estado_id": 1819,
+			"pais_id": 5,
+			"estadonombre": "Catamarca"
+		},
+		{
+			"estado_id": 1820,
+			"pais_id": 5,
+			"estadonombre": "Chaco"
+		},
+		{
+			"estado_id": 1821,
+			"pais_id": 5,
+			"estadonombre": "Chubut"
+		},
+		{
+			"estado_id": 1822,
+			"pais_id": 5,
+			"estadonombre": "Córdoba"
+		},
+		{
+			"estado_id": 1823,
+			"pais_id": 5,
+			"estadonombre": "Corrientes"
+		},
+		{
+			"estado_id": 1824,
+			"pais_id": 5,
+			"estadonombre": "Distrito Federal"
+		},
+		{
+			"estado_id": 1825,
+			"pais_id": 5,
+			"estadonombre": "Entre Ríos"
+		},
+		{
+			"estado_id": 1826,
+			"pais_id": 5,
+			"estadonombre": "Formosa"
+		},
+		{
+			"estado_id": 1827,
+			"pais_id": 5,
+			"estadonombre": "Jujuy"
+		},
+		{
+			"estado_id": 1828,
+			"pais_id": 5,
+			"estadonombre": "La Pampa"
+		},
+		{
+			"estado_id": 1829,
+			"pais_id": 5,
+			"estadonombre": "La Rioja"
+		},
+		{
+			"estado_id": 1830,
+			"pais_id": 5,
+			"estadonombre": "Mendoza"
+		},
+		{
+			"estado_id": 1831,
+			"pais_id": 5,
+			"estadonombre": "Misiones"
+		},
+		{
+			"estado_id": 1832,
+			"pais_id": 5,
+			"estadonombre": "Neuquén"
+		},
+		{
+			"estado_id": 1833,
+			"pais_id": 5,
+			"estadonombre": "Río Negro"
+		},
+		{
+			"estado_id": 1834,
+			"pais_id": 5,
+			"estadonombre": "Salta"
+		},
+		{
+			"estado_id": 1835,
+			"pais_id": 5,
+			"estadonombre": "San Juan"
+		},
+		{
+			"estado_id": 1836,
+			"pais_id": 5,
+			"estadonombre": "San Luis"
+		},
+		{
+			"estado_id": 1837,
+			"pais_id": 5,
+			"estadonombre": "Santa Cruz"
+		},
+		{
+			"estado_id": 1838,
+			"pais_id": 5,
+			"estadonombre": "Santa Fe"
+		},
+		{
+			"estado_id": 1839,
+			"pais_id": 5,
+			"estadonombre": "Santiago del Estero"
+		},
+		{
+			"estado_id": 1840,
+			"pais_id": 5,
+			"estadonombre": "Tierra del Fuego"
+		},
+		{
+			"estado_id": 1841,
+			"pais_id": 5,
+			"estadonombre": "Tucumán"
+		},
+		{
+			"estado_id": 1843,
+			"pais_id": 95,
+			"estadonombre": "Amazonas"
+		},
+		{
+			"estado_id": 1844,
+			"pais_id": 95,
+			"estadonombre": "Anzoategui"
+		},
+		{
+			"estado_id": 1845,
+			"pais_id": 95,
+			"estadonombre": "Apure"
+		},
+		{
+			"estado_id": 1846,
+			"pais_id": 95,
+			"estadonombre": "Aragua"
+		},
+		{
+			"estado_id": 1847,
+			"pais_id": 95,
+			"estadonombre": "Barinas"
+		},
+		{
+			"estado_id": 1848,
+			"pais_id": 95,
+			"estadonombre": "Bolívar"
+		},
+		{
+			"estado_id": 1849,
+			"pais_id": 95,
+			"estadonombre": "Carabobo"
+		},
+		{
+			"estado_id": 1850,
+			"pais_id": 95,
+			"estadonombre": "Cojedes"
+		},
+		{
+			"estado_id": 1851,
+			"pais_id": 95,
+			"estadonombre": "Delta Amacuro"
+		},
+		{
+			"estado_id": 1852,
+			"pais_id": 95,
+			"estadonombre": "Falcón"
+		},
+		{
+			"estado_id": 1853,
+			"pais_id": 95,
+			"estadonombre": "Guárico"
+		},
+		{
+			"estado_id": 1854,
+			"pais_id": 95,
+			"estadonombre": "Lara"
+		},
+		{
+			"estado_id": 1855,
+			"pais_id": 95,
+			"estadonombre": "Mérida"
+		},
+		{
+			"estado_id": 1856,
+			"pais_id": 95,
+			"estadonombre": "Miranda"
+		},
+		{
+			"estado_id": 1857,
+			"pais_id": 95,
+			"estadonombre": "Monagas"
+		},
+		{
+			"estado_id": 1858,
+			"pais_id": 95,
+			"estadonombre": "Nueva Esparta"
+		},
+		{
+			"estado_id": 1859,
+			"pais_id": 95,
+			"estadonombre": "Portuguesa"
+		},
+		{
+			"estado_id": 1860,
+			"pais_id": 95,
+			"estadonombre": "Sucre"
+		},
+		{
+			"estado_id": 1861,
+			"pais_id": 95,
+			"estadonombre": "Táchira"
+		},
+		{
+			"estado_id": 1862,
+			"pais_id": 95,
+			"estadonombre": "Trujillo"
+		},
+		{
+			"estado_id": 1863,
+			"pais_id": 95,
+			"estadonombre": "Yaracuy"
+		},
+		{
+			"estado_id": 1864,
+			"pais_id": 95,
+			"estadonombre": "Zulia"
+		},
+		{
+			"estado_id": 1865,
+			"pais_id": 95,
+			"estadonombre": "Dependencias Federales"
+		},
+		{
+			"estado_id": 1866,
+			"pais_id": 95,
+			"estadonombre": "Distrito Federal"
+		},
+		{
+			"estado_id": 1867,
+			"pais_id": 95,
+			"estadonombre": "Vargas"
+		},
+		{
+			"estado_id": 1869,
+			"pais_id": 209,
+			"estadonombre": "Boaco"
+		},
+		{
+			"estado_id": 1870,
+			"pais_id": 209,
+			"estadonombre": "Carazo"
+		},
+		{
+			"estado_id": 1871,
+			"pais_id": 209,
+			"estadonombre": "Chinandega"
+		},
+		{
+			"estado_id": 1872,
+			"pais_id": 209,
+			"estadonombre": "Chontales"
+		},
+		{
+			"estado_id": 1873,
+			"pais_id": 209,
+			"estadonombre": "Estelí"
+		},
+		{
+			"estado_id": 1874,
+			"pais_id": 209,
+			"estadonombre": "Granada"
+		},
+		{
+			"estado_id": 1875,
+			"pais_id": 209,
+			"estadonombre": "Jinotega"
+		},
+		{
+			"estado_id": 1876,
+			"pais_id": 209,
+			"estadonombre": "León"
+		},
+		{
+			"estado_id": 1877,
+			"pais_id": 209,
+			"estadonombre": "Madriz"
+		},
+		{
+			"estado_id": 1878,
+			"pais_id": 209,
+			"estadonombre": "Managua"
+		},
+		{
+			"estado_id": 1879,
+			"pais_id": 209,
+			"estadonombre": "Masaya"
+		},
+		{
+			"estado_id": 1880,
+			"pais_id": 209,
+			"estadonombre": "Matagalpa"
+		},
+		{
+			"estado_id": 1881,
+			"pais_id": 209,
+			"estadonombre": "Nueva Segovia"
+		},
+		{
+			"estado_id": 1882,
+			"pais_id": 209,
+			"estadonombre": "Rio San Juan"
+		},
+		{
+			"estado_id": 1883,
+			"pais_id": 209,
+			"estadonombre": "Rivas"
+		},
+		{
+			"estado_id": 1884,
+			"pais_id": 209,
+			"estadonombre": "Zelaya"
+		},
+		{
+			"estado_id": 1886,
+			"pais_id": 113,
+			"estadonombre": "Pinar del Rio"
+		},
+		{
+			"estado_id": 1887,
+			"pais_id": 113,
+			"estadonombre": "Ciudad de la Habana"
+		},
+		{
+			"estado_id": 1888,
+			"pais_id": 113,
+			"estadonombre": "Matanzas"
+		},
+		{
+			"estado_id": 1889,
+			"pais_id": 113,
+			"estadonombre": "Isla de la Juventud"
+		},
+		{
+			"estado_id": 1890,
+			"pais_id": 113,
+			"estadonombre": "Camaguey"
+		},
+		{
+			"estado_id": 1891,
+			"pais_id": 113,
+			"estadonombre": "Ciego de Avila"
+		},
+		{
+			"estado_id": 1892,
+			"pais_id": 113,
+			"estadonombre": "Cienfuegos"
+		},
+		{
+			"estado_id": 1893,
+			"pais_id": 113,
+			"estadonombre": "Granma"
+		},
+		{
+			"estado_id": 1894,
+			"pais_id": 113,
+			"estadonombre": "Guantanamo"
+		},
+		{
+			"estado_id": 1895,
+			"pais_id": 113,
+			"estadonombre": "La Habana"
+		},
+		{
+			"estado_id": 1896,
+			"pais_id": 113,
+			"estadonombre": "Holguin"
+		},
+		{
+			"estado_id": 1897,
+			"pais_id": 113,
+			"estadonombre": "Las Tunas"
+		},
+		{
+			"estado_id": 1898,
+			"pais_id": 113,
+			"estadonombre": "Sancti Spiritus"
+		},
+		{
+			"estado_id": 1899,
+			"pais_id": 113,
+			"estadonombre": "Santiago de Cuba"
+		},
+		{
+			"estado_id": 1900,
+			"pais_id": 113,
+			"estadonombre": "Villa Clara"
+		},
+		{
+			"estado_id": 1901,
+			"pais_id": 12,
+			"estadonombre": "Acre"
+		},
+		{
+			"estado_id": 1902,
+			"pais_id": 12,
+			"estadonombre": "Alagoas"
+		},
+		{
+			"estado_id": 1903,
+			"pais_id": 12,
+			"estadonombre": "Amapa"
+		},
+		{
+			"estado_id": 1904,
+			"pais_id": 12,
+			"estadonombre": "Amazonas"
+		},
+		{
+			"estado_id": 1905,
+			"pais_id": 12,
+			"estadonombre": "Bahia"
+		},
+		{
+			"estado_id": 1906,
+			"pais_id": 12,
+			"estadonombre": "Ceara"
+		},
+		{
+			"estado_id": 1907,
+			"pais_id": 12,
+			"estadonombre": "Distrito Federal"
+		},
+		{
+			"estado_id": 1908,
+			"pais_id": 12,
+			"estadonombre": "Espirito Santo"
+		},
+		{
+			"estado_id": 1909,
+			"pais_id": 12,
+			"estadonombre": "Mato Grosso do Sul"
+		},
+		{
+			"estado_id": 1910,
+			"pais_id": 12,
+			"estadonombre": "Maranhao"
+		},
+		{
+			"estado_id": 1911,
+			"pais_id": 12,
+			"estadonombre": "Mato Grosso"
+		},
+		{
+			"estado_id": 1912,
+			"pais_id": 12,
+			"estadonombre": "Minas Gerais"
+		},
+		{
+			"estado_id": 1913,
+			"pais_id": 12,
+			"estadonombre": "Para"
+		},
+		{
+			"estado_id": 1914,
+			"pais_id": 12,
+			"estadonombre": "Paraiba"
+		},
+		{
+			"estado_id": 1915,
+			"pais_id": 12,
+			"estadonombre": "Parana"
+		},
+		{
+			"estado_id": 1916,
+			"pais_id": 12,
+			"estadonombre": "Piaui"
+		},
+		{
+			"estado_id": 1917,
+			"pais_id": 12,
+			"estadonombre": "Rio de Janeiro"
+		},
+		{
+			"estado_id": 1918,
+			"pais_id": 12,
+			"estadonombre": "Rio Grande do Norte"
+		},
+		{
+			"estado_id": 1919,
+			"pais_id": 12,
+			"estadonombre": "Rio Grande do Sul"
+		},
+		{
+			"estado_id": 1920,
+			"pais_id": 12,
+			"estadonombre": "Rondonia"
+		},
+		{
+			"estado_id": 1921,
+			"pais_id": 12,
+			"estadonombre": "Roraima"
+		},
+		{
+			"estado_id": 1922,
+			"pais_id": 12,
+			"estadonombre": "Santa Catarina"
+		},
+		{
+			"estado_id": 1923,
+			"pais_id": 12,
+			"estadonombre": "Sao Paulo"
+		},
+		{
+			"estado_id": 1924,
+			"pais_id": 12,
+			"estadonombre": "Sergipe"
+		},
+		{
+			"estado_id": 1925,
+			"pais_id": 12,
+			"estadonombre": "Goias"
+		},
+		{
+			"estado_id": 1926,
+			"pais_id": 12,
+			"estadonombre": "Pernambuco"
+		},
+		{
+			"estado_id": 1927,
+			"pais_id": 12,
+			"estadonombre": "Tocantins"
+		},
+		{
+			"estado_id": 1930,
+			"pais_id": 83,
+			"estadonombre": "Akureyri"
+		},
+		{
+			"estado_id": 1931,
+			"pais_id": 83,
+			"estadonombre": "Arnessysla"
+		},
+		{
+			"estado_id": 1932,
+			"pais_id": 83,
+			"estadonombre": "Austur-Bardastrandarsysla"
+		},
+		{
+			"estado_id": 1933,
+			"pais_id": 83,
+			"estadonombre": "Austur-Hunavatnssysla"
+		},
+		{
+			"estado_id": 1934,
+			"pais_id": 83,
+			"estadonombre": "Austur-Skaftafellssysla"
+		},
+		{
+			"estado_id": 1935,
+			"pais_id": 83,
+			"estadonombre": "Borgarfjardarsysla"
+		},
+		{
+			"estado_id": 1936,
+			"pais_id": 83,
+			"estadonombre": "Dalasysla"
+		},
+		{
+			"estado_id": 1937,
+			"pais_id": 83,
+			"estadonombre": "Eyjafjardarsysla"
+		},
+		{
+			"estado_id": 1938,
+			"pais_id": 83,
+			"estadonombre": "Gullbringusysla"
+		},
+		{
+			"estado_id": 1939,
+			"pais_id": 83,
+			"estadonombre": "Hafnarfjordur"
+		},
+		{
+			"estado_id": 1943,
+			"pais_id": 83,
+			"estadonombre": "Kjosarsysla"
+		},
+		{
+			"estado_id": 1944,
+			"pais_id": 83,
+			"estadonombre": "Kopavogur"
+		},
+		{
+			"estado_id": 1945,
+			"pais_id": 83,
+			"estadonombre": "Myrasysla"
+		},
+		{
+			"estado_id": 1946,
+			"pais_id": 83,
+			"estadonombre": "Neskaupstadur"
+		},
+		{
+			"estado_id": 1947,
+			"pais_id": 83,
+			"estadonombre": "Nordur-Isafjardarsysla"
+		},
+		{
+			"estado_id": 1948,
+			"pais_id": 83,
+			"estadonombre": "Nordur-Mulasysla"
+		},
+		{
+			"estado_id": 1949,
+			"pais_id": 83,
+			"estadonombre": "Nordur-Tingeyjarsysla"
+		},
+		{
+			"estado_id": 1950,
+			"pais_id": 83,
+			"estadonombre": "Olafsfjordur"
+		},
+		{
+			"estado_id": 1951,
+			"pais_id": 83,
+			"estadonombre": "Rangarvallasysla"
+		},
+		{
+			"estado_id": 1952,
+			"pais_id": 83,
+			"estadonombre": "Reykjavik"
+		},
+		{
+			"estado_id": 1953,
+			"pais_id": 83,
+			"estadonombre": "Saudarkrokur"
+		},
+		{
+			"estado_id": 1954,
+			"pais_id": 83,
+			"estadonombre": "Seydisfjordur"
+		},
+		{
+			"estado_id": 1956,
+			"pais_id": 83,
+			"estadonombre": "Skagafjardarsysla"
+		},
+		{
+			"estado_id": 1957,
+			"pais_id": 83,
+			"estadonombre": "Snafellsnes- og Hnappadalssysla"
+		},
+		{
+			"estado_id": 1958,
+			"pais_id": 83,
+			"estadonombre": "Strandasysla"
+		},
+		{
+			"estado_id": 1959,
+			"pais_id": 83,
+			"estadonombre": "Sudur-Mulasysla"
+		},
+		{
+			"estado_id": 1960,
+			"pais_id": 83,
+			"estadonombre": "Sudur-Tingeyjarsysla"
+		},
+		{
+			"estado_id": 1961,
+			"pais_id": 83,
+			"estadonombre": "Vestmannaeyjar"
+		},
+		{
+			"estado_id": 1962,
+			"pais_id": 83,
+			"estadonombre": "Vestur-Bardastrandarsysla"
+		},
+		{
+			"estado_id": 1964,
+			"pais_id": 83,
+			"estadonombre": "Vestur-Isafjardarsysla"
+		},
+		{
+			"estado_id": 1965,
+			"pais_id": 83,
+			"estadonombre": "Vestur-Skaftafellssysla"
+		},
+		{
+			"estado_id": 1966,
+			"pais_id": 35,
+			"estadonombre": "Anhui"
+		},
+		{
+			"estado_id": 1967,
+			"pais_id": 35,
+			"estadonombre": "Zhejiang"
+		},
+		{
+			"estado_id": 1968,
+			"pais_id": 35,
+			"estadonombre": "Jiangxi"
+		},
+		{
+			"estado_id": 1969,
+			"pais_id": 35,
+			"estadonombre": "Jiangsu"
+		},
+		{
+			"estado_id": 1970,
+			"pais_id": 35,
+			"estadonombre": "Jilin"
+		},
+		{
+			"estado_id": 1971,
+			"pais_id": 35,
+			"estadonombre": "Qinghai"
+		},
+		{
+			"estado_id": 1972,
+			"pais_id": 35,
+			"estadonombre": "Fujian"
+		},
+		{
+			"estado_id": 1973,
+			"pais_id": 35,
+			"estadonombre": "Heilongjiang"
+		},
+		{
+			"estado_id": 1974,
+			"pais_id": 35,
+			"estadonombre": "Henan"
+		},
+		{
+			"estado_id": 1975,
+			"pais_id": 35,
+			"estadonombre": "Hebei"
+		},
+		{
+			"estado_id": 1976,
+			"pais_id": 35,
+			"estadonombre": "Hunan"
+		},
+		{
+			"estado_id": 1977,
+			"pais_id": 35,
+			"estadonombre": "Hubei"
+		},
+		{
+			"estado_id": 1978,
+			"pais_id": 35,
+			"estadonombre": "Xinjiang"
+		},
+		{
+			"estado_id": 1979,
+			"pais_id": 35,
+			"estadonombre": "Xizang"
+		},
+		{
+			"estado_id": 1980,
+			"pais_id": 35,
+			"estadonombre": "Gansu"
+		},
+		{
+			"estado_id": 1981,
+			"pais_id": 35,
+			"estadonombre": "Guangxi"
+		},
+		{
+			"estado_id": 1982,
+			"pais_id": 35,
+			"estadonombre": "Guizhou"
+		},
+		{
+			"estado_id": 1983,
+			"pais_id": 35,
+			"estadonombre": "Liaoning"
+		},
+		{
+			"estado_id": 1984,
+			"pais_id": 35,
+			"estadonombre": "Nei Mongol"
+		},
+		{
+			"estado_id": 1985,
+			"pais_id": 35,
+			"estadonombre": "Ningxia"
+		},
+		{
+			"estado_id": 1986,
+			"pais_id": 35,
+			"estadonombre": "Beijing"
+		},
+		{
+			"estado_id": 1987,
+			"pais_id": 35,
+			"estadonombre": "Shanghai"
+		},
+		{
+			"estado_id": 1988,
+			"pais_id": 35,
+			"estadonombre": "Shanxi"
+		},
+		{
+			"estado_id": 1989,
+			"pais_id": 35,
+			"estadonombre": "Shandong"
+		},
+		{
+			"estado_id": 1990,
+			"pais_id": 35,
+			"estadonombre": "Shaanxi"
+		},
+		{
+			"estado_id": 1991,
+			"pais_id": 35,
+			"estadonombre": "Sichuan"
+		},
+		{
+			"estado_id": 1992,
+			"pais_id": 35,
+			"estadonombre": "Tianjin"
+		},
+		{
+			"estado_id": 1993,
+			"pais_id": 35,
+			"estadonombre": "Yunnan"
+		},
+		{
+			"estado_id": 1994,
+			"pais_id": 35,
+			"estadonombre": "Guangdong"
+		},
+		{
+			"estado_id": 1995,
+			"pais_id": 35,
+			"estadonombre": "Hainan"
+		},
+		{
+			"estado_id": 1996,
+			"pais_id": 35,
+			"estadonombre": "Chongqing"
+		},
+		{
+			"estado_id": 1997,
+			"pais_id": 97,
+			"estadonombre": "Central"
+		},
+		{
+			"estado_id": 1998,
+			"pais_id": 97,
+			"estadonombre": "Coast"
+		},
+		{
+			"estado_id": 1999,
+			"pais_id": 97,
+			"estadonombre": "Eastern"
+		},
+		{
+			"estado_id": 2000,
+			"pais_id": 97,
+			"estadonombre": "Nairobi Area"
+		},
+		{
+			"estado_id": 2001,
+			"pais_id": 97,
+			"estadonombre": "North-Eastern"
+		},
+		{
+			"estado_id": 2002,
+			"pais_id": 97,
+			"estadonombre": "Nyanza"
+		},
+		{
+			"estado_id": 2003,
+			"pais_id": 97,
+			"estadonombre": "Rift Valley"
+		},
+		{
+			"estado_id": 2004,
+			"pais_id": 97,
+			"estadonombre": "Western"
+		},
+		{
+			"estado_id": 2006,
+			"pais_id": 195,
+			"estadonombre": "Gilbert Islands"
+		},
+		{
+			"estado_id": 2007,
+			"pais_id": 195,
+			"estadonombre": "Line Islands"
+		},
+		{
+			"estado_id": 2008,
+			"pais_id": 195,
+			"estadonombre": "Phoenix Islands"
+		},
+		{
+			"estado_id": 2010,
+			"pais_id": 1,
+			"estadonombre": "Australian Capital Territory"
+		},
+		{
+			"estado_id": 2011,
+			"pais_id": 1,
+			"estadonombre": "New South Wales"
+		},
+		{
+			"estado_id": 2012,
+			"pais_id": 1,
+			"estadonombre": "Northern Territory"
+		},
+		{
+			"estado_id": 2013,
+			"pais_id": 1,
+			"estadonombre": "Queensland"
+		},
+		{
+			"estado_id": 2014,
+			"pais_id": 1,
+			"estadonombre": "South Australia"
+		},
+		{
+			"estado_id": 2015,
+			"pais_id": 1,
+			"estadonombre": "Tasmania"
+		},
+		{
+			"estado_id": 2016,
+			"pais_id": 1,
+			"estadonombre": "Victoria"
+		},
+		{
+			"estado_id": 2017,
+			"pais_id": 1,
+			"estadonombre": "Western Australia"
+		},
+		{
+			"estado_id": 2018,
+			"pais_id": 27,
+			"estadonombre": "Dublin"
+		},
+		{
+			"estado_id": 2019,
+			"pais_id": 27,
+			"estadonombre": "Galway"
+		},
+		{
+			"estado_id": 2020,
+			"pais_id": 27,
+			"estadonombre": "Kildare"
+		},
+		{
+			"estado_id": 2021,
+			"pais_id": 27,
+			"estadonombre": "Leitrim"
+		},
+		{
+			"estado_id": 2022,
+			"pais_id": 27,
+			"estadonombre": "Limerick"
+		},
+		{
+			"estado_id": 2023,
+			"pais_id": 27,
+			"estadonombre": "Mayo"
+		},
+		{
+			"estado_id": 2024,
+			"pais_id": 27,
+			"estadonombre": "Meath"
+		},
+		{
+			"estado_id": 2025,
+			"pais_id": 27,
+			"estadonombre": "Carlow"
+		},
+		{
+			"estado_id": 2026,
+			"pais_id": 27,
+			"estadonombre": "Kilkenny"
+		},
+		{
+			"estado_id": 2027,
+			"pais_id": 27,
+			"estadonombre": "Laois"
+		},
+		{
+			"estado_id": 2028,
+			"pais_id": 27,
+			"estadonombre": "Longford"
+		},
+		{
+			"estado_id": 2029,
+			"pais_id": 27,
+			"estadonombre": "Louth"
+		},
+		{
+			"estado_id": 2030,
+			"pais_id": 27,
+			"estadonombre": "Offaly"
+		},
+		{
+			"estado_id": 2031,
+			"pais_id": 27,
+			"estadonombre": "Westmeath"
+		},
+		{
+			"estado_id": 2032,
+			"pais_id": 27,
+			"estadonombre": "Wexford"
+		},
+		{
+			"estado_id": 2033,
+			"pais_id": 27,
+			"estadonombre": "Wicklow"
+		},
+		{
+			"estado_id": 2034,
+			"pais_id": 27,
+			"estadonombre": "Roscommon"
+		},
+		{
+			"estado_id": 2035,
+			"pais_id": 27,
+			"estadonombre": "Sligo"
+		},
+		{
+			"estado_id": 2036,
+			"pais_id": 27,
+			"estadonombre": "Clare"
+		},
+		{
+			"estado_id": 2037,
+			"pais_id": 27,
+			"estadonombre": "Cork"
+		},
+		{
+			"estado_id": 2038,
+			"pais_id": 27,
+			"estadonombre": "Kerry"
+		},
+		{
+			"estado_id": 2039,
+			"pais_id": 27,
+			"estadonombre": "Tipperary"
+		},
+		{
+			"estado_id": 2040,
+			"pais_id": 27,
+			"estadonombre": "Waterford"
+		},
+		{
+			"estado_id": 2041,
+			"pais_id": 27,
+			"estadonombre": "Cavan"
+		},
+		{
+			"estado_id": 2042,
+			"pais_id": 27,
+			"estadonombre": "Donegal"
+		},
+		{
+			"estado_id": 2043,
+			"pais_id": 27,
+			"estadonombre": "Monaghan"
+		},
+		{
+			"estado_id": 2044,
+			"pais_id": 50,
+			"estadonombre": "Karachaeva-Cherkesskaya Respublica"
+		},
+		{
+			"estado_id": 2045,
+			"pais_id": 50,
+			"estadonombre": "Raimirskii (Dolgano-Nenetskii) AO"
+		},
+		{
+			"estado_id": 2046,
+			"pais_id": 50,
+			"estadonombre": "Respublica Tiva"
+		},
+		{
+			"estado_id": 2047,
+			"pais_id": 32,
+			"estadonombre": "Newfoundland"
+		},
+		{
+			"estado_id": 2048,
+			"pais_id": 32,
+			"estadonombre": "Nova Scotia"
+		},
+		{
+			"estado_id": 2049,
+			"pais_id": 32,
+			"estadonombre": "Prince Edward Island"
+		},
+		{
+			"estado_id": 2050,
+			"pais_id": 32,
+			"estadonombre": "New Brunswick"
+		},
+		{
+			"estado_id": 2051,
+			"pais_id": 32,
+			"estadonombre": "Quebec"
+		},
+		{
+			"estado_id": 2052,
+			"pais_id": 32,
+			"estadonombre": "Ontario"
+		},
+		{
+			"estado_id": 2053,
+			"pais_id": 32,
+			"estadonombre": "Manitoba"
+		},
+		{
+			"estado_id": 2054,
+			"pais_id": 32,
+			"estadonombre": "Saskatchewan"
+		},
+		{
+			"estado_id": 2055,
+			"pais_id": 32,
+			"estadonombre": "Alberta"
+		},
+		{
+			"estado_id": 2056,
+			"pais_id": 32,
+			"estadonombre": "British Columbia"
+		},
+		{
+			"estado_id": 2057,
+			"pais_id": 32,
+			"estadonombre": "Nunavut"
+		},
+		{
+			"estado_id": 2058,
+			"pais_id": 32,
+			"estadonombre": "Northwest Territories"
+		},
+		{
+			"estado_id": 2059,
+			"pais_id": 32,
+			"estadonombre": "Yukon Territory"
+		},
+		{
+			"estado_id": 2060,
+			"pais_id": 19,
+			"estadonombre": "Drenthe"
+		},
+		{
+			"estado_id": 2061,
+			"pais_id": 19,
+			"estadonombre": "Friesland"
+		},
+		{
+			"estado_id": 2062,
+			"pais_id": 19,
+			"estadonombre": "Gelderland"
+		},
+		{
+			"estado_id": 2063,
+			"pais_id": 19,
+			"estadonombre": "Groningen"
+		},
+		{
+			"estado_id": 2064,
+			"pais_id": 19,
+			"estadonombre": "Limburg"
+		},
+		{
+			"estado_id": 2065,
+			"pais_id": 19,
+			"estadonombre": "Noord-Brabant"
+		},
+		{
+			"estado_id": 2066,
+			"pais_id": 19,
+			"estadonombre": "Noord-Holland"
+		},
+		{
+			"estado_id": 2067,
+			"pais_id": 19,
+			"estadonombre": "Utrecht"
+		},
+		{
+			"estado_id": 2068,
+			"pais_id": 19,
+			"estadonombre": "Zeeland"
+		},
+		{
+			"estado_id": 2069,
+			"pais_id": 19,
+			"estadonombre": "Zuid-Holland"
+		},
+		{
+			"estado_id": 2071,
+			"pais_id": 19,
+			"estadonombre": "Overijssel"
+		},
+		{
+			"estado_id": 2072,
+			"pais_id": 19,
+			"estadonombre": "Flevoland"
+		},
+		{
+			"estado_id": 2073,
+			"pais_id": 138,
+			"estadonombre": "Duarte"
+		},
+		{
+			"estado_id": 2074,
+			"pais_id": 138,
+			"estadonombre": "Puerto Plata"
+		},
+		{
+			"estado_id": 2075,
+			"pais_id": 138,
+			"estadonombre": "Valverde"
+		},
+		{
+			"estado_id": 2076,
+			"pais_id": 138,
+			"estadonombre": "María Trinidad Sánchez"
+		},
+		{
+			"estado_id": 2077,
+			"pais_id": 138,
+			"estadonombre": "Azua"
+		},
+		{
+			"estado_id": 2078,
+			"pais_id": 138,
+			"estadonombre": "Santiago"
+		},
+		{
+			"estado_id": 2079,
+			"pais_id": 138,
+			"estadonombre": "San Cristóbal"
+		},
+		{
+			"estado_id": 2080,
+			"pais_id": 138,
+			"estadonombre": "Peravia"
+		},
+		{
+			"estado_id": 2081,
+			"pais_id": 138,
+			"estadonombre": "Elías Piña"
+		},
+		{
+			"estado_id": 2082,
+			"pais_id": 138,
+			"estadonombre": "Barahona"
+		},
+		{
+			"estado_id": 2083,
+			"pais_id": 138,
+			"estadonombre": "Monte Plata"
+		},
+		{
+			"estado_id": 2084,
+			"pais_id": 138,
+			"estadonombre": "Salcedo"
+		},
+		{
+			"estado_id": 2085,
+			"pais_id": 138,
+			"estadonombre": "La Altagracia"
+		},
+		{
+			"estado_id": 2086,
+			"pais_id": 138,
+			"estadonombre": "San Juan"
+		},
+		{
+			"estado_id": 2087,
+			"pais_id": 138,
+			"estadonombre": "Monseñor Nouel"
+		},
+		{
+			"estado_id": 2088,
+			"pais_id": 138,
+			"estadonombre": "Monte Cristi"
+		},
+		{
+			"estado_id": 2089,
+			"pais_id": 138,
+			"estadonombre": "Espaillat"
+		},
+		{
+			"estado_id": 2090,
+			"pais_id": 138,
+			"estadonombre": "Sánchez Ramírez"
+		},
+		{
+			"estado_id": 2091,
+			"pais_id": 138,
+			"estadonombre": "La Vega"
+		},
+		{
+			"estado_id": 2092,
+			"pais_id": 138,
+			"estadonombre": "San Pedro de Macorís"
+		},
+		{
+			"estado_id": 2093,
+			"pais_id": 138,
+			"estadonombre": "Independencia"
+		},
+		{
+			"estado_id": 2094,
+			"pais_id": 138,
+			"estadonombre": "Dajabón"
+		},
+		{
+			"estado_id": 2095,
+			"pais_id": 138,
+			"estadonombre": "Baoruco"
+		},
+		{
+			"estado_id": 2096,
+			"pais_id": 138,
+			"estadonombre": "El Seibo"
+		},
+		{
+			"estado_id": 2097,
+			"pais_id": 138,
+			"estadonombre": "Hato Mayor"
+		},
+		{
+			"estado_id": 2098,
+			"pais_id": 138,
+			"estadonombre": "La Romana"
+		},
+		{
+			"estado_id": 2099,
+			"pais_id": 138,
+			"estadonombre": "Pedernales"
+		},
+		{
+			"estado_id": 2100,
+			"pais_id": 138,
+			"estadonombre": "Samaná"
+		},
+		{
+			"estado_id": 2101,
+			"pais_id": 138,
+			"estadonombre": "Santiago Rodríguez"
+		},
+		{
+			"estado_id": 2102,
+			"pais_id": 138,
+			"estadonombre": "San José de Ocoa"
+		},
+		{
+			"estado_id": 2103,
+			"pais_id": 70,
+			"estadonombre": "Chiba"
+		},
+		{
+			"estado_id": 2104,
+			"pais_id": 70,
+			"estadonombre": "Ehime"
+		},
+		{
+			"estado_id": 2105,
+			"pais_id": 70,
+			"estadonombre": "Oita"
+		},
+		{
+			"estado_id": 2106,
+			"pais_id": 85,
+			"estadonombre": "Skopje"
+		},
+		{
+			"estado_id": 2108,
+			"pais_id": 35,
+			"estadonombre": "Schanghai"
+		},
+		{
+			"estado_id": 2109,
+			"pais_id": 35,
+			"estadonombre": "Hongkong"
+		},
+		{
+			"estado_id": 2110,
+			"pais_id": 35,
+			"estadonombre": "Neimenggu"
+		},
+		{
+			"estado_id": 2111,
+			"pais_id": 35,
+			"estadonombre": "Aomen"
+		},
+		{
+			"estado_id": 2112,
+			"pais_id": 92,
+			"estadonombre": "Amnat Charoen"
+		},
+		{
+			"estado_id": 2113,
+			"pais_id": 92,
+			"estadonombre": "Ang Thong"
+		},
+		{
+			"estado_id": 2114,
+			"pais_id": 92,
+			"estadonombre": "Bangkok"
+		},
+		{
+			"estado_id": 2115,
+			"pais_id": 92,
+			"estadonombre": "Buri Ram"
+		},
+		{
+			"estado_id": 2116,
+			"pais_id": 92,
+			"estadonombre": "Chachoengsao"
+		},
+		{
+			"estado_id": 2117,
+			"pais_id": 92,
+			"estadonombre": "Chai Nat"
+		},
+		{
+			"estado_id": 2118,
+			"pais_id": 92,
+			"estadonombre": "Chaiyaphum"
+		},
+		{
+			"estado_id": 2119,
+			"pais_id": 92,
+			"estadonombre": "Chanthaburi"
+		},
+		{
+			"estado_id": 2120,
+			"pais_id": 92,
+			"estadonombre": "Chiang Mai"
+		},
+		{
+			"estado_id": 2121,
+			"pais_id": 92,
+			"estadonombre": "Chiang Rai"
+		},
+		{
+			"estado_id": 2122,
+			"pais_id": 92,
+			"estadonombre": "Chon Buri"
+		},
+		{
+			"estado_id": 2124,
+			"pais_id": 92,
+			"estadonombre": "Kalasin"
+		},
+		{
+			"estado_id": 2126,
+			"pais_id": 92,
+			"estadonombre": "Kanchanaburi"
+		},
+		{
+			"estado_id": 2127,
+			"pais_id": 92,
+			"estadonombre": "Khon Kaen"
+		},
+		{
+			"estado_id": 2128,
+			"pais_id": 92,
+			"estadonombre": "Krabi"
+		},
+		{
+			"estado_id": 2129,
+			"pais_id": 92,
+			"estadonombre": "Lampang"
+		},
+		{
+			"estado_id": 2131,
+			"pais_id": 92,
+			"estadonombre": "Loei"
+		},
+		{
+			"estado_id": 2132,
+			"pais_id": 92,
+			"estadonombre": "Lop Buri"
+		},
+		{
+			"estado_id": 2133,
+			"pais_id": 92,
+			"estadonombre": "Mae Hong Son"
+		},
+		{
+			"estado_id": 2134,
+			"pais_id": 92,
+			"estadonombre": "Maha Sarakham"
+		},
+		{
+			"estado_id": 2137,
+			"pais_id": 92,
+			"estadonombre": "Nakhon Pathom"
+		},
+		{
+			"estado_id": 2139,
+			"pais_id": 92,
+			"estadonombre": "Nakhon Ratchasima"
+		},
+		{
+			"estado_id": 2140,
+			"pais_id": 92,
+			"estadonombre": "Nakhon Sawan"
+		},
+		{
+			"estado_id": 2141,
+			"pais_id": 92,
+			"estadonombre": "Nakhon Si Thammarat"
+		},
+		{
+			"estado_id": 2143,
+			"pais_id": 92,
+			"estadonombre": "Narathiwat"
+		},
+		{
+			"estado_id": 2144,
+			"pais_id": 92,
+			"estadonombre": "Nong Bua Lam Phu"
+		},
+		{
+			"estado_id": 2145,
+			"pais_id": 92,
+			"estadonombre": "Nong Khai"
+		},
+		{
+			"estado_id": 2146,
+			"pais_id": 92,
+			"estadonombre": "Nonthaburi"
+		},
+		{
+			"estado_id": 2147,
+			"pais_id": 92,
+			"estadonombre": "Pathum Thani"
+		},
+		{
+			"estado_id": 2148,
+			"pais_id": 92,
+			"estadonombre": "Pattani"
+		},
+		{
+			"estado_id": 2149,
+			"pais_id": 92,
+			"estadonombre": "Phangnga"
+		},
+		{
+			"estado_id": 2150,
+			"pais_id": 92,
+			"estadonombre": "Phatthalung"
+		},
+		{
+			"estado_id": 2154,
+			"pais_id": 92,
+			"estadonombre": "Phichit"
+		},
+		{
+			"estado_id": 2155,
+			"pais_id": 92,
+			"estadonombre": "Phitsanulok"
+		},
+		{
+			"estado_id": 2156,
+			"pais_id": 92,
+			"estadonombre": "Phra Nakhon Si Ayutthaya"
+		},
+		{
+			"estado_id": 2157,
+			"pais_id": 92,
+			"estadonombre": "Phrae"
+		},
+		{
+			"estado_id": 2158,
+			"pais_id": 92,
+			"estadonombre": "Phuket"
+		},
+		{
+			"estado_id": 2159,
+			"pais_id": 92,
+			"estadonombre": "Prachin Buri"
+		},
+		{
+			"estado_id": 2160,
+			"pais_id": 92,
+			"estadonombre": "Prachuap Khiri Khan"
+		},
+		{
+			"estado_id": 2162,
+			"pais_id": 92,
+			"estadonombre": "Ratchaburi"
+		},
+		{
+			"estado_id": 2163,
+			"pais_id": 92,
+			"estadonombre": "Rayong"
+		},
+		{
+			"estado_id": 2164,
+			"pais_id": 92,
+			"estadonombre": "Roi Et"
+		},
+		{
+			"estado_id": 2165,
+			"pais_id": 92,
+			"estadonombre": "Sa Kaeo"
+		},
+		{
+			"estado_id": 2166,
+			"pais_id": 92,
+			"estadonombre": "Sakon Nakhon"
+		},
+		{
+			"estado_id": 2167,
+			"pais_id": 92,
+			"estadonombre": "Samut Prakan"
+		},
+		{
+			"estado_id": 2168,
+			"pais_id": 92,
+			"estadonombre": "Samut Sakhon"
+		},
+		{
+			"estado_id": 2169,
+			"pais_id": 92,
+			"estadonombre": "Samut Songkhran"
+		},
+		{
+			"estado_id": 2170,
+			"pais_id": 92,
+			"estadonombre": "Saraburi"
+		},
+		{
+			"estado_id": 2172,
+			"pais_id": 92,
+			"estadonombre": "Si Sa Ket"
+		},
+		{
+			"estado_id": 2173,
+			"pais_id": 92,
+			"estadonombre": "Sing Buri"
+		},
+		{
+			"estado_id": 2174,
+			"pais_id": 92,
+			"estadonombre": "Songkhla"
+		},
+		{
+			"estado_id": 2175,
+			"pais_id": 92,
+			"estadonombre": "Sukhothai"
+		},
+		{
+			"estado_id": 2176,
+			"pais_id": 92,
+			"estadonombre": "Suphan Buri"
+		},
+		{
+			"estado_id": 2177,
+			"pais_id": 92,
+			"estadonombre": "Surat Thani"
+		},
+		{
+			"estado_id": 2178,
+			"pais_id": 92,
+			"estadonombre": "Surin"
+		},
+		{
+			"estado_id": 2180,
+			"pais_id": 92,
+			"estadonombre": "Trang"
+		},
+		{
+			"estado_id": 2182,
+			"pais_id": 92,
+			"estadonombre": "Ubon Ratchathani"
+		},
+		{
+			"estado_id": 2183,
+			"pais_id": 92,
+			"estadonombre": "Udon Thani"
+		},
+		{
+			"estado_id": 2184,
+			"pais_id": 92,
+			"estadonombre": "Uthai Thani"
+		},
+		{
+			"estado_id": 2185,
+			"pais_id": 92,
+			"estadonombre": "Uttaradit"
+		},
+		{
+			"estado_id": 2186,
+			"pais_id": 92,
+			"estadonombre": "Yala"
+		},
+		{
+			"estado_id": 2187,
+			"pais_id": 92,
+			"estadonombre": "Yasothon"
+		},
+		{
+			"estado_id": 2188,
+			"pais_id": 69,
+			"estadonombre": "Busan"
+		},
+		{
+			"estado_id": 2189,
+			"pais_id": 69,
+			"estadonombre": "Daegu"
+		},
+		{
+			"estado_id": 2191,
+			"pais_id": 69,
+			"estadonombre": "Gangwon"
+		},
+		{
+			"estado_id": 2192,
+			"pais_id": 69,
+			"estadonombre": "Gwangju"
+		},
+		{
+			"estado_id": 2193,
+			"pais_id": 69,
+			"estadonombre": "Gyeonggi"
+		},
+		{
+			"estado_id": 2194,
+			"pais_id": 69,
+			"estadonombre": "Gyeongsangbuk"
+		},
+		{
+			"estado_id": 2195,
+			"pais_id": 69,
+			"estadonombre": "Gyeongsangnam"
+		},
+		{
+			"estado_id": 2196,
+			"pais_id": 69,
+			"estadonombre": "Jeju"
+		},
+		{
+			"estado_id": 2201,
+			"pais_id": 25,
+			"estadonombre": "Delhi"
+		},
+		{
+			"estado_id": 2202,
+			"pais_id": 82,
+			"estadonombre": "Bolivar"
+		},
+		{
+			"estado_id": 2203,
+			"pais_id": 82,
+			"estadonombre": "Boyacá"
+		}
+	]
+}

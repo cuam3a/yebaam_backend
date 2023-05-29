@@ -12,17 +12,19 @@ class SendMail {
 
                 const transporter = nodemailer.createTransport({
                     // host: 'smtpout.secureserver.net',
-                    host: 'smtp.gmail.com',
-                    port: 465,
-                    secureConnection: true,
-                    tls: {
-                        ciphers: 'SSLv3'
-                    },
+                    //host: 'smtp.gmail.com',
+                    //port: 465,
+                    //secureConnection: true,
+                    //tls: {
+                    //    ciphers: 'SSLv3'
+                    //},
+                    service: 'Godaddy',
+                    secureConnection: false,
                     auth: auth
                 });
 
                 const mailOptions = {
-                    from: "tudotspot@gmail.com", // sender address
+                    from: auth.user, // sender address
                     to: infomailUser.email, // list of receivers
                     subject: "Petición de registro", // Subject line
                     html: `

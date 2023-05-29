@@ -195,6 +195,7 @@ class LoginController {
                 } else {
                     const admin = await usersAdministratorsModel.findOne({ email: body.email })
                     if (admin) {
+                        //TODO encriptar password
                         bcrypt.compareSync(body.password, admin.password) ? rta = admin : rtaError = ConstantsRS.INCORRECT_PASSWORD
                         rtaError ? success = false : success = true
                         rta ? token = await middlewares.createOnlyToken(admin) : token
@@ -543,6 +544,17 @@ class LoginController {
         try {
             const emailSent = await loginServices.sendCode(infoVerificationToEmail)
             res.send(emailSent)
+        } catch (error) {
+            console.log(error)
+        }
+    }
+
+    public async loginUser(req: Request, res: Response) {
+        try {
+            const { email, password } = req.body
+            const login = await loginServices.loginUserService({email,password});
+            console.log(login)
+            res.send(login)
         } catch (error) {
             console.log(error)
         }

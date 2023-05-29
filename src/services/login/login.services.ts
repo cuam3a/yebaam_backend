@@ -3,6 +3,7 @@ import { ConstantsRS } from '../../utils/constants';
 import { similarServices } from '../similarservices/similar.services';
 import { verificationCodeGenerator } from '../../controllers/utils/functions/verificationCode';
 import { InfotoEmail } from '../../controllers/utils/interfaces/infoToEmail.interface';
+import { LoginType } from '../../type';
 import { sendEmail } from '../../controllers/utils/functions/sendEmail';
 const userModel = require('../../models/user/Users.model');
 const trademarkModel = require('../../models/trademarks/Trademarks.model');
@@ -234,6 +235,23 @@ class LoginServices {
                     data: null
                 }
             });
+    }
+
+    public async loginUserService(data: LoginType){
+        const checkIs = await userModel.findOne({ email: data.email, password: data.password, isEnabled: true });
+        if (!checkIs){
+            return {
+                error: { ...ConstantsRS.ERROR_TO_SEND_EMAIL },
+                success: false,
+                data: null
+            }
+        };
+      
+        return {
+            error: null,
+            success: true,
+            data: checkIs
+        }
     }
 }
 

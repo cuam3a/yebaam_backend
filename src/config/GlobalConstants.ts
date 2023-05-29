@@ -13,8 +13,8 @@ export class GlobalConstants {
     static REFRESH_TOKEN_LIFE: Number = 31557600
     static portV = Number(process.env.PORT) || 8080;
     static MERCADO_URL = "https://api.mercadopago.com/checkout";
-    static API_TUDOTSPOT_URL = 'https://apitodot.tudotspot.com/api';
-    static DOMAIN_TUDOTSPOT_URL = 'https://tudotspot.com';
+    static API_TUDOTSPOT_URL = 'https://31.220.63.117:8080/api';
+    static DOMAIN_TUDOTSPOT_URL = 'https://yebaam.com';
 
     static ACCESS_TOKEN_MERCADO = "TEST-5292877914483657-121715-732ea590c10e2e272a0f8e0c0fa047e0-288905531";
     static URL_BASE_API_MX = "https://api-sepomex.hckdrk.mx/query/";

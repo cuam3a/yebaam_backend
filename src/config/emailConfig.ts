@@ -1,5 +1,5 @@
 export const auth = {
-    user: "ceotictcsd@gmail.com",
+    user: "jimcano@yebaam.com",
     //pass: "Ceo2020Tic"
-    pass: "uakugxyeirompezq"
+    pass: "sinlibretopopayan2"
 }
